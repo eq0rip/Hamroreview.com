@@ -1,0 +1,2 @@
+[06-Feb-2015 10:41:50 UTC] PHP Warning:  require_once(/home/hamrorev/public_html/wp-content/themes/YouMag/option-tree/ot-loader.php): failed to open stream: No such file or directory in /home/hamrorev/public_html/wp-includes/template.php on line 501
+[06-Feb-2015 10:41:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hamrorev/public_html/wp-content/themes/YouMag/option-tree/ot-loader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hamrorev/public_html/wp-includes/template.php on line 501

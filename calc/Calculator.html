@@ -1,0 +1,185 @@
+<html>
+<head>
+<script type="text/javascript">
+var currentChar='';
+var currentNum=0;
+var lastAnsChar='';
+var lastAns=0;
+var op='';
+function calc(num,type)
+{
+if((type=='o'))
+	{ 
+				
+		if(num=='=')
+			 {
+		   lastAns=parseFloat(lastAnsChar,5);
+		   currentNum=parseFloat(currentChar,5);
+		   if(op=='+')
+		   			{
+		   					lastAns+=currentNum;
+		   			}
+		   else if(op=='-')
+		   			{
+		   					lastAns-=currentNum;
+		   			}
+		   else if(op=='/')
+		   			{
+		   					lastAns/=currentNum;
+		   					
+		   			}
+		   else if(op=='*')
+		   			{
+		   					lastAns=lastAns*currentNum;
+		   					
+		   			}
+		   
+		   
+				document.getElementById('anss').innerHTML=lastAns;
+				lastAnsChar=lastAns;
+				op='=';
+				lastAns=0;
+				currentAns=0;
+				}
+		else if	(currentChar!='' && lastAnsChar!='')
+						{
+								op=num;
+								currentChar='';
+								document.getElementById('ans').innerHTML=lastAnsChar+op;
+						}
+		else
+				{
+				op=num;
+				document.getElementById('ans').innerHTML=lastAnsChar+op;
+				}
+	}
+				
+else if(type=='v')
+	{
+    
+     if(op=='=')
+     	{
+     			lastAnsChar='';
+     			currentChar='';
+     			op='';
+     	}
+     
+			 if(op=='')
+						{ if(num=='c'){return;}
+							lastAnsChar+=num;
+							document.getElementById('ans').innerHTML=lastAnsChar;
+						}
+					else if(op!='')
+						{
+								currentChar+=num;
+								document.getElementById('ans').innerHTML=lastAnsChar+op+currentChar;
+								
+						}
+			
+			
+	}
+
+}
+</script>
+<style>
+div
+			{
+					border-radius:25px;
+			}
+		
+#ans{
+						height:50px;
+						width:auto;
+				   font-size:50px;
+				   text-align:right;
+				   border-bottom:0px;
+						border-style:inset;
+						background-color:#C0C0C0;
+						overflow:hidden;
+				}
+#anss{
+						height:50px;
+						width:auto;
+						font-size:60px;
+						text-align:right;
+						border-top:0px:
+						border-style:outset;
+						background-color:#F0F0F0;
+						overflow:hidden;
+				}				
+#main{
+						height:auto;
+						width:55%;
+						background-color:#9be5ff;
+						margin-left:200px;
+						margin-top:100px;
+						
+  
+      }  
+ 
+.pad{
+     font-size:50px;
+     height:75px;
+     width:90px;
+     margin:5px 5px 5px 5px;
+     background-color:#ffffff;
+     padding-top:10px;
+     text-align:center;
+     line-height:40px:
+     }
+.add{
+     font-size:50px;
+     height:200px;
+     width:90px;
+     margin:5px 5px 5px 5px;
+     background-color:#ffffff;
+     padding-top:10px;
+     text-align:center;
+     line-height:40px:
+     float:left;
+     }     
+.dial button{
+          align:right;
+          margin:0px 0px 0px 1.2px;
+          height:auto;
+          margin-top:5px;
+          border-radius:20px;
+    
+         }  
+.dial
+   { margin-top:10px;
+     padding-left:10px;
+     position:relative;
+   }   
+       	
+</style>
+</head>
+<body>
+<div id='main'>
+
+
+<div id='ans'></div>
+<div id='anss'>0.0</div>
+<div class='dial'>
+
+<button type="button" value="9" onclick="calc('9','v')"/><div class='pad'>9</div></button>
+<button type="hidden" value="8" onclick="calc('8','v')"/><div class='pad'>8</div></button>
+<button type="button" value="7" onclick="calc('7','v')"/><div class='pad'>7</div></button>
+<button type="button" value="/" onclick="calc('/','o')"/><div class='pad'>/</div></button></br>
+<button type="button" value="6" onclick="calc('6','v')"/><div class='pad'>6</div></button>
+<button type="button" value="5" onclick="calc('5','v')"/><div class='pad'>5</div></button>
+<button type="button" value="4" onclick="calc('4','v')"/><div class='pad'>4</div></button>
+<button type="button" value="*" onclick="calc('*','o')"/><div class='pad'>X</div></button><br/>
+<button type="button" value="3" onclick="calc('3','v')"/><div class='pad'>3</div></button>
+<button type="button" value="2" onclick="calc('2','v')"/><div class='pad'>2</div></button>
+<button type="button" value="1" onclick="calc('1','v')"/><div class='pad'>1</div></button>
+<button type="button" value="c" onclick="calc('c','v')"/><div class='pad'>C</div></button><br/>
+<button type="button" value="+" onclick="calc('+','o')"/><div class='add'>+</div></button>
+<button type="button" value="0" onclick="calc('0','v')"/><div class='pad'>0</div></button>
+<button type="button" value="-" onclick="calc('-','o')"/><div class='pad'>-</div></button>
+<button type="button" value="=" onclick="calc('=','o')"/><div class='pad'>=</div></button><br/>
+<button type='button' value='.' style="margin-left:200px"onclick="calc('.','v')"/><div class='pad'>.</div></button>
+</div>
+</DIV>
+</body>
+</html>

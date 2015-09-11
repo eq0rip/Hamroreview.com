@@ -1,0 +1,5 @@
+[10-Feb-2015 23:59:51 America/New_York] PHP Warning:  POST Content-Length of 8682650 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Feb-2015 00:04:28 America/New_York] PHP Warning:  POST Content-Length of 8682667 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Feb-2015 16:04:43 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/hamrorev/public_html/wp-includes/media.php on line 2043
+[12-Feb-2015 16:04:43 UTC] PHP Warning:  imageantialias() expects parameter 1 to be resource, boolean given in /home/hamrorev/public_html/wp-includes/class-wp-image-editor-gd.php on line 283
+[12-Feb-2015 16:04:43 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/hamrorev/public_html/wp-includes/class-wp-image-editor-gd.php on line 285

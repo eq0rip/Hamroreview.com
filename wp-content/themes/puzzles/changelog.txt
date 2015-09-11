@@ -1,0 +1,380 @@
+Version 3.6.1
+    + Fixed: description output in the main slider
+	Files was changed:
+		style.css
+		css/responsive.css
+
+Version 3.6
+    + Fixed: putout of the post slider with informational block
+	+ Added: Support of Instagram Widget
+	+ Added: RTL version
+	Files was changed:
+		functions.php
+		template-blog-excerpt.php
+		template-blog-puzzles.php
+		style.css
+		rtl.css						- new
+		admin/theme-settings.php
+		includes/shortcodes.php
+		css/responsive.css
+		css/*_rtl.css				- new
+		js/_front.js
+		js/_frontrtl.js				- new
+
+Version 3.5
+	+ Output of datePublished field in Google snippets is fixed
+	+ Logics of display of gallery on puzzles is changed: if a post has a featured image, picture is displayed, otherwise - the gallery is
+	+ Mobile menu's behavior is fixed: now it's scrolled properly
+	+ A bug with the list of review criteria when disabling author's review is fixed
+	+ Product sorting, for correct work with new version of WooCommerce is fixed
+	Files was changed:
+		admin/theme-settings.php
+		footer.php
+		functions.php
+		header.php
+		single.php
+		style.css
+		css/responsive.css
+		css/shortcodes.css
+		css/woo-style.css
+		js/social/social-share.js
+		js/_front.js
+		js/jquery.mobilemenu.min.js
+		widgets/widget-twitter2.php
+
+Version 3.4
+	+ The bug in the script of calculation of social share for delicious is fixed;
+	+ Changes for enhancing security in po_composer have been made;
+	+ Fullwidth page display style is added;
+	+ Display style setting for each category (post/page) individually has been added
+	Files was changed:
+		admin/po_composer/po_composer.php
+		admin/theme-settings.php
+		css/buddy-style.css
+		css/responsive.css
+		css/shortcodes.css
+		includes/_wp_utils.php
+		includes/shortcodes.php
+		js/social/social_share.js
+		js/_front.js
+		languages/default.mo
+		languages/default.po
+		widgets/widget-popular-posts.php
+		widgets/widget-recent-posts.php
+		widgets/widget-recent-reviews.php
+		widgets/widget-top10.php
+		footer.php
+		functions.php
+		header.php
+		single.php
+		style.css
+		template-blog.php
+		template-blog-loop.php
+
+Version 3.3
+	* We have fixed the display of huge pics with caption: now they fit into an article's body correctly;
+	* Reviews section on the single page is now overlapped by text that flows around it;
+	* It wasn't possible for visitors to rate, when switching the customizer off and switching the "100%" review mode on. Now fixed. 
+	* Functioning of the shortcode [blogger] when listing id's of posts or pages is now fixed;
+	* Strings for translation when putting out the date difference are fixed. Now it's a lot easier to translate these phrases into other languages;
+	* Rating algorithm for users is fixed; 
+	+ Support of Google Rich Snippets is added.
+	+ "PO Composer" is added: forget the agony with the translation update ;)
+	Files was changed:
+		admin/po_composer/*.* - new
+		admin/theme-settings.php
+		includes/_wp_utils.php
+		includes/shortcodes.php
+		js/_front.js
+		js/_googlemap_init.js
+		js/_reviews.js
+		languages/default.mo
+		languages/default.po
+		widgets/widget-popular-posts.php
+		widgets/widget-recent-posts.php
+		widgets/widget-recent-reviews.php
+		widgets/widget-top10.php
+		functions.php
+		header.php
+		sidebar.php
+		single.php
+		style.css
+		template-blog-excerpt.php
+		template-blog-fullpost.php
+		template-blog-loop.php
+		template-blog-puzzles.php
+
+Version 3.2
+	* Display of names of the months is fixed in the shortcode [blogger] for non-english websites
+	* The bug that prevented from the display of the streampage in BuddyPress 1.9 is fixed
+	+ Now in the shortcodes [blogger] and [slider] when specifying  several categories via comma, it is possible to select posts not only from these categories, but also from the inserted ones
+	+ Now images in the blog excerpt & fullpost are the links to the posts
+	+ Social links in widget Social are opening in a new window
+	+ In the posts of the type Link, the first link inside the post is being checked for the parameter "target"; if post contains it – the parameter is being added to the result link
+	+ Parameter "rel" is added into the shortcode [button], so that the button url can open in the pop-up window "prettyPhoto"
+	Files was changed:
+		includes/_wp_utils.php
+		includes/shortcodes.php
+		widgets/widget-socials.php
+		functions.php
+		single.php
+		template-blog.php
+		template-blog-excerpt.php
+		template-blog-fullpost.php
+		template-blog-loop.php
+		template-blog-puzzles.php
+
+
+
+Version 3.1
+	* The bug with the shortcode [title] (in styles "bubble_down" and "bubble_right") is fixed – now the bubble image displays correctly.
+	* Processing of the parameter descr='0' in the shortcode [blogger] with the style 'puzzles' is fixed – now the description is not put out if the parameter's value is 0. 
+	+ Images in the shortcode [blogger] now are the links to the corresponding posts. 
+	+ Support of the page templates for BuddyPress and bbPress is added, with individual settings for each of them.
+	+ Theme Options now contains the field for specification of random CSS code used after the basic style.css for it's correction.
+	Files was changed:
+		admin/theme-settings.php
+		css/themes/*.*
+		css/bbpress-style.css - new
+		css/buddy-style.css - new
+		includes/shortcodes.php
+		includes/theme-customizer.php
+		js/_front.js
+		languages/*.*
+		bbpress.php
+		buddypress.php
+		header.php
+		single.php
+		
+		
+
+Version 3.0
+	+ bbPress compatibility is added
+	+ BuddyPress compatibility is added
+	+ Buttons for sharing in socal networks are added. Now users can easily adjust the set of buttons and their number
+	+ Font selection for logo is added
+	+ Display images as slideshow in the pop-up window "PrettyPhoto" for standard WordPress gallery is added
+	+ An option to switch the rating's display in the shortcode [blogger] on/off
+	+ Multiple categories support in the shortcodes [blogger] and [slider] is added
+	Files was changed:
+		admin/theme-options.php
+		admin/theme-settings.php
+		css/themes/*.*
+		css/bbpress-style.css - new
+		css/buddy-style.css - new
+		css/woo-style.css
+		images/socials/odnoklassniki.png - new
+		images/socials/vk.png - new
+		images/socials/vk2.png - new
+		includes/_wp_utils.php
+		includes/shortcodes.php
+		includes/theme-customizer.php
+		js/social/social-share.js - new
+		js/_front.js
+		languages/*.*
+		bbpress.php - new
+		buddypress.php - new
+		functions.php
+		single.php
+		style.css
+
+
+
+Version 2.1
+	+ We have added three rating systems for review posts: up to 5 stars, up to 10 stars and 0 - 100%
+	+ We have added an option to select sorting criteria for blog posts, as well as for posts in each category individually:  by publication date, in alphabetical order, by popularity (number of views), by number of comments, by ratings from author, by rating from visitors, random order.
+	+ Positioning of drop-down menus is added (so that they do not exceed the borders of window)
+	Files was changed:
+		admin/theme-settings.php
+		css/themes/*
+		css/admin-style.css
+		css/responsive.css
+		css/shortcodes.css
+		css/woo-style.css
+		includes/_wp_utils.php
+		includes/shortcodes.php
+		includes/theme-customizer.php
+		includes/type-post.php
+		js/_admin.js
+		js/_front.js
+		js/_reviews.js
+		widgets/widget-recent-reviews.php
+		widgets/widget-top10.php
+		attachment.php
+		footer.php
+		functions.php
+		header.php
+		single.php
+		style.css
+		template-blog.php
+		template-blog-excerpt.php
+		template-blog-fullpost.php
+		template-blog-puzzles.php
+
+Version 2.0.1
+	* The bug with video iframe width is fixed
+	Files was changed:
+		style.css
+
+
+Version 2.0
+	* The bug when putting out the 'age' of post is fixed – now it considers the time zone as well  
+	* The bug with indication of number of "Related posts" is fixed
+	* The bug related to the use of shortcode [blogger] inside the posts is fixed (recursion of shortcode processing has occurred)
+	+ New methods of sorting posts in the shortcode [blogger] have been added – now you can sort post by publication date, number of comments, number of views, rating from visitors, or randomly. 
+	+ New widget "ThemeREX - Twitter" (with support new Twitter API 1.1) has been added. 
+	+ Translation of names of the month (when putting out dates) has been added. 
+	+ New style for puzzles-style blocks has been added
+	+ Settings of the category puts out not from the first in alphabet but from the current one (if you are on the blog stream page by category)
+	+ In Theme Options we have added the setting of the type of visitors who can vote in review – all of them or registered members only. 
+	+ Size of the images used in "Theme options" and "Theme Customizer" is optimized
+	+ The setting to indicate length of description in the style "Blog Excerpt" has been added
+	+ Setting to switch new update alerts in dashboard off has been added (on some servers alerts may cause slow upload of pages in Dashboard)
+	+ Processing of the shortcode [audio media_url] and [video media_url] has been added – the url is specified not as value of the parameter src="media_url" or url="media_url",
+	  but directly in the body of the shortcode.
+	+ Support of map styles in the shortcode [googlemap] has been added.
+	+ WooCommerce Ready - just install plugin "WooCommerce" and fill products - your shop is opened!
+	+ An option of image selection has been added into the widget "Logo and social links", so you could set the picture with another color scheme (to match the footer, e.g).
+	  If the image is not selected – it uses the logo from the settings.  
+	+ New menu type has been added – side menu that you can switch on instead of the main one or along with it. 
+	+ Attachment page template has been added. 
+	+ Theme Customizer now contains fields for selection of the current theme for main body of the website and each of sidebars.
+	+ Google map is added into the website's title - you can specify the map's putout parameters for each category (page/post) individually.
+	Files was changed:
+		admin/theme-options.css
+		admin/theme-options.php
+		admin/theme-settings.php
+		css/themes/*
+		css/editor-style.css
+		css/responsive.css
+		css/shortcodes.css
+		css/sidemenu.css		- new
+		css/woo-style.css		- new
+		images/bg/*_thumb
+		images/bg/*_thumb2		- new
+		includes/tmhOAuth/*		- new
+		includes/_utils.php
+		includes/_wp_utils.php
+		includes/shortcodes.php
+		includes/theme-customizer.php
+		includes/type-category.php
+		includes/type-page.php
+		includes/type-post.php
+		includes/update-notifier.php
+		includes/wp-pagenavi.php
+		js/_admin.js
+		js/_front.js
+		js/_googlemap_init.js
+		languages/default.*
+		widgets/qrcode/widget-qrcode.php
+		widgets/widget-advert.php
+		widgets/widget-popular-posts.php
+		widgets/widget-recent-posts.php
+		widgets/widget-recent-reviews.php
+		widgets/widget-socials.php
+		widgets/widget-top10.php
+		widgets/widget-twitter2.php	- new
+		attachment.php	- new
+		footer.php
+		functions.php
+		header.php
+		index.php
+		page.php
+		sidebar.php
+		single.php
+		style.css
+		template-blog.php
+		template-blog-loop.php
+		template-blog-excerpt.php
+		template-blog-fullpost.php
+		template-blog-puzzles.php
+
+
+Version 1.5
+	* Bug with "Post preview" is fixed
+	* Bug with visitors’ reviews is fixed
+	* Work of the MenuSlider script for multilevel menu support is fixed.
+	+ An option to manage height of the menu in Theme Options is added
+	+ An option to settle text on the slider in case of hover-effect is added
+	+ Statement "Show reviews block" on single page is changed and work algorithm is slightly fixed
+	+ All functions in ‘functions.php’ are ready to use in the child-theme
+	Files was changed:
+		admin/theme-settings.php
+		includes/_wp_utils.php
+		includes/shortcodes.php
+		includes/theme_customizer.php
+		includes/type-post.php
+		includes/wp-pagenavi.php
+		js/reviews.js
+		js/jquery.slidemenu.js
+		languages/default.po
+		languages/default.mo
+		functions.php
+		header.php
+		single.php
+		style.css
+		template-blog-excerpt.php
+		template-blog-fullpost.php
+		template-blog-loop.php
+		template-blog-puzzles.php
+
+Version 1.4.1
+	* Change of size iframe with video and ad blocks fixed
+	Files was changed:
+		css/responsive.css
+		js/_front.js
+		style.css
+
+Version 1.4
+	* Display of related posts is fixed (shortcodes have been removed from description)
+	+ Now you can disable review ratings display for each post individually, not only for all post at once
+	* Publication date display in case of non-standard date format setting is fixed
+	* Ad blocks display in widgets is fixed
+	+ When clicking on image in gallery on the blog stream and home -  pages you will be redirected on the post. Also, when doing that in the single post - the image becomes large
+	+ In the theme settings you can set the display type "Responsive menu" instead of "Main menu"
+	+ Lines for translation are added
+	Files was changed:
+		admin/theme-settings.php
+		css/shortcodes.css
+		includes/_wp_utils.php
+		includes/shortcodes.php
+		includes/wp_pagenavi.php
+		js/_front.js
+		js/jquery.mobilemenu.min.js
+		languages/default.*
+		widgets/widget-popular-posts.php
+		widgets/widget-recent-posts.php
+		widgets/widget-recent-reviews.php
+		widgets/widget-top10.php
+		footer.php
+		functions.php
+		single.php
+		style.css
+		template-blog.php
+		template-blog-excerpt.php
+		template-blog-fullpost.php
+		template-blog-loop.php
+		template-blog-puzzles.php
+		
+Version 1.3
+	* Menu display in IE9+ is fixed
+	+ Scripts functioning in IE9+ is optimized
+	+ The slider's work is improved
+	+ New theme release notification in Wordpress Dashboard is added
+	+ An option to choose the number of 'Related Posts' on the post page is added
+	+ Lines for translation are added
+		
+Version 1.2
+	+ Ways of sorting posts for slider are added
+	+ An option to switch the rating of author (or visitors) off is added
+	+ Two color schemes are added (Red and White\Red)
+		
+Version 1.1
+	+ Homepage "with Slider" style is added (you can allow slider on any page/post)
+	+ Optional advertisement block in the page's header is added
+	+ Selection of registration status (reader/author) and function of notification of the site's admin are added
+	+ Login & Register popups are moved to the left (inside the body of the page)
+	* The error occuring when editing categories in 'Quick edit' mode is fixed
+		
+Version 1.0
+	Release

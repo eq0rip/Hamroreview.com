@@ -1,0 +1,44 @@
+/* BB Press styles */
+#bbpress-forums ul li:before {
+	display:none;
+}
+#bbpress-forums .bbp-template-notice {
+	border-radius:0;
+}
+#bbpress-forums #subscription-toggle {
+	display:inline-block;
+	margin-left:20px;
+}
+#bbpress-forums ul,
+#bbpress-forums ul li {
+	border:none !important;
+}
+#bbpress-forums .bbp-forums .bbp-header {
+	margin-top:1px;
+}
+
+#bbpress-forums div.wp-editor-container {
+	border:none;
+}
+#bbpress-forums .quicktags-toolbar,
+#bbpress-forums .wp_themeSkin tr.mceFirst td.mceToolbar {
+	border-radius:0;
+	border:none;
+	margin-bottom:1px;
+}
+#bbpress-forums .quicktags-toolbar input {
+	border:none;
+	border-radius:0;
+}
+#bbpress-forums select {
+	padding:2px;
+}
+#bbpress-forums div.bbp-forum-header,
+#bbpress-forums div.bbp-topic-header,
+#bbpress-forums div.bbp-reply-header {
+	border:none;
+	margin-top:1px;
+}
+#bbpress-forums .bbp-reply-ip {
+	display:none;
+}

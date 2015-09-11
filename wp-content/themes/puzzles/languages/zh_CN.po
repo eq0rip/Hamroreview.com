@@ -1,0 +1,5266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: puzzles\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-21 14:33+0800\n"
+"PO-Revision-Date: 2014-08-21 14:35+0800\n"
+"Last-Translator: 1 <a@163.com>\n"
+"Language-Team: weidea.net <130200251@qq.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/po_composer/po_composer.php:46
+#, fuzzy
+msgid "PO Composer"
+msgstr "可视化编辑器"
+
+# @ dt
+#: admin/po_composer/po_composer.php:89 admin/po_composer/po_composer.php:94
+#, fuzzy
+msgid "Upload .po-file"
+msgstr "文件上传"
+
+# @ dt
+#: admin/po_composer/po_composer.php:90 admin/po_composer/po_composer.php:95
+#, fuzzy
+msgid "Edit .po-text"
+msgstr "点击编辑按钮来改变这个文本。"
+
+#: admin/po_composer/po_composer.php:91 admin/po_composer/po_composer.php:96
+#, fuzzy
+msgid "Parent languages"
+msgstr "上级"
+
+#: admin/po_composer/po_composer.php:91 admin/po_composer/po_composer.php:96
+msgid "Languages"
+msgstr "语言"
+
+#: admin/po_composer/po_composer.php:92 admin/po_composer/po_composer.php:97
+#, fuzzy
+msgid "Child languages"
+msgstr "儿童"
+
+#: admin/po_composer/po_composer.php:93
+#, fuzzy
+msgid "- Select merge source -"
+msgstr "来源"
+
+#: admin/po_composer/po_composer.php:102
+#, fuzzy
+msgid "ThemeREX .PO-files Composer"
+msgstr "ThemeREX - 前10篇文章"
+
+#: admin/po_composer/po_composer.php:127
+#, fuzzy
+msgid "Edit .po-file:"
+msgstr "[编辑]"
+
+# @ dt
+#: admin/po_composer/po_composer.php:130 admin/po_composer/po_composer.php:159
+#, fuzzy
+msgid "Select .po-file:"
+msgstr "选择文件"
+
+#: admin/po_composer/po_composer.php:136
+#, fuzzy
+msgid "Move translated strings down"
+msgstr "下移"
+
+#: admin/po_composer/po_composer.php:139
+#, fuzzy
+msgid "Plain text"
+msgstr "文字："
+
+#: admin/po_composer/po_composer.php:139
+#, fuzzy
+msgid "Strings editor"
+msgstr "编辑器"
+
+#: admin/po_composer/po_composer.php:156
+#, fuzzy
+msgid "Merge with .po-file:"
+msgstr "合并"
+
+# @ dt
+#: admin/po_composer/po_composer.php:171
+#, fuzzy
+msgid "Upload"
+msgstr "上传"
+
+#: admin/po_composer/po_composer.php:171 widgets/qrcode/widget-qrcode.php:279
+msgid "Update"
+msgstr "更新"
+
+#: admin/po_composer/po_composer.php:175
+#, fuzzy
+msgid "Download .PO-file"
+msgstr "下载文件"
+
+#: admin/po_composer/po_composer.php:178
+#, fuzzy
+msgid "Download .MO-file"
+msgstr "下载文件"
+
+#: admin/po_composer/po_composer.php:193
+msgid "Incorrect WP-nonce data! Operation canceled!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:205
+msgid "Error parsing new .po-file!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:217
+msgid "Error parsing merging .po-file!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:273
+#, php-format
+msgid "Language file \"<b>%s.po</b>\" was updated!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:277
+#, php-format
+msgid "Language file \"<b>%s.mo</b>\" was generated!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:280
+#, php-format
+msgid ""
+"Error writing in language file \"<b>%s.po</b>\"!<br>Please, copy text from "
+"textarea below and paste it in the .po-file manually<br>or use links to "
+"upload .po and .mo files below the text area!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:304
+#, php-format
+msgid "Error uploading or Empty .po-file: %s"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:312 admin/po_composer/po_composer.php:326
+#, fuzzy
+msgid "Empty textarea with .po-file content!"
+msgstr "空文件内容。"
+
+#: admin/po_composer/po_composer.php:321
+#, php-format
+msgid "Error loading or Empty .po-file: %s"
+msgstr ""
+
+# @ dt
+#: admin/theme-options.php:14 admin/theme-options.php:545
+msgid "Theme Options"
+msgstr "主题选项"
+
+# @ dt
+#: admin/theme-options.php:82
+msgid "Upload Error:"
+msgstr "上传错误："
+
+#: admin/theme-options.php:234
+msgid "You really want reset all options to default values ?"
+msgstr "你真的想重置全部选项到默认值？"
+
+# @ dt
+#: admin/theme-options.php:438 admin/theme-options.php:443
+msgid "Uploading"
+msgstr "上传中"
+
+# @ dt
+#: admin/theme-options.php:449 admin/theme-options.php:843
+msgid "Upload Image"
+msgstr "上传图像"
+
+# @ dt
+#: admin/theme-options.php:453
+msgid "Upload Error"
+msgstr "上传错误"
+
+#: admin/theme-options.php:519
+msgid "You can't delete last item! To disable it - just clear value in field."
+msgstr "你不能删除最后的条目！要禁用它-只需要在字段清除值"
+
+# @ dt
+#: admin/theme-options.php:537
+msgid "Options Updated"
+msgstr "选项更新"
+
+# @ dt
+#: admin/theme-options.php:540
+msgid "Options Reset"
+msgstr "选项重置"
+
+#: admin/theme-options.php:561
+msgid "Working..."
+msgstr "工作中..."
+
+# @ dt
+#: admin/theme-options.php:562
+msgid "Save All Options"
+msgstr "保存全部选项"
+
+# @ dt
+#: admin/theme-options.php:564
+msgid "Reset Options"
+msgstr "重置选项"
+
+#: admin/theme-options.php:564
+msgid "CAUTION: Any and all settings will be lost! Click OK to reset."
+msgstr "注意: 全部设置将丢失! 单击 OK以重置."
+
+# @ dt
+#: admin/theme-options.php:710 admin/theme-options.php:944
+msgid "+ Add item"
+msgstr "+ 添加条目"
+
+# @ dt
+#: admin/theme-options.php:838 functions.php:818 functions.php:823
+msgid "Choose Images"
+msgstr "选择图像"
+
+#: admin/theme-options.php:838 admin/theme-options.php:839 functions.php:818
+#: functions.php:819 functions.php:823
+msgid "Choose Image"
+msgstr "选择图像"
+
+#: admin/theme-options.php:839 functions.php:819
+msgid "Add to Gallery"
+msgstr "添加到相册"
+
+#: admin/theme-options.php:845
+msgid "Remove"
+msgstr "移除"
+
+#: admin/theme-settings.php:30 admin/theme-settings.php:416
+msgid "General"
+msgstr "常规"
+
+# @ dt
+#: admin/theme-settings.php:34
+msgid "Contact form email"
+msgstr "联系表单email"
+
+#: admin/theme-settings.php:35
+msgid "E-mail for send contact form and user registration data"
+msgstr "E-mail 给发送联系表单和用户注册数据"
+
+# @ dt
+#: admin/theme-settings.php:40
+msgid "Favicon"
+msgstr "收藏站标"
+
+#: admin/theme-settings.php:41
+msgid ""
+"Upload a 16px x 16px image that will represent your website's favicon.<br /"
+"><br /><em>To ensure cross-browser compatibility, we recommend converting "
+"the favicon into .ico format before uploading. (<a href=\"http://www.favicon."
+"cc/\">www.favicon.cc</a>)</em>"
+msgstr ""
+"上传一个 16px x 16px 图片将用于站点收藏站标。<br /><br /><em>为了确保跨浏览器"
+"的兼容性，我们建议上传之前转换成ICO格式。 (<a href=\"http://www.favicon.cc/"
+"\">www.favicon.cc</a>)</em>"
+
+# @ dt
+#: admin/theme-settings.php:46
+msgid "Logo image"
+msgstr "标志图像"
+
+# @ dt
+#: admin/theme-settings.php:47
+msgid "Upload logo image"
+msgstr "上传标志图像"
+
+# @ dt
+#: admin/theme-settings.php:52
+msgid "Logo text"
+msgstr "标志文字"
+
+#: admin/theme-settings.php:53
+msgid ""
+"Write logo text (if empty the logo image). Use characters [ and ] to select "
+"accented part."
+msgstr "写标志文字 (如果是空的标志形象). 使用字符 [ 和 ]选择重音的一部分。"
+
+#: admin/theme-settings.php:58
+msgid "Slogan text"
+msgstr "标语文本"
+
+#: admin/theme-settings.php:59
+msgid "Write slogan (under logo)"
+msgstr "写口号（标志下）"
+
+#: admin/theme-settings.php:64
+msgid "Show Advertisement block in page header"
+msgstr "显示广告块的页头"
+
+#: admin/theme-settings.php:65
+msgid "Do you want to show the advertisement block in the page header area?"
+msgstr "你想显示的广告块在页头区域？"
+
+#: admin/theme-settings.php:72
+msgid "Advertisement block: banner image"
+msgstr "广告块：横幅图片"
+
+# @ dt
+#: admin/theme-settings.php:73
+msgid "Upload the banner image"
+msgstr "上传的横幅图像"
+
+#: admin/theme-settings.php:79
+msgid "Advertisement block: banner image link"
+msgstr "广告块：横幅图片链接"
+
+#: admin/theme-settings.php:80
+msgid "Link URL for the banner image"
+msgstr "旗帜图像的链接URL"
+
+#: admin/theme-settings.php:86
+msgid "Advertisement block: html-content"
+msgstr "广告块：HTML内容"
+
+#: admin/theme-settings.php:87
+msgid ""
+"Put here an advertisement block html-content (will be display instead the "
+"image above)"
+msgstr "这里的广告块HTML内容（将被显示，而不是上面的图片）"
+
+# @ dt
+#: admin/theme-settings.php:93
+msgid "Footer copyright"
+msgstr "页脚版权"
+
+#: admin/theme-settings.php:94
+msgid "Copyright text to show in footer area (bottom of site)"
+msgstr "显示到页脚区域的版权文字"
+
+# @ dt
+#: admin/theme-settings.php:99
+msgid "Image dimensions"
+msgstr "图像尺寸"
+
+#: admin/theme-settings.php:100
+msgid ""
+"What dimensions use for uploaded image: Original or \"Retina ready\" (twice "
+"enlarged)"
+msgstr "用于上传的图片尺寸：原或 \"视网膜支持\" （2倍大小）"
+
+#: admin/theme-settings.php:104
+msgid "Original"
+msgstr "原"
+
+#: admin/theme-settings.php:104
+msgid "Retina"
+msgstr "视网膜"
+
+# @ dt
+#: admin/theme-settings.php:106
+msgid "Responsive Layouts"
+msgstr "自适应布局"
+
+#: admin/theme-settings.php:107
+msgid ""
+"Do you want use responsive layouts on small screen or still use main layout?"
+msgstr "在小屏幕你想使用自适应布局或一直使用主布局？"
+
+#: admin/theme-settings.php:113
+msgid "Compose scripts and styles in single file"
+msgstr "在单个文件撰写scripts 和 styles "
+
+#: admin/theme-settings.php:114
+msgid ""
+"Do you want to compose theme scripts and styles in single file (for speed up "
+"page loading)"
+msgstr "你是否想撰写scripts 和CSS样式在单个文件"
+
+#: admin/theme-settings.php:120
+msgid "Additional filters in admin panel"
+msgstr "在管理面板的附加筛选"
+
+#: admin/theme-settings.php:121
+msgid ""
+"Show additional filters (on post format and tags) in admin panel page \"Posts"
+"\""
+msgstr "在管理面板页面 \"Posts\"显示附件筛选（在文章格式和标签）"
+
+#: admin/theme-settings.php:127
+msgid "Use update notifier in admin panel"
+msgstr "使用更新通知"
+
+#: admin/theme-settings.php:128
+msgid "Show update notifier in admin panel (can delay dashboard)"
+msgstr "在仪表盘显示更新通知"
+
+#: admin/theme-settings.php:134
+#, fuzzy
+msgid "Enable po-composer in the admin panel"
+msgstr "在管理面板的附加筛选"
+
+#: admin/theme-settings.php:135
+#, fuzzy
+msgid ""
+"Do you want to show \"PO Composer\" item in the menu \"Tools\" in the admin "
+"panel"
+msgstr "你想显示的广告块在页头区域？"
+
+#: admin/theme-settings.php:148
+msgid "Customization"
+msgstr "定制"
+
+#: admin/theme-settings.php:152
+msgid "Show Theme customizer"
+msgstr "显示主题自定义"
+
+# @ dt
+#: admin/theme-settings.php:153
+msgid "Show theme customizer"
+msgstr "显示主题自定义"
+
+# @ dt
+#: admin/theme-settings.php:159
+msgid "Theme font"
+msgstr "主题字体"
+
+#: admin/theme-settings.php:160
+msgid "Select theme main font"
+msgstr "选择主题主要字体"
+
+# @ dt
+#: admin/theme-settings.php:166
+msgid "Logo font"
+msgstr "标志文字"
+
+#: admin/theme-settings.php:167
+msgid "Select logo font"
+msgstr "选择标志字体"
+
+# @ dt
+#: admin/theme-settings.php:173
+msgid "Show Login/Logout buttons"
+msgstr "显示登入/注销按钮"
+
+# @ dt
+#: admin/theme-settings.php:174
+msgid "Show Login and Logout buttons"
+msgstr "显示登录和注销按钮"
+
+#: admin/theme-settings.php:180
+#, fuzzy
+msgid "Puzzles and Excerpt elements"
+msgstr "元素"
+
+#: admin/theme-settings.php:181
+msgid "Puzzles and Excerpt elements settings"
+msgstr ""
+
+#: admin/theme-settings.php:185
+msgid "Puzzles-style elements: enable animations"
+msgstr "拼图风格的元素：启用动画"
+
+#: admin/theme-settings.php:186
+msgid "Enable animations on puzzles-style page element"
+msgstr "启用拼图式页面元素的动画"
+
+#: admin/theme-settings.php:193
+msgid "Puzzles-style elements: info blocks style"
+msgstr "Puzzles-style 元素: 信息块样式"
+
+#: admin/theme-settings.php:194
+msgid ""
+"Style of info blocks for puzzles-style elements on homepage, blog streampage "
+"and related posts"
+msgstr "为首页、博客瀑布流和相关文章的 puzzles-style 元素信息块样式"
+
+#: admin/theme-settings.php:199
+msgid "Heavy style"
+msgstr "Heavy 风格"
+
+# @ dt
+#: admin/theme-settings.php:199
+msgid "Light style"
+msgstr "白样式"
+
+#: admin/theme-settings.php:201
+#, fuzzy
+msgid "Preserve tags in descriptions"
+msgstr "标签："
+
+#: admin/theme-settings.php:202
+#, fuzzy
+msgid ""
+"Do you want to preserve decoration tags in descriptions for puzzles and "
+"excerpt styles"
+msgstr "你是否想显示文章的标题，评论的评价和描述柔性滑块幻灯片"
+
+#: admin/theme-settings.php:208
+msgid "Main menu parameters"
+msgstr "主菜单参数"
+
+#: admin/theme-settings.php:209
+msgid "Main menu display parameters"
+msgstr "主菜单显示参数"
+
+# @ dt
+#: admin/theme-settings.php:212
+msgid "Main menu position"
+msgstr "主菜单的位置"
+
+#: admin/theme-settings.php:213
+msgid "Attach main menu to top of window then page scroll down"
+msgstr "附到主菜单窗口的顶部，然后向下滚动"
+
+# @ dt
+#: admin/theme-settings.php:217
+msgid "Fix menu position"
+msgstr "固定菜单位置"
+
+# @ dt
+#: admin/theme-settings.php:217
+msgid "Don't fix menu position"
+msgstr "不要固定菜单位置"
+
+#: admin/theme-settings.php:219
+msgid "Main menu colored"
+msgstr "主菜单的颜色"
+
+#: admin/theme-settings.php:220
+msgid ""
+"Use for main menu item theme and accent colors from categories (if "
+"categories used as menu items)"
+msgstr "使用主菜单项目的主题和类别强调色（如果使用的类别菜单项）"
+
+#: admin/theme-settings.php:226
+msgid "Main menu slider"
+msgstr "主菜单滑块"
+
+#: admin/theme-settings.php:227
+msgid "Use slider background for main menu items"
+msgstr "主菜单项目中使用滑块背景"
+
+#: admin/theme-settings.php:233
+msgid "Main menu height"
+msgstr "主菜单高度"
+
+#: admin/theme-settings.php:234
+msgid "Height of main menu items"
+msgstr "主菜单项目的高度"
+
+# @ dt
+#: admin/theme-settings.php:239
+msgid "Submenu width"
+msgstr "子菜单宽度"
+
+#: admin/theme-settings.php:240
+msgid "Width for dropdown menus in main menu"
+msgstr "在主菜单的下拉菜单的宽度"
+
+#: admin/theme-settings.php:245
+msgid "Max width for responsive menu"
+msgstr "最大宽度为响应菜单"
+
+#: admin/theme-settings.php:246
+msgid "Use responsive menu, if window width less then value in this field"
+msgstr "使用响应菜单，如果窗口宽度小于在这一领域的值"
+
+# @ dt
+#: admin/theme-settings.php:251
+#, fuzzy
+msgid "Media settings"
+msgstr "媒体选项"
+
+#: admin/theme-settings.php:252
+msgid "Media elements settings"
+msgstr "媒体元素设置"
+
+#: admin/theme-settings.php:256
+msgid "Substitute standard Wordpress gallery"
+msgstr "替换标准的WordPress的画廊"
+
+#: admin/theme-settings.php:257
+msgid "Substitute standard Wordpress gallery with our theme-styled gallery"
+msgstr "替换标准的WordPress画廊为主题风格画廊"
+
+#: admin/theme-settings.php:264
+#, fuzzy
+msgid "Show gallery instead featured image"
+msgstr "相册悬停特色图像"
+
+#: admin/theme-settings.php:265
+msgid ""
+"Show slider with gallery instead featured image on blog streampage for the "
+"gallery posts"
+msgstr ""
+
+#: admin/theme-settings.php:272
+msgid "Substitute audio tags"
+msgstr "替换音频标签"
+
+#: admin/theme-settings.php:273
+msgid "Substitute audio tag with source from soundclound to embed player"
+msgstr "替换从soundclound源的音频标签嵌入播放器"
+
+#: admin/theme-settings.php:280
+msgid "Substitute video tags"
+msgstr "替换视频标签"
+
+#: admin/theme-settings.php:281
+msgid "Substitute video tags to embed players"
+msgstr "替换视频标签嵌入播放器"
+
+#: admin/theme-settings.php:288
+msgid "Use Media Element script for audio and video tags"
+msgstr "使用媒体元素脚本的音频和视频标签"
+
+#: admin/theme-settings.php:289
+msgid ""
+"Do you want use the Media Element script for all audio and video tags on "
+"your site?"
+msgstr "你想使用媒体元素脚本所有音频和视频标签在您的网站上？"
+
+#: admin/theme-settings.php:295
+msgid "Body parameters"
+msgstr "主体参数"
+
+#: admin/theme-settings.php:296
+msgid ""
+"This parameters only for fixed body style. Use only background image (if "
+"selected), else use background pattern"
+msgstr "此参数仅用于固定主体风格。仅使用背景图片（如果选择），否则使用背景图案"
+
+#: admin/theme-settings.php:300
+msgid "Body style"
+msgstr "主体样式"
+
+#: admin/theme-settings.php:301
+#, fuzzy
+msgid "Select desired body style"
+msgstr "选择所需的博客风格"
+
+# @ dt
+#: admin/theme-settings.php:308
+msgid "Background color"
+msgstr "背景颜色"
+
+# @ dt
+#: admin/theme-settings.php:309
+msgid "Body background color"
+msgstr "主体背景颜色"
+
+# @ dt
+#: admin/theme-settings.php:315
+msgid "Background predefined pattern"
+msgstr "背景预设图案"
+
+#: admin/theme-settings.php:316
+msgid "Select theme background pattern (first case - without pattern)"
+msgstr "选择主题背景图案（第一种情况 - 无图案）"
+
+# @ dt
+#: admin/theme-settings.php:330
+msgid "Background custom pattern"
+msgstr "背景自定义图案"
+
+# @ dt
+#: admin/theme-settings.php:331
+msgid "Select or upload background custom pattern"
+msgstr "选择/上传背景自定义图案"
+
+# @ dt
+#: admin/theme-settings.php:337
+msgid "Background predefined image"
+msgstr "背景预置图像"
+
+#: admin/theme-settings.php:338
+msgid "Select theme background image (first case - without image)"
+msgstr "选择主题背景图片（第一种情况 - 无图像）"
+
+# @ dt
+#: admin/theme-settings.php:350
+msgid "Background custom image"
+msgstr "背景自定义图像"
+
+# @ dt
+#: admin/theme-settings.php:351
+msgid "Select or upload background custom image"
+msgstr "选择或上传自定义背景图像"
+
+# @ dt
+#: admin/theme-settings.php:357
+msgid "Background custom image position"
+msgstr "背景自定义图像位置"
+
+#: admin/theme-settings.php:358
+msgid "Select custom image position"
+msgstr "选择自定义图像位置"
+
+#: admin/theme-settings.php:375
+msgid "Your CSS code"
+msgstr "你的CSS代码"
+
+#: admin/theme-settings.php:376
+msgid "Put here your css code to correct main theme styles"
+msgstr "输入你的CSS代码到这里纠正主题样式"
+
+# @ dt
+#: admin/theme-settings.php:391
+msgid "Sidebars"
+msgstr "侧边栏"
+
+#: admin/theme-settings.php:394
+msgid "Custom sidebars"
+msgstr "自定义侧边栏"
+
+#: admin/theme-settings.php:395
+msgid ""
+"Manage custom sidebars. You can use it with each category (page, post) "
+"independently"
+msgstr "管理自定义侧边栏。您可以独立使用它到每个类别（页面、文章）"
+
+# @ dt
+#: admin/theme-settings.php:408
+msgid "Blog"
+msgstr "博客"
+
+#: admin/theme-settings.php:411 admin/theme-settings.php:420
+msgid "General Blog parameters"
+msgstr "常规博客参数"
+
+# @ dt
+#: admin/theme-settings.php:417
+msgid "Blog Stream page"
+msgstr "博客瀑布流页面"
+
+#: admin/theme-settings.php:418
+msgid "Blog Single page"
+msgstr "博客单页"
+
+#: admin/theme-settings.php:421
+msgid "Select excluded categories, substitute parameters, etc."
+msgstr "选择排除类别，替代参数，等等"
+
+# @ dt
+#: admin/theme-settings.php:424
+msgid "Exclude categories"
+msgstr "排除类别"
+
+#: admin/theme-settings.php:425
+msgid "Select categories, which posts are exclude from blog page"
+msgstr "选择类别，从博客页面排除的文章"
+
+#: admin/theme-settings.php:432
+msgid "Show Breadcrumbs"
+msgstr "显示面包屑"
+
+#: admin/theme-settings.php:433
+msgid "Show path to current category (post, page)"
+msgstr "显示目前的类路径（文章，页）"
+
+# @ dt
+#: admin/theme-settings.php:439
+msgid "Blog pagination style"
+msgstr "博客分页样式"
+
+#: admin/theme-settings.php:440
+msgid "Select pagination style on blog streampages"
+msgstr "选择博客瀑布流页分页样式"
+
+#: admin/theme-settings.php:445
+msgid "Standard page numbers"
+msgstr "标准页码"
+
+#: admin/theme-settings.php:446
+msgid "\"View more\" button"
+msgstr "\"查看更多\"按钮"
+
+#: admin/theme-settings.php:447
+msgid "Infinite scroll"
+msgstr "无限滚动"
+
+# @ dt
+#: admin/theme-settings.php:450
+msgid "Blog counters"
+msgstr "博客计数器"
+
+#: admin/theme-settings.php:451
+msgid "Select counters, displayed near the post title"
+msgstr "选择计数器，显示在文章标题附近"
+
+#: admin/theme-settings.php:455
+msgid "Don't show any counters"
+msgstr "不要显示任何计数器"
+
+#: admin/theme-settings.php:455
+msgid "Show views number"
+msgstr "显示访问数"
+
+#: admin/theme-settings.php:455
+msgid "Show comments number"
+msgstr "显示评论数"
+
+#: admin/theme-settings.php:457
+msgid "Post's category announce"
+msgstr "文章的类别公布"
+
+#: admin/theme-settings.php:458
+msgid ""
+"What category display in announce block (over posts thumb) - original or "
+"nearest parental"
+msgstr "什么类别显示在ANNOUNCE区块（文章上的缩略图） - 原件或最近的父"
+
+# @ dt
+#: admin/theme-settings.php:462
+msgid "Nearest parental category"
+msgstr "最近的父类"
+
+# @ dt
+#: admin/theme-settings.php:462
+msgid "Original post's category"
+msgstr "原来的文章的类别"
+
+# @ dt
+#: admin/theme-settings.php:464
+msgid "Show post date after"
+msgstr "显示文章日期后"
+
+#: admin/theme-settings.php:465
+msgid "Show post date after N days (before - show post age)"
+msgstr "在N天后面显示文章日期（之前 - 显示文章年龄）"
+
+#: admin/theme-settings.php:472 admin/theme-settings.php:478
+msgid "Blog streampage parameters"
+msgstr "博客流页面参数"
+
+#: admin/theme-settings.php:479
+msgid ""
+"Select desired blog streampage parameters (you can override it in each "
+"category)"
+msgstr "选择所需博客流页面参数（在每个类别中，你可以覆盖它）"
+
+# @ dt
+#: admin/theme-settings.php:483
+msgid "Blog style"
+msgstr "博客样式"
+
+#: admin/theme-settings.php:484
+msgid "Select desired blog style"
+msgstr "选择所需的博客风格"
+
+# @ dt
+#: admin/theme-settings.php:491
+msgid "Blog posts sorted by"
+msgstr "博客文章排序方式"
+
+#: admin/theme-settings.php:492
+msgid "Select the desired sorting method for posts"
+msgstr "选择期望文章排序方式"
+
+# @ dt
+#: admin/theme-settings.php:499
+msgid "Blog posts order"
+msgstr "博客文章排序"
+
+#: admin/theme-settings.php:500 admin/theme-settings.php:818
+msgid "Select the desired ordering method for posts"
+msgstr "选择期望文章排序方式"
+
+# @ dt
+#: admin/theme-settings.php:507
+msgid "Blog posts per page"
+msgstr "每页博客文章数"
+
+#: admin/theme-settings.php:508
+msgid ""
+"How many posts display on blog pages for selected style. If empty or 0 - "
+"inherit system wordpress settings"
+msgstr ""
+"在博客页面上显示多少个文章为所选样式。如果为空或0 - 则继承系统WordPress的设置"
+
+#: admin/theme-settings.php:514
+msgid "Post excerpt maxlength"
+msgstr "文章摘录长度"
+
+#: admin/theme-settings.php:515
+msgid ""
+"How many characters from post excerpt are display in blog streampage (only "
+"for Blog style = Excerpt). 0 - do not trim excerpt."
+msgstr "博客文章摘录字符数。0则无摘录"
+
+# @ dt
+#: admin/theme-settings.php:520
+msgid "Blog theme"
+msgstr "博客主题"
+
+#: admin/theme-settings.php:521
+msgid "Blog theme - colors set for display each page element"
+msgstr "博客主题 - 颜色显示每个页面元素"
+
+# @ dt
+#: admin/theme-settings.php:528
+msgid "Theme accent color"
+msgstr "主题强调色"
+
+#: admin/theme-settings.php:529
+msgid ""
+"Used as background for category name on puzzles-styled pages and for accent "
+"some page elements"
+msgstr "作为类别名称拼图风格的网页背景和重音的一些页面元素"
+
+# @ dt
+#: admin/theme-settings.php:535
+msgid "Show main sidebar"
+msgstr "显示主侧边栏"
+
+#: admin/theme-settings.php:536
+msgid "Select main sidebar position on blog page"
+msgstr "为博客页面选择主侧边栏位置"
+
+# @ dt
+#: admin/theme-settings.php:543
+msgid "Select main sidebar"
+msgstr "选择主侧边栏"
+
+#: admin/theme-settings.php:544
+msgid "Select main sidebar for blog page"
+msgstr "为博客页面选择主侧边栏"
+
+# @ dt
+#: admin/theme-settings.php:551
+msgid "Main Sidebar theme"
+msgstr "主侧边栏主题"
+
+# @ dt
+#: admin/theme-settings.php:552
+msgid "Main sidebar color theme"
+msgstr "主侧边栏的颜色主题"
+
+#: admin/theme-settings.php:559
+msgid "Show advertisement sidebar"
+msgstr "显示广告侧边栏"
+
+#: admin/theme-settings.php:560
+msgid "Show advertisement sidebar before footer"
+msgstr "在页脚之前显示广告侧边栏"
+
+#: admin/theme-settings.php:567
+msgid "Select advertisement sidebar"
+msgstr "选择广告侧边栏"
+
+#: admin/theme-settings.php:568
+msgid "Select advertisement sidebar for blog page"
+msgstr "为博客页面选择广告侧边栏"
+
+#: admin/theme-settings.php:575
+msgid "Advertisement Sidebar theme"
+msgstr "广告侧边栏主题"
+
+#: admin/theme-settings.php:576
+msgid "Advertisement sidebar color theme"
+msgstr "广告侧边栏的颜色主题"
+
+# @ dt
+#: admin/theme-settings.php:583 admin/theme-settings.php:584
+msgid "Show footer sidebar"
+msgstr "显示页脚侧边栏"
+
+#: admin/theme-settings.php:591
+msgid "Select footer sidebar"
+msgstr "选择页脚侧边栏"
+
+#: admin/theme-settings.php:592
+msgid "Select footer sidebar for blog page"
+msgstr "为博客页面选择页脚侧边栏"
+
+# @ dt
+#: admin/theme-settings.php:599
+msgid "Footer Sidebar theme"
+msgstr "页脚侧边栏主题"
+
+# @ dt
+#: admin/theme-settings.php:600
+msgid "Footer sidebar color theme"
+msgstr "页脚侧边栏的颜色主题"
+
+#: admin/theme-settings.php:609
+msgid "Single page parameters"
+msgstr "单页参数"
+
+#: admin/theme-settings.php:616
+msgid "Single (detail) pages parameters"
+msgstr "单（详情）页参数"
+
+#: admin/theme-settings.php:617
+msgid ""
+"Select desired parameters for single (detail) pages (you can override it in "
+"each category and single post (page))"
+msgstr "选择所需的参数为单（详细）页面（可以覆盖在每个类别和单文章（页面））"
+
+#: admin/theme-settings.php:621
+msgid "Use fullwidth content (without paddings)"
+msgstr "使用全角的内容（不包括填充）"
+
+#: admin/theme-settings.php:622
+msgid "Disable paddings for page content on single pages"
+msgstr "禁用内页的页面内容填充"
+
+# @ dt
+#: admin/theme-settings.php:629
+msgid "Show featured image before post"
+msgstr "在文章前面显示特色图像"
+
+#: admin/theme-settings.php:630
+msgid "Show featured image (if selected) before post content on single pages"
+msgstr "在内页文章内容之前显示特色图像（如果已选择）"
+
+# @ dt
+#: admin/theme-settings.php:637
+msgid "Show post title"
+msgstr "显示文章标题"
+
+#: admin/theme-settings.php:638
+msgid "Show area with post title on single pages"
+msgstr "显示文章内页标题区域"
+
+# @ dt
+#: admin/theme-settings.php:645
+msgid "Show post info"
+msgstr "显示文章信息"
+
+#: admin/theme-settings.php:646
+msgid "Show area with post info on single pages"
+msgstr "显示文章内页信息区域"
+
+#: admin/theme-settings.php:653
+msgid "Show text before \"Read more\" tag"
+msgstr "在 \"阅读更多\"标签之前显示文字"
+
+#: admin/theme-settings.php:654
+msgid "Show text before \"Read more\" tag on single pages"
+msgstr "在内页 \"阅读更多\"标签之前显示文字"
+
+# @ dt
+#: admin/theme-settings.php:660
+msgid "Show post author details"
+msgstr "显示文章作者信息"
+
+# @ dt
+#: admin/theme-settings.php:661
+msgid "Show post author information block on single post page"
+msgstr "文章内页显示发表作者信息块"
+
+#: admin/theme-settings.php:669
+#, fuzzy
+msgid "Show post social share"
+msgstr "显示文章社交按钮"
+
+#: admin/theme-settings.php:670
+#, fuzzy
+msgid "Show social share block on single post page"
+msgstr "文章内页上显示标签块"
+
+# @ dt
+#: admin/theme-settings.php:678
+msgid "Show post tags"
+msgstr "显示文章标签"
+
+#: admin/theme-settings.php:679
+msgid "Show tags block on single post page"
+msgstr "文章内页上显示标签块"
+
+# @ dt
+#: admin/theme-settings.php:687
+msgid "Show related posts"
+msgstr "显示相关文章"
+
+#: admin/theme-settings.php:688
+msgid "Show related posts block on single post page"
+msgstr "在文章内页显示相关文章块"
+
+# @ dt
+#: admin/theme-settings.php:696
+msgid "Related posts number"
+msgstr "相关文章数"
+
+#: admin/theme-settings.php:697
+msgid "How many related posts showed on single post page"
+msgstr "在文章内页上显示多少个相关的文章"
+
+# @ dt
+#: admin/theme-settings.php:704
+msgid "Related posts sorted by"
+msgstr "相关文章排序方式"
+
+#: admin/theme-settings.php:705
+msgid "Select the desired sorting method for related posts"
+msgstr "为相关文章选择期望排序方式"
+
+# @ dt
+#: admin/theme-settings.php:712
+msgid "Related posts order"
+msgstr "相关文章排序"
+
+#: admin/theme-settings.php:713
+msgid "Select the desired ordering method for related posts"
+msgstr "为相关文章选择期望排序方式"
+
+# @ dt
+#: admin/theme-settings.php:720
+msgid "Show comments"
+msgstr "显示评论"
+
+#: admin/theme-settings.php:721
+msgid "Show comments block on single post page"
+msgstr "在文章内页显示评论块"
+
+#: admin/theme-settings.php:729
+msgid "Puzzles-style: Post excerpt background"
+msgstr "拼图式：文章摘录背景"
+
+#: admin/theme-settings.php:730
+msgid "Use this color as background for post excerpt on puzzles-styled pages"
+msgstr "拼图风格的网页上，用这种颜色作为背景文章摘录"
+
+#: admin/theme-settings.php:736
+msgid "Puzzles-style: Post excerpt position"
+msgstr "拼图式：文章摘录位置"
+
+#: admin/theme-settings.php:737
+msgid "Post excerpt position on puzzles-styled pages"
+msgstr "拼图风格的网页上文章摘录位置"
+
+# @ dt
+#: admin/theme-settings.php:754 includes/shortcodes.php:103
+msgid "Slider"
+msgstr "幻灯片"
+
+#: admin/theme-settings.php:758
+msgid "Main slider parameters"
+msgstr "主滑块参数"
+
+#: admin/theme-settings.php:759
+msgid ""
+"Select parameters for main slider (you can override it in each category and "
+"page)"
+msgstr "选择主滑块的参数（可以覆盖每个类别和页面）"
+
+# @ dt
+#: admin/theme-settings.php:763
+msgid "Show Slider"
+msgstr "显示幻灯片"
+
+#: admin/theme-settings.php:764
+msgid "Do you want to show slider on each page (post)"
+msgstr "是否在每一页上显示滑块（文章）"
+
+# @ dt
+#: admin/theme-settings.php:771
+msgid "Slider display"
+msgstr "滑块显示"
+
+#: admin/theme-settings.php:772
+msgid "How display slider: fixed width or fullscreen width"
+msgstr "如何显示滑块：固定宽度或全屏宽度"
+
+#: admin/theme-settings.php:777 admin/theme-settings.php:898
+msgid "Fixed width"
+msgstr "固定宽度"
+
+# @ dt
+#: admin/theme-settings.php:777 admin/theme-settings.php:898
+msgid "Fullscreen"
+msgstr "全屏"
+
+# @ dt
+#: admin/theme-settings.php:779
+msgid "Slider engine"
+msgstr "滑块引擎"
+
+#: admin/theme-settings.php:780
+msgid ""
+"What engine use to show slider: Revolution slider (need to install "
+"additional plugin from theme package), Flex Slider or None (don't show "
+"slider)"
+msgstr ""
+"使用什么引擎来显示滑块：Revolution slider（需要从主题包安装额外的插件），"
+"Flex Slider“或”无“（不显示滑块）"
+
+#: admin/theme-settings.php:787
+msgid "Revolution Slider alias"
+msgstr "Revolution Slider 别号"
+
+#: admin/theme-settings.php:788
+msgid "Slider alias (see in Revolution plugin settings)"
+msgstr "滑块别名（见在Revolution插件设置）"
+
+#: admin/theme-settings.php:794
+msgid "Flexslider: Category to show"
+msgstr "Flexslider: 分类显示"
+
+#: admin/theme-settings.php:795
+msgid "Select category to show in Flexslider (ignored for Revolution slider)"
+msgstr "选择分类以显示到Flexslider  (忽略 Revolution slider)"
+
+#: admin/theme-settings.php:800
+msgid "- Any category -"
+msgstr "- 所有类别 - "
+
+#: admin/theme-settings.php:802
+msgid "Flexslider: Number posts or comma separated posts list"
+msgstr "Flexslider: 文章数量或逗号分隔文章列表"
+
+#: admin/theme-settings.php:803
+msgid ""
+"How many recent posts display in slider or comma separated list of posts ID "
+"(in this case selected category ignored)"
+msgstr ""
+"显示最近多少个文章在滑块，或逗号分隔文章ID列表（在这种情况下，忽略所选类别）"
+
+#: admin/theme-settings.php:809
+msgid "Flexslider: Post's order by"
+msgstr "Flexslider：文章的订单"
+
+#: admin/theme-settings.php:810
+msgid ""
+"Posts in slider ordered by date (default), comments, views, author rating, "
+"users rating, random or alphabetically"
+msgstr ""
+"文章在滑块排序按日期（默认），评论，意见，作者评级，用户评级随机或按字母顺序"
+
+#: admin/theme-settings.php:817
+msgid "Flexslider: Post's order"
+msgstr "Flexslider：文章的订单"
+
+#: admin/theme-settings.php:825
+msgid "Flexslider: Show post's infobox"
+msgstr "Flexslider：显示文章的信息框"
+
+#: admin/theme-settings.php:826
+msgid ""
+"Do you want to show post's title, reviews rating and description on slides "
+"in flex-slider"
+msgstr "你是否想显示文章的标题，评论的评价和描述柔性滑块幻灯片"
+
+#: admin/theme-settings.php:833
+msgid "Flexslider: Infobox fixed"
+msgstr "Flexslider：信息框固定"
+
+#: admin/theme-settings.php:834
+msgid "Do you want to fix infobox on slides in flex-slider or hide it in hover"
+msgstr "你是否想要修复的信息框上的幻灯片在柔性滑块，或者把它藏在悬停"
+
+# @ dt
+#: admin/theme-settings.php:841
+msgid "Flexslider: Show post's category"
+msgstr "Flexslider：显示文章的类别"
+
+#: admin/theme-settings.php:842
+msgid "Do you want to show post's category on slides in flex-slider"
+msgstr "你是否想显示文章类别在flexslider幻灯片上"
+
+#: admin/theme-settings.php:849
+msgid "Flexslider: Show post's reviews rating"
+msgstr "Flexslider：显示文章的评论评级"
+
+#: admin/theme-settings.php:850
+msgid "Do you want to show post's reviews rating on slides in flex-slider"
+msgstr "你是否想显示文章评论评级幻灯片flexslider"
+
+#: admin/theme-settings.php:857
+msgid "Flexslider: Show post's descriptions"
+msgstr "Flexslider：显示文章的描述"
+
+#: admin/theme-settings.php:858
+msgid "Do you want to show post's description on slides in flex-slider"
+msgstr "你是否想显示文章描述在flexslider幻灯片上"
+
+# @ dt
+#: admin/theme-settings.php:875
+msgid "Google map"
+msgstr "谷歌地图"
+
+#: admin/theme-settings.php:879
+msgid "Google map parameters"
+msgstr "谷歌地图参数"
+
+#: admin/theme-settings.php:880
+msgid ""
+"Select parameters for Google map (you can override it in each category and "
+"page)"
+msgstr "选择谷歌地图的参数（可以覆盖每个类别和页面）"
+
+# @ dt
+#: admin/theme-settings.php:884
+msgid "Show Google Map"
+msgstr "显示谷歌地图"
+
+#: admin/theme-settings.php:885
+msgid "Do you want to show Google map on each page (post)"
+msgstr "是否在每一页上显示谷歌地图（文章）"
+
+# @ dt
+#: admin/theme-settings.php:892
+msgid "Google map display"
+msgstr "谷歌地图显示"
+
+#: admin/theme-settings.php:893
+msgid "How display the map: fixed width or fullscreen width"
+msgstr "如何显示地图：固定宽度或全屏宽度"
+
+# @ dt
+#: admin/theme-settings.php:900
+msgid "Google map height"
+msgstr "谷歌地图高度"
+
+#: admin/theme-settings.php:901
+msgid "Height of map area (in pixels)"
+msgstr "地图区域的高度"
+
+#: admin/theme-settings.php:907
+msgid "Google map initial zoom"
+msgstr "谷歌地图初始放大"
+
+#: admin/theme-settings.php:908
+msgid "Enter desired initial zoom for Google map"
+msgstr "输入期望谷歌地图初始放大"
+
+#: admin/theme-settings.php:917
+msgid "Address to show on map"
+msgstr "显示在地图上的地址"
+
+#: admin/theme-settings.php:918
+msgid "Enter address to show on map center"
+msgstr "输入地址"
+
+#: admin/theme-settings.php:924
+msgid "Latitude and Longtitude to show on map"
+msgstr "显示在地图上的经度和纬度"
+
+#: admin/theme-settings.php:925
+msgid ""
+"Enter coordinates (separated by comma) to show on map center (instead of "
+"address)"
+msgstr "输入显示在地图上的坐标（逗号分隔）"
+
+#: admin/theme-settings.php:937
+msgid "Reviews"
+msgstr "评论"
+
+#: admin/theme-settings.php:941 admin/theme-settings.php:999
+msgid "Reviews criterias"
+msgstr "评论特性"
+
+#: admin/theme-settings.php:942
+msgid "Set up list of reviews criterias. You can override it in any category."
+msgstr "评论特性列表。你在任何类别可以覆盖它。"
+
+#: admin/theme-settings.php:946 includes/type-post.php:22
+msgid "Show reviews block"
+msgstr "显示评论块"
+
+#: admin/theme-settings.php:947 includes/type-post.php:23
+msgid ""
+"Show reviews block on single post page and average reviews rating after "
+"post's title in stream pages"
+msgstr "在文章内页显示评级块和在瀑布流页面文章标题后面显示平均评分"
+
+#: admin/theme-settings.php:955
+msgid "Max reviews level"
+msgstr "最大评论层级"
+
+#: admin/theme-settings.php:956
+msgid "Maximum level for reviews marks"
+msgstr "最大数量的评论层级"
+
+#: admin/theme-settings.php:960 footer.php:138
+msgid "5 stars"
+msgstr "5 星"
+
+#: admin/theme-settings.php:960 footer.php:139
+msgid "10 stars"
+msgstr "10 星"
+
+#: admin/theme-settings.php:960 footer.php:140
+msgid "100%"
+msgstr "100%"
+
+# @ dt
+#: admin/theme-settings.php:962
+msgid "Show rating as"
+msgstr "显示评级为"
+
+#: admin/theme-settings.php:963
+msgid "Show rating marks as text or as stars/progress bars."
+msgstr "显示评分标记作为文字或作为星星/进度条。"
+
+#: admin/theme-settings.php:967
+msgid "As text (for example: 7.5 / 10)"
+msgstr "作为文字(for example: 7.5 / 10)"
+
+#: admin/theme-settings.php:967
+msgid "As stars or bars"
+msgstr "作为星或是条"
+
+#: admin/theme-settings.php:969
+msgid "Reviews Criterias Levels"
+msgstr "评论标准水平"
+
+#: admin/theme-settings.php:970
+msgid "Comma separated words to mark criterials levels (5 levels)"
+msgstr "逗号分隔的单词来标记criterials级别（5级）"
+
+#: admin/theme-settings.php:972
+msgid "bad,poor,normal,good,great"
+msgstr "坏，差，一般，好，大"
+
+#: admin/theme-settings.php:975
+msgid "Show first reviews"
+msgstr "显示第一评论"
+
+#: admin/theme-settings.php:976
+msgid ""
+"What reviews will be displayed first: by author or by visitors. Also this "
+"type of reviews will display under post's title."
+msgstr ""
+"什么样的评论将首先显示：按作者或游客。这种类型的评论将显示在文章的标题下面。"
+
+# @ dt
+#: admin/theme-settings.php:981
+msgid "By author"
+msgstr "作者"
+
+#: admin/theme-settings.php:981
+msgid "By visitors"
+msgstr "游客"
+
+#: admin/theme-settings.php:983
+msgid "Hide second reviews"
+msgstr "隐藏第二个评论"
+
+#: admin/theme-settings.php:984
+msgid "Do you want hide second reviews tab in widgets and single posts?"
+msgstr "你是否想隐藏第二个评论标签小工具和单页？"
+
+#: admin/theme-settings.php:991
+msgid "What visitors can vote"
+msgstr "哪类游客可以评分"
+
+#: admin/theme-settings.php:992
+msgid "What visitors can vote: all or only registered"
+msgstr "哪类游客可以评分：全部或注册的才行"
+
+# @ dt
+#: admin/theme-settings.php:997
+msgid "All visitors"
+msgstr "全部游客"
+
+#: admin/theme-settings.php:997
+msgid "Only registered"
+msgstr "仅注册用户"
+
+#: admin/theme-settings.php:1000
+msgid "Add default reviews criterias."
+msgstr "添加默认点评特性。"
+
+# @ dt
+#: admin/theme-settings.php:1016
+msgid "Social"
+msgstr "社交"
+
+# @ dt
+#: admin/theme-settings.php:1019 admin/theme-settings.php:1023
+msgid "Social networks"
+msgstr "社交网络"
+
+#: admin/theme-settings.php:1020
+msgid "Social networks list for site footer and Social widget"
+msgstr "站点页脚和小工具的社交网络列表"
+
+#: admin/theme-settings.php:1024
+msgid "Select icon and write URL to your profile in desired social networks."
+msgstr "选择图标和写您的个人资料中所需的社交网络URL。"
+
+# @ dt
+#: admin/theme-settings.php:1030 admin/theme-settings.php:1064
+msgid "Share buttons"
+msgstr "分享按钮"
+
+#: admin/theme-settings.php:1031
+msgid ""
+"Add button's code for each social share network.<br>In share url you can use "
+"next macro:<br><b>{url}</b> - share post (page) URL,<br><b>{title}</b> - "
+"post title,<br><b>{image}</b> - post image,<br><b>{descr}</b> - post "
+"description (if supported)<br>For example:<br><b>Facebook</b> share string: "
+"<em>http://www.facebook.com/sharer.php?u={link}&amp;t={title}</"
+"em><br><b>Delicious</b> share string: <em>http://delicious.com/save?"
+"url={link}&amp;title={title}&amp;note={descr}</em>"
+msgstr ""
+"Add button's code for each social share network.<br>In share url you can use "
+"next macro:<br><b>{url}</b> - share post (page) URL,<br><b>{title}</b> - "
+"post title,<br><b>{image}</b> - post image,<br><b>{descr}</b> - post "
+"description (if supported)<br>For example:<br><b>Facebook</b> share string: "
+"<em>http://www.facebook.com/sharer.php?u={link}&amp;t={title}</"
+"em><br><b>Delicious</b> share string: <em>http://delicious.com/save?"
+"url={link}&amp;title={title}&amp;note={descr}</em>"
+
+#: admin/theme-settings.php:1034
+msgid "Show social share buttons"
+msgstr "显示社交分享按钮"
+
+#: admin/theme-settings.php:1035
+msgid "Show social share buttons block"
+msgstr "显示社交分享块"
+
+# @ dt
+#: admin/theme-settings.php:1042
+msgid "Show share counters"
+msgstr "显示分享计数器："
+
+#: admin/theme-settings.php:1043
+msgid "Show share counters after social buttons"
+msgstr "在社交按钮后面显示分享计数器"
+
+#: admin/theme-settings.php:1050
+msgid "Share buttons block direction"
+msgstr "分享按钮块方向"
+
+#: admin/theme-settings.php:1051
+msgid "Select direction for the social share buttons block"
+msgstr "为分享按钮块选择方向"
+
+# @ dt
+#: admin/theme-settings.php:1058
+msgid "Share block caption"
+msgstr "分享块标题"
+
+#: admin/theme-settings.php:1059
+msgid "Caption for the block with social share buttons"
+msgstr "分享按钮块标题"
+
+#: admin/theme-settings.php:1061
+msgid "Share this post"
+msgstr "分享本文"
+
+#: admin/theme-settings.php:1065
+msgid ""
+"Select icon and write share URL for desired social networks.<br><b>Important!"
+"</b>If you leave text field empty - internal theme link will be used (if "
+"present)."
+msgstr ""
+"Select icon and write share URL for desired social networks.<br><b>Important!"
+"</b>If you leave text field empty - internal theme link will be used (if "
+"present)."
+
+# @ dt
+#: attachment.php:51
+msgid "Previous"
+msgstr "上一个"
+
+#: attachment.php:56 includes/wp-pagenavi.php:198
+msgid "Next"
+msgstr "下一页"
+
+# @ dt
+#: attachment.php:74 single.php:119 template-blog-excerpt.php:53
+#: template-blog-fullpost.php:41
+msgid "Posted "
+msgstr "发表"
+
+# @ dt
+#: attachment.php:96 single.php:271
+msgid "Pages:"
+msgstr "页："
+
+# @ dt
+#: comments.php:29
+msgid "Comment"
+msgstr "评论"
+
+# @ dt
+#: comments.php:29
+msgid "Comments"
+msgstr "评论"
+
+# @ dt
+#: comments.php:44
+msgid "Comments are closed."
+msgstr "评论已经关闭"
+
+# @ dt
+#: comments.php:61
+msgid "Submit"
+msgstr "提交"
+
+# @ dt
+#: comments.php:63
+msgid "Leave a comment"
+msgstr "发表评论:"
+
+# @ dt
+#: comments.php:73
+msgid "Your Message"
+msgstr "你的信息"
+
+# @ dt
+#: comments.php:74 comments.php:82 comments.php:89
+msgid "required"
+msgstr "必需"
+
+# @ dt
+#: comments.php:81
+msgid "Name"
+msgstr "名称"
+
+# @ dt
+#: comments.php:88
+msgid "Email"
+msgstr "Email"
+
+# @ dt
+#: comments.php:95
+msgid "Website"
+msgstr "网站"
+
+# @ dt
+#: comments.php:96
+msgid "optional"
+msgstr "可选"
+
+#: comments.php:119
+msgid "Trackback:"
+msgstr "引用通告:"
+
+# @ dt
+#: comments.php:119 comments.php:125
+msgid "Edit"
+msgstr "编辑"
+
+#: comments.php:125
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: comments.php:147
+msgid "Your comment is awaiting moderation."
+msgstr "你的评论正在等待审核中"
+
+#: footer.php:50 footer.php:55 header.php:156
+msgid "Login"
+msgstr "登录"
+
+#: footer.php:53
+msgid "Login*"
+msgstr "登录*"
+
+#: footer.php:54
+msgid "Password*"
+msgstr "密码*"
+
+#: footer.php:57
+msgid "Forgot password?"
+msgstr "忘记密码？"
+
+#: footer.php:60 footer.php:81 header.php:157
+msgid "Register"
+msgstr "注册"
+
+# @ dt
+#: footer.php:69
+msgid "Registration"
+msgstr "Registration"
+
+#: footer.php:72
+msgid "Your name (login)*"
+msgstr "你的名字（登录）*"
+
+#: footer.php:73
+msgid "Your email*"
+msgstr "你的email*"
+
+#: footer.php:74
+msgid "Your Password*"
+msgstr "你的密码*"
+
+#: footer.php:75
+msgid "Confirm Password*"
+msgstr "重复密码*"
+
+#: footer.php:76
+msgid "Desired role:"
+msgstr "期望中的角色："
+
+#: footer.php:77
+msgid "Subscriber"
+msgstr "订购者"
+
+# @ dt
+#: footer.php:78 single.php:146
+msgid "Author"
+msgstr "作者"
+
+#: footer.php:80
+msgid "Your message"
+msgstr "你的信息"
+
+#: footer.php:117
+msgid "Choose Your Style"
+msgstr "选择你的样式"
+
+# @ dt
+#: footer.php:122
+msgid "Select color theme:"
+msgstr "选择颜色主题："
+
+# @ dt
+#: footer.php:124
+msgid "Content"
+msgstr "内容"
+
+# @ dt
+#: footer.php:125 functions.php:472
+msgid "Main sidebar"
+msgstr "主侧边栏"
+
+#: footer.php:126
+msgid "Advert sidebar"
+msgstr "广告侧边栏"
+
+# @ dt
+#: footer.php:127 functions.php:474
+msgid "Footer sidebar"
+msgstr "页脚侧边栏"
+
+#: footer.php:130
+msgid "Apply"
+msgstr "应用"
+
+# @ dt
+#: footer.php:131
+msgid "Reset to defaults"
+msgstr "重置为默认"
+
+#: footer.php:136
+msgid "Reviews type:"
+msgstr "评分类型："
+
+#: footer.php:145
+msgid "Puzzles style:"
+msgstr "Puzzles 风格："
+
+# @ dt
+#: footer.php:147
+msgid "Light"
+msgstr "白"
+
+#: footer.php:149
+msgid "Heavy"
+msgstr "沉重"
+
+#: footer.php:166
+msgid "Page style:"
+msgstr "页面样式："
+
+#: footer.php:177
+msgid "Stretched"
+msgstr "拉伸"
+
+#: footer.php:179 functions.php:528
+msgid "Boxed"
+msgstr "盒子布局"
+
+# @ dt
+#: footer.php:196
+msgid "Background color:"
+msgstr "背景颜色："
+
+# @ dt
+#: footer.php:201
+msgid "Background pattern:"
+msgstr "背景图案："
+
+# @ dt
+#: footer.php:212
+msgid "Background image:"
+msgstr "背景图像："
+
+#: footer.php:268
+msgid "Your browser is out of date"
+msgstr "您的浏览器已经过时"
+
+#: footer.php:269
+msgid "You are currently using an unsupported browser"
+msgstr "你当前正使用一个不支持的浏览器"
+
+#: footer.php:270
+msgid "Please install one of the many optional browsers below to proceed"
+msgstr "请安装下面的一个浏览器以继续"
+
+#: footer.php:271
+msgid "Close this window at your own demise!"
+msgstr "关闭这个窗口则消失"
+
+#: footer.php:292
+msgid "Global error text"
+msgstr "全局错误文字"
+
+# @ dt
+#: footer.php:293
+msgid "The name can't be empty"
+msgstr "姓名不能为空"
+
+#: footer.php:294
+msgid "Too long name"
+msgstr "太长的名字"
+
+#: footer.php:295
+msgid "Too short (or empty) email address"
+msgstr "太短（或为空）email 地址"
+
+#: footer.php:296
+msgid "Too long email address"
+msgstr "太长的email 地址"
+
+#: footer.php:297
+msgid "Invalid email address"
+msgstr "无效的email 地址"
+
+# @ dt
+#: footer.php:298
+msgid "The message text can't be empty"
+msgstr "信息不能为空"
+
+#: footer.php:299
+msgid "Too long message text"
+msgstr "太长的信息文字"
+
+#: footer.php:300
+msgid "Send message complete!"
+msgstr "发送信息完成！"
+
+#: footer.php:301
+msgid "Transmit failed!"
+msgstr "发送失败！"
+
+#: footer.php:302
+msgid "The Login field can't be empty"
+msgstr "登录字段不能为空"
+
+#: footer.php:303
+msgid "Too long login field"
+msgstr "太长登录字段"
+
+#: footer.php:304
+msgid "The password can't be empty and shorter then 5 characters"
+msgstr "密码不能为空并且不少于5个字符"
+
+#: footer.php:305
+msgid "Too long password"
+msgstr "太长的密码"
+
+#: footer.php:306
+msgid "The passwords in both fields are not equal"
+msgstr "2次输入的密码不一致"
+
+#: footer.php:307
+msgid "Registration success! Please log in!"
+msgstr "注册成功！请登录！"
+
+# @ dt
+#: footer.php:308
+msgid "Registration failed!"
+msgstr "注册失败！"
+
+#: footer.php:309
+msgid "Your account is waiting for the site admin moderation!"
+msgstr "您的帐号正在等待管理员审核！"
+
+#: footer.php:310
+msgid "Geocode was not successful for the following reason:"
+msgstr "以下原因导致地理编码是不是成功："
+
+#: footer.php:311
+msgid "Google map API not available!"
+msgstr "谷歌地图API无法使用！"
+
+#: footer.php:312
+msgid "Navigate to..."
+msgstr "导航至..."
+
+# @ dt
+#: functions.php:153
+#, php-format
+msgid "Page %s"
+msgstr "页  %s"
+
+#: functions.php:235
+msgid "Unknown admin email!"
+msgstr "未知管理email！"
+
+#: functions.php:237
+#, php-format
+msgid "Site %s - Contact form message from %s"
+msgstr "站点 %s - 联系表单信息来自%s"
+
+# @ dt
+#: functions.php:239 functions.php:351 widgets/qrcode/widget-qrcode.php:78
+#: widgets/qrcode/widget-qrcode.php:289
+msgid "Name:"
+msgstr "名称："
+
+# @ dt
+#: functions.php:240 functions.php:352 widgets/qrcode/widget-qrcode.php:81
+#: widgets/qrcode/widget-qrcode.php:258 widgets/qrcode/widget-qrcode.php:293
+msgid "E-mail:"
+msgstr "E-mail:"
+
+# @ dt
+#: functions.php:242 functions.php:354
+msgid "Message:"
+msgstr "信息："
+
+#: functions.php:256
+msgid "Error send message!"
+msgstr "发送信息错误！"
+
+#: functions.php:315
+msgid "Bad post ID"
+msgstr "坏的文章ID"
+
+#: functions.php:347
+#, php-format
+msgid "Site %s - New author registration: %s"
+msgstr "站点%s - 新作者注册：%s"
+
+#: functions.php:349
+msgid "New registration: user want be an author. Registration data:"
+msgstr "新注册：用户想成为作者。注册数据："
+
+#: functions.php:416
+msgid "Wrong query arguments"
+msgstr "错误的查询参数"
+
+#: functions.php:433 functions.php:459 functions.php:471 functions.php:490
+#: functions.php:515 functions.php:527 functions.php:580 functions.php:591
+#: functions.php:602 functions.php:613 functions.php:624
+msgid "Inherit"
+msgstr "继承"
+
+# @ dt
+#: functions.php:460
+msgid "Flexslider"
+msgstr "Flexslider"
+
+# @ dt
+#: functions.php:462
+msgid "Revolution slider"
+msgstr "Revolution slider"
+
+#: functions.php:473
+msgid "Advertisement sidebar"
+msgstr "广告侧边栏"
+
+# @ dt
+#: functions.php:491
+msgid "Right"
+msgstr "右"
+
+#: functions.php:492
+msgid "Left"
+msgstr "左侧"
+
+#: functions.php:493
+msgid "Hide (without sidebar)"
+msgstr "隐藏（无侧边栏）"
+
+# @ dt
+#: functions.php:516
+msgid "Blog Puzzles"
+msgstr "博客拼图"
+
+# @ dt
+#: functions.php:517
+msgid "Blog Excerpt"
+msgstr "博客摘录"
+
+# @ dt
+#: functions.php:518
+msgid "Blog Fullpost"
+msgstr "博客全部文章"
+
+#: functions.php:529
+msgid "Wide"
+msgstr "全宽"
+
+#: functions.php:530
+msgid "Fullwidth"
+msgstr "全宽"
+
+# @ dt
+#: functions.php:581
+msgid "Yes"
+msgstr "是"
+
+# @ dt
+#: functions.php:582
+msgid "No"
+msgstr "否"
+
+# @ dt
+#: functions.php:592 widgets/widget-popular-posts.php:276
+#: widgets/widget-popular-posts.php:284 widgets/widget-popular-posts.php:292
+#: widgets/widget-recent-posts.php:219 widgets/widget-recent-posts.php:227
+#: widgets/widget-recent-posts.php:235 widgets/widget-recent-reviews.php:247
+#: widgets/widget-recent-reviews.php:255 widgets/widget-recent-reviews.php:263
+#: widgets/widget-socials.php:149 widgets/widget-socials.php:156
+#: widgets/widget-top10.php:288 widgets/widget-top10.php:296
+#: widgets/widget-top10.php:304
+msgid "Show"
+msgstr "显示"
+
+# @ dt
+#: functions.php:593 widgets/widget-popular-posts.php:278
+#: widgets/widget-popular-posts.php:286 widgets/widget-popular-posts.php:294
+#: widgets/widget-popular-posts.php:304 widgets/widget-recent-posts.php:221
+#: widgets/widget-recent-posts.php:229 widgets/widget-recent-posts.php:237
+#: widgets/widget-recent-posts.php:247 widgets/widget-recent-reviews.php:249
+#: widgets/widget-recent-reviews.php:257 widgets/widget-recent-reviews.php:265
+#: widgets/widget-recent-reviews.php:275 widgets/widget-socials.php:151
+#: widgets/widget-socials.php:158 widgets/widget-top10.php:290
+#: widgets/widget-top10.php:298 widgets/widget-top10.php:306
+#: widgets/widget-top10.php:316
+msgid "Hide"
+msgstr "隐藏"
+
+# @ dt
+#: functions.php:603
+msgid "Ascending"
+msgstr "升序"
+
+# @ dt
+#: functions.php:604
+msgid "Descending"
+msgstr "降序"
+
+#: functions.php:614
+msgid "Horizontal"
+msgstr "水平"
+
+#: functions.php:615
+msgid "Vertical"
+msgstr "垂直"
+
+# @ dt
+#: functions.php:625
+msgid "Date"
+msgstr "日期"
+
+#: functions.php:626
+msgid "Alphabetically"
+msgstr "按字母顺序"
+
+#: functions.php:627
+msgid "Popular (views count)"
+msgstr "热门（访问数）"
+
+#: functions.php:628
+msgid "Most commented (comments count)"
+msgstr "最多评论（评论数）："
+
+# @ dt
+#: functions.php:629
+msgid "Author rating"
+msgstr "作者评级"
+
+# @ dt
+#: functions.php:630
+msgid "Visitors (users) rating"
+msgstr "游客（用户）评级"
+
+#: functions.php:631
+msgid "Random"
+msgstr "随机"
+
+#: functions.php:640
+msgid "gallery"
+msgstr "相册"
+
+#: functions.php:640
+msgid "galleries"
+msgstr "相册"
+
+# @ dt
+#: functions.php:641
+msgid "video"
+msgstr "视频"
+
+# @ dt
+#: functions.php:641
+msgid "videos"
+msgstr "视频"
+
+#: functions.php:642
+msgid "audio"
+msgstr "音频"
+
+#: functions.php:642
+msgid "audios"
+msgstr "音频"
+
+# @ dt
+#: functions.php:643
+msgid "image"
+msgstr "图像"
+
+# @ dt
+#: functions.php:643
+msgid "images"
+msgstr "图像"
+
+#: functions.php:644
+msgid "quote"
+msgstr "引用"
+
+#: functions.php:644
+msgid "quotes"
+msgstr "引用"
+
+#: functions.php:645
+msgid "link"
+msgstr "链接"
+
+#: functions.php:645
+msgid "links"
+msgstr "链接"
+
+#: functions.php:646
+msgid "status"
+msgstr "状态"
+
+#: functions.php:646
+msgid "statuses"
+msgstr "状态"
+
+#: functions.php:647
+msgid "aside"
+msgstr "旁白"
+
+# @ dt
+#: functions.php:647
+msgid "asides"
+msgstr "旁白"
+
+#: functions.php:648
+msgid "chat"
+msgstr "讨论"
+
+#: functions.php:648
+msgid "chats"
+msgstr "讨论"
+
+#: functions.php:649
+msgid "standard"
+msgstr "标准"
+
+#: functions.php:649
+msgid "standards"
+msgstr "标准"
+
+#: functions.php:748
+msgid "no rated"
+msgstr "没有评级"
+
+#: functions.php:871
+msgid "Summary"
+msgstr "摘要"
+
+#: functions.php:888
+#, php-format
+msgid "Rating: %s from %s"
+msgstr "评分: %s 从 %s"
+
+# @ dt
+#: functions.php:888
+#, php-format
+msgid "Rating: %s"
+msgstr "评分： %s"
+
+#: functions.php:890
+#, php-format
+msgid "%s from %s"
+msgstr "%s 从 %s"
+
+#: functions.php:901
+#, php-format
+msgid "%s / %s"
+msgstr "%s / %s"
+
+#: functions.php:901 includes/_wp_utils.php:513
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+# @ dt
+#: functions.php:1085
+msgid "Main Sidebar"
+msgstr "主侧边栏"
+
+#: functions.php:1093
+msgid "Advertisement Sidebar"
+msgstr "广告侧边栏"
+
+# @ dt
+#: functions.php:1101
+msgid "Footer Sidebar"
+msgstr "页脚侧边栏"
+
+#: header.php:138
+msgid ""
+"It looks like you're using an old version of Internet Explorer. For the best "
+"WordPress experience, please <a href=\"http://microsoft.com\" style=\"color:"
+"#191919\">update your browser</a> or learn how to <a href=\"http://"
+"browsehappy.com\" style=\"color:#222222\">browse happy</a>!"
+msgstr ""
+"看起来你是使用的是旧版本的Internet Explorer。为了更好的WordPress的体验， 请 "
+"<a href=\"http://microsoft.com\" style=\"color:#191919\">更新你的浏览器</a> "
+"或了解如何 <a href=\"http://browsehappy.com\" style=\"color:#191919\">浏览快"
+"乐</a>!"
+
+# @ dt
+#: header.php:159
+msgid "Logout"
+msgstr "注销"
+
+#: header.php:166
+msgid "Home"
+msgstr "首页"
+
+#: header.php:231
+#, php-format
+msgid "Type your search query and press \"Enter\" %s"
+msgstr "输入您的搜索查询，然后按\"回车\" %s"
+
+# @ dt
+#: includes/_wp_utils.php:352
+#, php-format
+msgid "All %s"
+msgstr "全部%s"
+
+#: includes/_wp_utils.php:391 includes/_wp_utils.php:495
+msgid "Shop"
+msgstr "商店"
+
+# @ dt
+#: includes/_wp_utils.php:394 includes/_wp_utils.php:498
+msgid "All Posts"
+msgstr "全部文章"
+
+# @ dt
+#: includes/_wp_utils.php:485 includes/_wp_utils.php:515
+#, php-format
+msgid "Tag: %s"
+msgstr "标签： %s"
+
+#: includes/_wp_utils.php:487
+msgid "Your cart"
+msgstr "你的购物车"
+
+#: includes/_wp_utils.php:489
+msgid "Checkout"
+msgstr "结账"
+
+#: includes/_wp_utils.php:491
+msgid "Account"
+msgstr "帐号"
+
+# @ dt
+#: includes/_wp_utils.php:501
+#, php-format
+msgid "Author page: %s"
+msgstr "作者存档：%s"
+
+# @ dt
+#: includes/_wp_utils.php:503
+msgid "URL not found"
+msgstr "URL没找到"
+
+# @ dt
+#: includes/_wp_utils.php:505
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+# @ dt
+#: includes/_wp_utils.php:507
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "按日存档：%s"
+
+# @ dt
+#: includes/_wp_utils.php:509
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "按月存档： %s"
+
+# @ dt
+#: includes/_wp_utils.php:511
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "按年存档： %s"
+
+#: includes/_wp_utils.php:517
+#, php-format
+msgid "Attachment: %s"
+msgstr "附件: %s"
+
+# @ dt
+#: includes/_wp_utils.php:550 includes/wp-pagenavi.php:193
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "页面 %CURRENT_PAGE% of %TOTAL_PAGES%"
+
+#: includes/_wp_utils.php:553
+msgid "&laquo; First"
+msgstr "&laquo; 最早"
+
+#: includes/_wp_utils.php:554
+msgid "Last &raquo;"
+msgstr "最旧&raquo;"
+
+# @ dt
+#: includes/_wp_utils.php:586
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: includes/_wp_utils.php:588
+msgid "&larr;"
+msgstr "&larr;"
+
+#: includes/_wp_utils.php:589
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: includes/_wp_utils.php:592
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span>较早文章"
+
+#: includes/_wp_utils.php:595
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "最新文章 <span class=\"meta-nav\">&rarr;</span>"
+
+# @ dt
+#: includes/_wp_utils.php:1045
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ dt
+#: includes/_wp_utils.php:1046
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ dt
+#: includes/_wp_utils.php:1047
+msgid "Google+"
+msgstr "Google+"
+
+# @ dt
+#: includes/_wp_utils.php:1048
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/_wp_utils.php:1049
+msgid "Dribbble"
+msgstr "Dribbble"
+
+# @ dt
+#: includes/_wp_utils.php:1050
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/_wp_utils.php:1051
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: includes/_wp_utils.php:1052
+msgid "Behance"
+msgstr "Behance"
+
+#: includes/_wp_utils.php:1053
+msgid "Youtube"
+msgstr "Youtube"
+
+#: includes/_wp_utils.php:1054
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/_wp_utils.php:1055
+msgid "RSS"
+msgstr "RSS"
+
+# @ dt
+#: includes/_wp_utils.php:1095
+msgid "User position"
+msgstr "使用位置"
+
+#: includes/_wp_utils.php:1097
+msgid "Please, enter your position in the company"
+msgstr "请输入在公司的职位"
+
+#: includes/_wp_utils.php:1110
+#, php-format
+msgid "Please, enter your %s link"
+msgstr "请，输入你的%s 链接"
+
+#: includes/_wp_utils.php:1176
+#, fuzzy, php-format
+msgid "%s ago"
+msgstr "%s 以前"
+
+#: includes/_wp_utils.php:1198
+#, fuzzy, php-format
+msgid "%s days"
+msgstr "<strong>%s</strong> 天已去"
+
+#: includes/_wp_utils.php:1198
+#, fuzzy, php-format
+msgid "%s day"
+msgstr "天数"
+
+#: includes/_wp_utils.php:1200
+#, fuzzy, php-format
+msgid "%s hours"
+msgstr "<strong>%s</strong> 小时已去"
+
+#: includes/_wp_utils.php:1200
+#, fuzzy, php-format
+msgid "%s hour"
+msgstr "小时"
+
+#: includes/_wp_utils.php:1202
+#, php-format
+msgid "%s minutes"
+msgstr "%s 分钟"
+
+#: includes/_wp_utils.php:1202
+#, fuzzy, php-format
+msgid "%s minute"
+msgstr "结束时间"
+
+#: includes/_wp_utils.php:1204
+#, fuzzy, php-format
+msgid "%s seconds"
+msgstr "第二"
+
+#: includes/_wp_utils.php:1204
+#, fuzzy, php-format
+msgid "%s second"
+msgstr "结束秒"
+
+#: includes/_wp_utils.php:1204
+msgid "less then minute"
+msgstr "less then minute"
+
+#: includes/_wp_utils.php:1214
+msgid "January"
+msgstr "1月"
+
+#: includes/_wp_utils.php:1215
+msgid "February"
+msgstr "2月"
+
+# @ dt
+#: includes/_wp_utils.php:1216
+msgid "March"
+msgstr "3月"
+
+#: includes/_wp_utils.php:1217
+msgid "April"
+msgstr "4月"
+
+#: includes/_wp_utils.php:1218 includes/_wp_utils.php:1230
+msgid "May"
+msgstr "5月"
+
+#: includes/_wp_utils.php:1219
+msgid "June"
+msgstr "6月"
+
+#: includes/_wp_utils.php:1220
+msgid "July"
+msgstr "7月"
+
+#: includes/_wp_utils.php:1221
+msgid "August"
+msgstr "8月"
+
+#: includes/_wp_utils.php:1222
+msgid "September"
+msgstr "9月"
+
+#: includes/_wp_utils.php:1223
+msgid "October"
+msgstr "10月"
+
+#: includes/_wp_utils.php:1224
+msgid "November"
+msgstr "11月"
+
+#: includes/_wp_utils.php:1225
+msgid "December"
+msgstr "12月"
+
+#: includes/_wp_utils.php:1226
+msgid "Jan"
+msgstr "1月"
+
+#: includes/_wp_utils.php:1227
+msgid "Feb"
+msgstr "2月"
+
+#: includes/_wp_utils.php:1228
+msgid "Mar"
+msgstr "3月"
+
+#: includes/_wp_utils.php:1229
+msgid "Apr"
+msgstr "4月"
+
+#: includes/_wp_utils.php:1231
+msgid "Jun"
+msgstr "6月"
+
+#: includes/_wp_utils.php:1232
+msgid "Jul"
+msgstr "7月"
+
+#: includes/_wp_utils.php:1233
+msgid "Aug"
+msgstr "8月"
+
+#: includes/_wp_utils.php:1234
+msgid "Sep"
+msgstr "9月"
+
+#: includes/_wp_utils.php:1235
+msgid "Oct"
+msgstr "10月"
+
+# @ dt
+#: includes/_wp_utils.php:1236
+msgid "Nov"
+msgstr "11月"
+
+#: includes/_wp_utils.php:1237
+msgid "Dec"
+msgstr "12月"
+
+#: includes/shortcodes.php:29
+msgid "*Select Shortcode*"
+msgstr "*选择简码*"
+
+# @ dt
+#: includes/shortcodes.php:33 includes/shortcodes.php:34
+#: includes/shortcodes.php:35 includes/shortcodes.php:96
+#: includes/shortcodes.php:97 includes/shortcodes.php:98
+#: includes/shortcodes.php:128 includes/shortcodes.php:131
+#: includes/shortcodes.php:132 includes/shortcodes.php:133
+msgid "Title"
+msgstr "标题"
+
+#: includes/shortcodes.php:33 includes/shortcodes.php:34
+#: includes/shortcodes.php:35 includes/shortcodes.php:49
+#: includes/shortcodes.php:50 includes/shortcodes.php:131
+#: includes/shortcodes.php:132 includes/shortcodes.php:133
+msgid "Item inner text here"
+msgstr "条目内的文字在这里"
+
+#: includes/shortcodes.php:37
+msgid "Accordion"
+msgstr "手风琴"
+
+#: includes/shortcodes.php:40
+msgid "Audio"
+msgstr "音频"
+
+# @ dt
+#: includes/shortcodes.php:43
+msgid "Blogger"
+msgstr "博主"
+
+# @ dt
+#: includes/shortcodes.php:45
+msgid "Button caption"
+msgstr "按钮标题"
+
+# @ dt
+#: includes/shortcodes.php:46
+msgid "Button"
+msgstr "按钮"
+
+#: includes/shortcodes.php:52
+msgid "Columns"
+msgstr "列"
+
+# @ dt
+#: includes/shortcodes.php:54
+msgid "Contact Form"
+msgstr "联系表单"
+
+# @ dt
+#: includes/shortcodes.php:55
+msgid "Contact form"
+msgstr "联系表单"
+
+#: includes/shortcodes.php:57
+msgid "Dropcaps paragraph text here"
+msgstr "首字下沉段落文字"
+
+#: includes/shortcodes.php:58
+msgid "Dropcaps"
+msgstr "首字下沉"
+
+# @ dt
+#: includes/shortcodes.php:61
+msgid "Google Map"
+msgstr "谷歌地图"
+
+#: includes/shortcodes.php:63
+msgid "Hide block"
+msgstr "隐藏块"
+
+#: includes/shortcodes.php:65
+msgid "Highlighted text here"
+msgstr "高亮显示文字在这里"
+
+# @ dt
+#: includes/shortcodes.php:66
+msgid "Highlight"
+msgstr "高亮"
+
+# @ dt
+#: includes/shortcodes.php:69
+msgid "Image"
+msgstr "图像"
+
+#: includes/shortcodes.php:71
+msgid "Highlight text here"
+msgstr "高亮文字在这里"
+
+#: includes/shortcodes.php:72
+msgid "Infobox"
+msgstr "信息框"
+
+#: includes/shortcodes.php:75
+msgid "Line"
+msgstr "线"
+
+#: includes/shortcodes.php:78 includes/shortcodes.php:79
+#: includes/shortcodes.php:80
+msgid "List Item inner text here"
+msgstr "列表内的文字在这里"
+
+#: includes/shortcodes.php:82
+msgid "List"
+msgstr "列表"
+
+#: includes/shortcodes.php:87
+msgid "Puzzles"
+msgstr "拼图"
+
+#: includes/shortcodes.php:89
+msgid "Quoted text here"
+msgstr "引用的文字在这里"
+
+#: includes/shortcodes.php:90
+msgid "Quote"
+msgstr "引用"
+
+# @ dt
+#: includes/shortcodes.php:92
+msgid "Section inner text here"
+msgstr "该部分内文字在这里"
+
+#: includes/shortcodes.php:93
+msgid "Section"
+msgstr "Section"
+
+#: includes/shortcodes.php:100
+msgid "Skills"
+msgstr "技能"
+
+#: includes/shortcodes.php:106
+msgid ""
+"Paste here table content, generated on one of many public internet "
+"resources, for example: http://www.impressivewebs.com/html-table-code-"
+"generator/ or http://html-tables.com/"
+msgstr ""
+"粘贴表格内容到这里，产生许多公共互联网资源之一，例如： http://www."
+"impressivewebs.com/html-table-code-generator/ or http://html-tables.com/"
+
+# @ dt
+#: includes/shortcodes.php:108
+msgid "Table"
+msgstr "表格"
+
+#: includes/shortcodes.php:111 includes/shortcodes.php:112
+#: includes/shortcodes.php:113
+msgid "Tab inner text here"
+msgstr "标签内的文字在这里"
+
+#: includes/shortcodes.php:115
+msgid "Tabs"
+msgstr "标签"
+
+# @ dt
+#: includes/shortcodes.php:118 includes/shortcodes.php:119
+#: includes/shortcodes.php:120
+msgid "User name"
+msgstr "用户名"
+
+# @ dt
+#: includes/shortcodes.php:122
+msgid "Team"
+msgstr "团队"
+
+# @ dt
+#: includes/shortcodes.php:125
+msgid "Testimonials"
+msgstr "客户见证"
+
+# @ dt
+#: includes/shortcodes.php:127
+msgid "Title text here"
+msgstr "这里是标题文字"
+
+#: includes/shortcodes.php:135
+msgid "Toggles"
+msgstr "选项卡"
+
+#: includes/shortcodes.php:137
+msgid "Marked text here"
+msgstr "标记的文字在这里"
+
+#: includes/shortcodes.php:138
+msgid "Tooltip"
+msgstr "工具提示"
+
+# @ dt
+#: includes/shortcodes.php:141
+msgid "Video"
+msgstr "视频"
+
+# @ dt
+#: includes/shortcodes.php:609
+msgid "Posted"
+msgstr "发表"
+
+#: includes/shortcodes.php:610 widgets/widget-popular-posts.php:127
+#: widgets/widget-recent-posts.php:114 widgets/widget-recent-reviews.php:139
+#: widgets/widget-top10.php:151
+msgid "by"
+msgstr "由"
+
+#: includes/shortcodes.php:613
+msgid "in"
+msgstr "在"
+
+#: includes/shortcodes.php:802
+msgid "Your Name*"
+msgstr "你的名称*"
+
+# @ dt
+#: includes/shortcodes.php:803
+msgid "Your Email*"
+msgstr "你的Emaill*"
+
+# @ dt
+#: includes/shortcodes.php:804
+msgid "Your Message*"
+msgstr "你的信息*"
+
+#: includes/shortcodes.php:805
+msgid "Send"
+msgstr "发送"
+
+#: includes/type-category.php:29 includes/type-page.php:49
+#: includes/type-post.php:69
+msgid "Advertisement"
+msgstr "广告"
+
+#: includes/type-category.php:41
+msgid "Custom settings for this category (and nested):"
+msgstr "为分类自定义设置（和嵌套）："
+
+#: includes/type-category.php:45
+msgid ""
+"Select parameters for showing posts from this category and all nested "
+"categories."
+msgstr "从这一类的文章和所有嵌套类，为显示文章选择的参数。"
+
+#: includes/type-category.php:46
+msgid "Attention: In each nested category you can override this settings."
+msgstr "注意：在每一个嵌套类，你可以覆盖此设置。"
+
+# @ dt
+#: includes/type-page.php:7
+msgid "Page Options"
+msgstr "页面选项"
+
+# @ dt
+#: includes/type-post.php:6
+msgid "Post Options"
+msgstr "文章选项"
+
+#: includes/type-post.php:11
+msgid "Reviews criterias for this post"
+msgstr "这篇文章的评论特性"
+
+#: includes/type-post.php:12
+msgid "In this section you can put your reviews marks"
+msgstr "在这一部分，你可以把你的评论标记"
+
+#: includes/type-post.php:15
+msgid "Reviews marks"
+msgstr "评论标记"
+
+#: includes/type-post.php:16
+msgid "Marks for this review."
+msgstr "标记进行评论"
+
+# @ dt
+#: includes/update-notifier.php:30 includes/update-notifier.php:71
+msgid "Theme Updates"
+msgstr "主题更新"
+
+# @ dt
+#: includes/update-notifier.php:30
+msgid "New Update"
+msgstr "新的更新"
+
+#: includes/update-notifier.php:49
+#, php-format
+msgid "New Update: %s"
+msgstr "新的更新: %s"
+
+#: includes/update-notifier.php:72
+#, php-format
+msgid "There is a new version of the %s theme available."
+msgstr "有一个新的版本的 %s主题可用。"
+
+#: includes/update-notifier.php:72
+#, php-format
+msgid "You have version %s installed. Update to version %s."
+msgstr "你有安装版本%s。更新版本%s。"
+
+#: includes/update-notifier.php:77
+msgid "Update Download and Instructions"
+msgstr "更新下载和说明"
+
+#: includes/update-notifier.php:78
+#, php-format
+msgid ""
+"<strong>Please note:</strong> make a backup of the Theme inside your "
+"WordPress installation folder <strong>/wp-content/themes/%s/</strong>"
+msgstr ""
+"<strong>请注意:</strong> 做一个 <strong>备份</strong> 您的WordPress的安装文件"
+"夹里面的主题<strong>/wp-content/themes/%s/</strong>"
+
+#: includes/update-notifier.php:79
+msgid ""
+"To update the Theme, login to <a href=\"http://www.themeforest.net/"
+"\">ThemeForest</a>, head over to your <strong>downloads</strong> section and "
+"re-download the theme like you did when you bought it."
+msgstr ""
+"要更新的主题，请登录 <a href=\"http://www.themeforest.net/\">ThemeForest</"
+"a>, 到您的头部<strong>下载</strong> 部分重新下载的主题，像你这样的，当你买了"
+"它。"
+
+#: includes/update-notifier.php:80
+#, php-format
+msgid ""
+"Extract the zip's contents, look for the extracted theme folder, and after "
+"you have all the new files upload them using FTP to the <strong>/wp-content/"
+"themes/%s/</strong> folder overwriting the old ones (this is why it's "
+"important to backup any changes you've made to the theme files)."
+msgstr ""
+"解压缩zip的内容，找到提取的主题文件夹后，你把所有的新文件上传到FTP <strong>/"
+"wp-content/themes/%s/</strong> 覆盖旧的文件夹(这就是为什么它是重要的主题文件"
+"所做的任何更改备份)."
+
+#: includes/update-notifier.php:81
+msgid ""
+"If you didn't make any changes to the theme files, you are free to overwrite "
+"them with the new ones without the risk of losing theme settings, pages, "
+"posts, etc, and backwards compatibility is guaranteed."
+msgstr ""
+"如果主题文件你没有做任何改动，你可以自由覆盖这些新的没有主题设置丢失的风险， "
+"页面，文章等，和向后兼容性得到保证。"
+
+#: includes/update-notifier.php:84
+msgid "Changelog"
+msgstr "变更"
+
+# @ dt
+#: includes/wp-pagenavi.php:196
+msgid "First"
+msgstr "第一"
+
+# @ dt
+#: includes/wp-pagenavi.php:197
+msgid "Last"
+msgstr "最后"
+
+# @ dt
+#: includes/wp-pagenavi.php:199
+msgid "Prev"
+msgstr "上一页"
+
+#: includes/wp-pagenavi.php:200 includes/wp-pagenavi.php:201
+msgid "..."
+msgstr "..."
+
+#: single.php:121 template-blog-excerpt.php:55 template-blog-fullpost.php:43
+msgid "by "
+msgstr "由"
+
+#: single.php:124 template-blog-excerpt.php:58 template-blog-fullpost.php:46
+msgid "in "
+msgstr "在"
+
+#: single.php:147
+msgid "Users"
+msgstr "用户"
+
+#: single.php:177
+#, php-format
+msgid "Summary rating from %s user's marks."
+msgstr "摘要评级从 %s用户的标记。"
+
+#: single.php:180
+msgid ""
+"You can set own marks for this article - just click on stars above and press "
+"\"Accept\"."
+msgstr "您可以在这篇文章设置自己的标记，- 只需点击星级以上，并按\"接受\"。"
+
+#: single.php:181
+msgid "Thanks for your vote!"
+msgstr "感谢您的投票！"
+
+#: single.php:183
+msgid "Accept"
+msgstr "接受"
+
+#: single.php:225
+msgid "Thanks for your vote! New average rating is:"
+msgstr "感谢您的投票！新的平均评级是："
+
+#: single.php:239
+msgid "Error saving your vote! Please, try again later."
+msgstr "错误，保存您投票！请稍后再试。"
+
+# @ dt
+#: single.php:281 template-blog-excerpt.php:99 template-blog-fullpost.php:89
+msgid "Tags:"
+msgstr "标签："
+
+#: single.php:312
+msgid "About author"
+msgstr "作者简介"
+
+# @ dt
+#: single.php:349
+msgid "Related posts"
+msgstr "相关文章"
+
+#: template-blog-404.php:12
+msgid "404"
+msgstr "404"
+
+#: template-blog-404.php:15
+msgid "Oops, This Page Could Not Be Found!"
+msgstr "糟糕！页面没找到！"
+
+#: template-blog-404.php:17
+msgid "Can't find what you need? Start from our homepage!"
+msgstr "无法找到你所需要的吗？开始从您的首页！"
+
+#: template-blog-excerpt.php:90 template-blog-fullpost.php:78
+#: template-blog-loop.php:30 template-blog-loop.php:42
+msgid "Read more"
+msgstr "阅读更多"
+
+# @ dt
+#: template-blog-no-articles.php:12
+msgid "No posts found"
+msgstr "没找到文章"
+
+#: template-blog-no-articles.php:17
+msgid "Sorry, but nothing matched your search criteria."
+msgstr "抱歉，没有符合您搜索条件。"
+
+# @ dt
+#: template-blog-no-search-results.php:12
+msgid "Search Results for:"
+msgstr "搜索结果："
+
+#: template-blog-no-search-results.php:18
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有符合您搜索条件。请再次尝试一些不同的关键字。"
+
+#: template-blog.php:114
+msgid "View more"
+msgstr "查看更多"
+
+# @ dt
+#: template-blog.php:114
+msgid "Loading ..."
+msgstr "加载中..."
+
+#: widgets/qrcode/widget-qrcode.php:25
+msgid "Generate QRCode with your personal data or with any text (links)"
+msgstr "您的个人资料，或用任何文本生成QR码（链接）"
+
+#: widgets/qrcode/widget-qrcode.php:31
+msgid "ThemeREX - QRCode generator"
+msgstr "ThemeREX -  QR码发生器"
+
+#: widgets/qrcode/widget-qrcode.php:79 widgets/qrcode/widget-qrcode.php:228
+#: widgets/qrcode/widget-qrcode.php:291
+msgid "Company:"
+msgstr "公司名称："
+
+# @ dt
+#: widgets/qrcode/widget-qrcode.php:80 widgets/qrcode/widget-qrcode.php:233
+#: widgets/qrcode/widget-qrcode.php:292
+msgid "Phone:"
+msgstr "联系电话："
+
+#: widgets/qrcode/widget-qrcode.php:82 widgets/qrcode/widget-qrcode.php:294
+msgid "Site:"
+msgstr "网址："
+
+#: widgets/qrcode/widget-qrcode.php:153
+msgid "QR Code Generator (for your vcard)"
+msgstr "QR码生成器（您的vCard）"
+
+#: widgets/qrcode/widget-qrcode.php:183
+msgid "Settings"
+msgstr "设置"
+
+#: widgets/qrcode/widget-qrcode.php:184
+msgid "Personal Data"
+msgstr "个人资料"
+
+#: widgets/qrcode/widget-qrcode.php:185
+msgid "Any Text"
+msgstr "任何文本"
+
+# @ dt
+#: widgets/qrcode/widget-qrcode.php:189 widgets/widget-advert.php:108
+#: widgets/widget-flickr.php:93 widgets/widget-socials.php:127
+#: widgets/widget-twitter2.php:124
+msgid "Title:"
+msgstr "标题："
+
+# @ dt
+#: widgets/qrcode/widget-qrcode.php:193
+msgid "Show as QR Code:"
+msgstr "QR码显示为："
+
+#: widgets/qrcode/widget-qrcode.php:195
+msgid "Personal VCard"
+msgstr "个人电子名片"
+
+#: widgets/qrcode/widget-qrcode.php:197
+msgid "Any text"
+msgstr "任何文本"
+
+#: widgets/qrcode/widget-qrcode.php:201
+msgid "Show data under QR Code:"
+msgstr "QR码下的数据显示："
+
+#: widgets/qrcode/widget-qrcode.php:204
+msgid "Width:"
+msgstr "宽度："
+
+#: widgets/qrcode/widget-qrcode.php:208
+msgid "Color:"
+msgstr "颜色："
+
+# @ dt
+#: widgets/qrcode/widget-qrcode.php:212
+msgid "Bg color:"
+msgstr "背景色："
+
+# @ dt
+#: widgets/qrcode/widget-qrcode.php:218
+msgid "Last name:"
+msgstr "姓："
+
+# @ dt
+#: widgets/qrcode/widget-qrcode.php:223
+msgid "First name:"
+msgstr "姓："
+
+# @ dt
+#: widgets/qrcode/widget-qrcode.php:238
+msgid "Address:"
+msgstr "地址："
+
+#: widgets/qrcode/widget-qrcode.php:243
+msgid "City:"
+msgstr "城市："
+
+# @ dt
+#: widgets/qrcode/widget-qrcode.php:248
+msgid "Post code:"
+msgstr "邮编："
+
+#: widgets/qrcode/widget-qrcode.php:253
+msgid "Country:"
+msgstr "国家："
+
+#: widgets/qrcode/widget-qrcode.php:263
+msgid "Web Site URL:"
+msgstr "网站网址："
+
+#: widgets/qrcode/widget-qrcode.php:269
+msgid "Text to show as QR Code:"
+msgstr "文字显示为QR码："
+
+#: widgets/qrcode/widget-qrcode.php:281
+msgid "Auto"
+msgstr "自动"
+
+#: widgets/widget-advert.php:24 widgets/widget-advert.php:98
+msgid "Advertisement block"
+msgstr "广告块"
+
+#: widgets/widget-advert.php:30
+msgid "ThemeREX - Advertisement block"
+msgstr "ThemeREX - 广告块"
+
+#: widgets/widget-advert.php:113
+msgid "Image source URL:<br />(leave empty if you paste advert code)"
+msgstr "图像来源URL:<br />(如果你粘贴广告代码则留空)"
+
+#: widgets/widget-advert.php:126
+msgid "Image link URL:<br />(leave empty if you paste advert code)"
+msgstr "图像链接URL:<br />(如果你粘贴广告代码则留空)"
+
+#: widgets/widget-advert.php:131
+msgid "or paste Advert Widget HTML Code:"
+msgstr "或粘贴广告小工具HTML代码："
+
+#: widgets/widget-flickr.php:25
+msgid "Last flickr photos."
+msgstr "最后 flickr 照片."
+
+#: widgets/widget-flickr.php:31
+msgid "ThemeREX - Flickr photos"
+msgstr "ThemeREX -  Flickr照片"
+
+#: widgets/widget-flickr.php:85
+msgid "Last flickr photos"
+msgstr "最后 flickr 照片"
+
+#: widgets/widget-flickr.php:97
+msgid ""
+"Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+msgstr ""
+"Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+
+# @ dt
+#: widgets/widget-flickr.php:101
+msgid "Number of photos:"
+msgstr "照片数量："
+
+#: widgets/widget-popular-posts.php:24
+msgid "The most popular and most commented blog posts (extended)"
+msgstr "最流行的和最多评论的博客文章（扩展）"
+
+#: widgets/widget-popular-posts.php:30
+msgid "ThemeREX - Most Popular & Commented Posts"
+msgstr "ThemeREX - 最受欢迎 & 评论文章"
+
+#: widgets/widget-popular-posts.php:145 widgets/widget-recent-posts.php:127
+msgid "views"
+msgstr "评论"
+
+# @ dt
+#: widgets/widget-popular-posts.php:145 widgets/widget-recent-posts.php:127
+msgid "comments"
+msgstr "评论"
+
+#: widgets/widget-popular-posts.php:227 widgets/widget-recent-posts.php:182
+msgid "The most popular & commented posts"
+msgstr "最多热门&评论的文章"
+
+# @ dt
+#: widgets/widget-popular-posts.php:242 widgets/widget-recent-posts.php:195
+#: widgets/widget-recent-reviews.php:223 widgets/widget-top10.php:254
+msgid "Widget title:"
+msgstr "Widget的标题："
+
+#: widgets/widget-popular-posts.php:247
+msgid "Most popular tab title:"
+msgstr "最热门标签标题："
+
+#: widgets/widget-popular-posts.php:252
+msgid "Most commented tab title:"
+msgstr "最多评论标签标题："
+
+# @ dt
+#: widgets/widget-popular-posts.php:257 widgets/widget-recent-posts.php:200
+#: widgets/widget-recent-reviews.php:228 widgets/widget-top10.php:269
+msgid "Category:"
+msgstr "类别："
+
+#: widgets/widget-popular-posts.php:259 widgets/widget-recent-posts.php:202
+#: widgets/widget-recent-reviews.php:230 widgets/widget-top10.php:271
+msgid "-- Any category --"
+msgstr "- 所有类别 - "
+
+# @ dt
+#: widgets/widget-popular-posts.php:269 widgets/widget-recent-posts.php:212
+#: widgets/widget-recent-reviews.php:240 widgets/widget-top10.php:281
+msgid "Number posts to show:"
+msgstr "文章显示数量："
+
+# @ dt
+#: widgets/widget-popular-posts.php:274 widgets/widget-recent-posts.php:217
+#: widgets/widget-recent-reviews.php:245 widgets/widget-top10.php:286
+msgid "Show post image:"
+msgstr "显示文章图像："
+
+# @ dt
+#: widgets/widget-popular-posts.php:282 widgets/widget-recent-posts.php:225
+#: widgets/widget-recent-reviews.php:253 widgets/widget-top10.php:294
+msgid "Show post author:"
+msgstr "显示文章作者："
+
+# @ dt
+#: widgets/widget-popular-posts.php:290 widgets/widget-recent-posts.php:233
+#: widgets/widget-recent-reviews.php:261 widgets/widget-top10.php:302
+msgid "Show post date:"
+msgstr "显示文章日期："
+
+# @ dt
+#: widgets/widget-popular-posts.php:298 widgets/widget-recent-posts.php:241
+#: widgets/widget-recent-reviews.php:269 widgets/widget-top10.php:310
+msgid "Show post counters:"
+msgstr "显示文章计数器："
+
+#: widgets/widget-popular-posts.php:300 widgets/widget-recent-posts.php:243
+msgid "As text"
+msgstr "作为文本"
+
+#: widgets/widget-popular-posts.php:302 widgets/widget-recent-posts.php:245
+#: widgets/widget-recent-reviews.php:273 widgets/widget-top10.php:314
+msgid "As icon"
+msgstr "作为图标"
+
+# @ dt
+#: widgets/widget-recent-posts.php:24
+msgid "The recent blog posts (extended)"
+msgstr "最近的博客文章（扩展）"
+
+# @ dt
+#: widgets/widget-recent-posts.php:30
+msgid "ThemeREX - Recent Posts"
+msgstr "ThemeREX - 最近的帖子"
+
+#: widgets/widget-recent-reviews.php:24
+msgid "Recent reviews"
+msgstr "最近的评论"
+
+#: widgets/widget-recent-reviews.php:30
+msgid "ThemeREX - Recent reviews"
+msgstr "ThemeREX - 最近的评论"
+
+# @ dt
+#: widgets/widget-recent-reviews.php:210
+msgid "Recent reviews from selected category"
+msgstr "从选定的类别最近的评论"
+
+#: widgets/widget-recent-reviews.php:271 widgets/widget-top10.php:312
+msgid "As stars"
+msgstr "作为星级"
+
+# @ dt
+#: widgets/widget-socials.php:24
+msgid "Show site logo and social links"
+msgstr "显示网站的标志和社会链接"
+
+# @ dt
+#: widgets/widget-socials.php:30
+msgid "ThemeREX - Show logo and social links"
+msgstr "ThemeREX - 显示标志和社交链接"
+
+# @ dt
+#: widgets/widget-socials.php:116
+msgid "Show logo and social icons"
+msgstr "显示标志和社会的图标"
+
+#: widgets/widget-socials.php:131
+msgid "Description:"
+msgstr "说明："
+
+#: widgets/widget-socials.php:135
+msgid "Logo image:<br />(if empty - use logo from Theme Options)"
+msgstr "标志图像：:<br />(如果留空则使用主题选项标志)"
+
+# @ dt
+#: widgets/widget-socials.php:147
+msgid "Show logo:"
+msgstr "显示标志："
+
+# @ dt
+#: widgets/widget-socials.php:154
+msgid "Show social icons:"
+msgstr "显示社交的图标："
+
+#: widgets/widget-top10.php:24
+msgid "Top 10 posts by average reviews marks (by author and users)"
+msgstr "前10篇文章平均评论标记（作者和用户）"
+
+#: widgets/widget-top10.php:30
+msgid "ThemeREX - Top 10 Posts"
+msgstr "ThemeREX - 前10篇文章"
+
+#: widgets/widget-top10.php:239
+msgid "Top 10 posts from selected category"
+msgstr "从所选类别的前10个文章"
+
+#: widgets/widget-top10.php:259
+msgid "Author rating tab title:"
+msgstr "作者评级选项卡的标题："
+
+#: widgets/widget-top10.php:264
+msgid "Users rating tab title:"
+msgstr "用户评价标签标题："
+
+#: widgets/widget-twitter2.php:25
+msgid "Last Twitter Updates. Version for new Twitter API 1.1"
+msgstr "Last Twitter Updates. Version for new Twitter API 1.1"
+
+#: widgets/widget-twitter2.php:31
+msgid "ThemeREX - Twitter"
+msgstr "ThemeREX - Twitter"
+
+#: widgets/widget-twitter2.php:112
+msgid "Last Twitter Updates"
+msgstr "最后 Twitter 更新"
+
+#: widgets/widget-twitter2.php:129
+msgid "Tweets count:"
+msgstr "Tweets 数:"
+
+# @ dt
+#: widgets/widget-twitter2.php:134
+msgid "Twitter Username:"
+msgstr "Twitter Username:"
+
+#: widgets/widget-twitter2.php:134
+msgid "leave empty if you paste widget code"
+msgstr "留空，如果粘贴小工具代码"
+
+#: widgets/widget-twitter2.php:139
+msgid "Twitter Consumer Key:"
+msgstr "Twitter Consumer Key:"
+
+#: widgets/widget-twitter2.php:143
+msgid "Twitter Consumer Secret:"
+msgstr "Twitter Consumer Secret:"
+
+#: widgets/widget-twitter2.php:147
+msgid "Twitter Token Key:"
+msgstr "Twitter Token Key:"
+
+#: widgets/widget-twitter2.php:151
+msgid "Twitter Token Secret:"
+msgstr "Twitter Token Secret:"
+
+# @ dt
+#~ msgid "Background:"
+#~ msgstr "背景："
+
+#~ msgid "Use boxed or wide body style"
+#~ msgstr "使用盒子布局或全宽主体样式"
+
+#~ msgid "ago"
+#~ msgstr "前"
+
+#~ msgid "day"
+#~ msgstr "天"
+
+#~ msgid "<span class=\"readmore\">Read more</span>"
+#~ msgstr "<span class=\"readmore\">阅读更多</span>"
+
+#~ msgid "By Users (Readers)"
+#~ msgstr "用户（读者）"
+
+# @ dt
+#~ msgid "Date (descending)"
+#~ msgstr "日期（降序）"
+
+#~ msgid "Comments number"
+#~ msgstr "评论数"
+
+#~ msgid "Views number"
+#~ msgstr "查看数目"
+
+# @ dt
+#~ msgid "Posts"
+#~ msgstr "文章"
+
+#~ msgctxt "calendar caption"
+#~ msgid "%1$s %2$s"
+#~ msgstr "%1$s %2$s"
+
+# @ dt
+#~ msgid "View posts for %1$s %2$s"
+#~ msgstr "查看文章  %1$s %2$s"
+
+#~ msgid "Click here &raquo;"
+#~ msgstr "单击这里 &raquo;"
+
+#~ msgid "Blog Style 2"
+#~ msgstr "博客样式2"
+
+#~ msgid "Blog Style 3"
+#~ msgstr "博客样式3"
+
+# @ dt
+#~ msgid "Portfolio Style 1"
+#~ msgstr "作品样式1"
+
+# @ dt
+#~ msgid "Portfolio Style 2"
+#~ msgstr "作品样式2"
+
+# @ dt
+#~ msgid "Portfolio Style 3"
+#~ msgstr "作品样式3"
+
+# @ dt
+#~ msgid "Portfolio Style 4"
+#~ msgstr "作品样式4"
+
+#~ msgid "Short Blog mode (only excerpt for each article)"
+#~ msgstr "精简博客模式（每个文章仅摘录）"
+
+#~ msgid "Full Blog mode (fullpost content)"
+#~ msgstr "全博客模式（整个博客内容）"
+
+#~ msgid "Show/Hide custom parameters"
+#~ msgstr "显示/隐藏自定义参数"
+
+#~ msgid "Search &hellip;"
+#~ msgstr "搜索 &hellip;"
+
+#~ msgid "By: "
+#~ msgstr "By: "
+
+# @ dt
+#~ msgid "Categories:"
+#~ msgstr "分类："
+
+# @ dt
+#~ msgid "Project Details"
+#~ msgstr "项目详情"
+
+#~ msgid "Customer: "
+#~ msgstr "客户："
+
+# @ dt
+#~ msgid "Related projects"
+#~ msgstr "相关作品"
+
+# @ dt
+#~ msgid "All"
+#~ msgstr "全部"
+
+#~ msgid "Or start from our homepage"
+#~ msgstr "或从我们的首页开始"
+
+# @ dt
+#~ msgid "Search Results for: &laquo;%s&raquo;"
+#~ msgstr "搜索结果: &laquo;%s&raquo;"
+
+# @ dt
+#~ msgid "Logo"
+#~ msgstr "标志"
+
+#~ msgid "Upload your site logo. Image dimensions up to 200x100"
+#~ msgstr "上传你的站点标志。图像尺寸不少于 200x100"
+
+#~ msgid "Header \"Call us\" text"
+#~ msgstr "页眉 \"Call us\" 文字"
+
+#~ msgid "Text for field 'Call us' in header area"
+#~ msgstr "页眉区域字段 '联系我们' 文字"
+
+# @ dt
+#~ msgid "Color and Background"
+#~ msgstr "背景颜色"
+
+# @ dt
+#~ msgid "Background image"
+#~ msgstr "背景图像"
+
+#~ msgid "Substitute video tag and shortcode with our theme-styled gallery"
+#~ msgstr "替换视频标签和简码为我们主题风格的画廊"
+
+#~ msgid "Use Isotope slider for portfolio"
+#~ msgstr "为作品使用Isotope 滑块"
+
+#~ msgid ""
+#~ "Use Isotope slider for change categories in portfolio.<br />Attention! "
+#~ "Use Isotope slider only with small categories (up to 30-40 posts in "
+#~ "portfolio category and nested)"
+#~ msgstr ""
+#~ "在作品里为变更分类使用Isotope 滑块<br />注意！使用Isotope 滑块只适合小类"
+#~ "别 (最多 30-40 个作品类别文章)"
+
+#~ msgid "Show title & breadcrumbs area"
+#~ msgstr "显示标题和面包屑区域"
+
+#~ msgid "Show area with blog title and breadcrumbs line"
+#~ msgstr "显示博客和面包屑线区域"
+
+#~ msgid "Select main sidebar for single pages"
+#~ msgstr "为单页选择主侧边栏"
+
+#~ msgid "Select advertisement sidebar for single page."
+#~ msgstr "为单页选择广告侧边栏"
+
+#~ msgid "Select footer sidebar for single pages."
+#~ msgstr "为单页选择页脚侧边栏"
+
+#~ msgid ""
+#~ "URLs to you profile in some social networks. Check desired item to show "
+#~ "it in header of site (up to 6 icons)."
+#~ msgstr "你的社交网络资料URLs。勾选所需的显示到站点页眉（最多6个）"
+
+#~ msgid "Link to your Facebook profile"
+#~ msgstr "链接到你的Facebook 资料"
+
+#~ msgid "Link to your Twitter profile"
+#~ msgstr "链接到你的 Twitter 资料"
+
+# @ dt
+#~ msgid "Google Plus"
+#~ msgstr "Google Plus"
+
+#~ msgid "Link to your gplus profile"
+#~ msgstr "链接到你的 gplus 资料"
+
+#~ msgid "Link to your Pinterest profile"
+#~ msgstr "链接到你的 Pinterest 资料"
+
+#~ msgid "Link to your Dribbble profile"
+#~ msgstr "链接到你的 Dribbble 资料"
+
+#~ msgid "Link to your Vimeo profile"
+#~ msgstr "链接到你的 Vimeo 资料"
+
+#~ msgid "Github"
+#~ msgstr "Github"
+
+#~ msgid "Link to your Github profile"
+#~ msgstr "链接到你的 Github 资料"
+
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+#~ msgid "Link to your Flickr profile"
+#~ msgstr "链接到你的 Flickr 资料"
+
+#~ msgid "Link to your Tumblr profile"
+#~ msgstr "链接到你的Tumblr 资料"
+
+# @ dt
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Link to your Instagram profile"
+#~ msgstr "链接到你的 Instagram 资料"
+
+#~ msgid "SoundCloud"
+#~ msgstr "SoundCloud"
+
+#~ msgid "Link to your SoundCloud profile"
+#~ msgstr "链接到你的SoundCloud 资料"
+
+# @ dt
+#~ msgid "Contacts"
+#~ msgstr "联系"
+
+#~ msgid "Show Google map in header on Contact page"
+#~ msgstr "在联系页面顶部显示谷歌地图"
+
+#~ msgid ""
+#~ "Do you want to show Google map with your location in header area on "
+#~ "Contact Us page"
+#~ msgstr "是否在联系我们页面页眉区域显示谷歌地图"
+
+# @ dt
+#~ msgid "Enter your address here"
+#~ msgstr "在这里输入你的地址"
+
+#~ msgid "Enter your phone here"
+#~ msgstr "在这里输入你的电话"
+
+#~ msgid "Fax"
+#~ msgstr "传真"
+
+#~ msgid "Enter your fax here"
+#~ msgstr "在这里输入你的传真"
+
+#~ msgid "Enter your email here"
+#~ msgstr "在这里输入你的email "
+
+#~ msgid "Enter your site url here"
+#~ msgstr "在这里输入你的URL "
+
+#~ msgid "Page custom parameters"
+#~ msgstr "页面自定义参数"
+
+# @ dt
+#~ msgid "Featured icon"
+#~ msgstr "精选图标"
+
+#~ msgid "Select icon to present this page"
+#~ msgstr "选择图标呈现到此页"
+
+#~ msgid "Post custom parameters"
+#~ msgstr "文章自定义参数"
+
+#~ msgid "In this section you can set up custom parameters for this post"
+#~ msgstr "在这里你可以设置这个文章的自定义参数"
+
+#~ msgid "Select icon to present this post"
+#~ msgstr "选择图标以呈现到本文章"
+
+#~ msgid "Portfolio item additional parameters"
+#~ msgstr "作品条目附加参数"
+
+# @ dt
+#~ msgid "Portfolio project details"
+#~ msgstr "作品项目详情"
+
+# @ dt
+#~ msgid "Project URL"
+#~ msgstr "项目链接"
+
+# @ dt
+#~ msgid "URL for portfolio project item"
+#~ msgstr "作品项目的URL"
+
+# @ dt
+#~ msgid "Project date"
+#~ msgstr "项目日期"
+
+#~ msgid "Release date for portfolio project item"
+#~ msgstr "作品项目发行日期"
+
+# @ dt
+#~ msgid "Project customer name"
+#~ msgstr "项目自定义名称"
+
+# @ dt
+#~ msgid "Customer name for portfolio project item"
+#~ msgstr "作品项目的客户名称"
+
+#~ msgid "Project customer url"
+#~ msgstr "作品客户URL"
+
+# @ dt
+#~ msgid "Customer URL for portfolio project item"
+#~ msgstr "作品项目的客户URL"
+
+#~ msgid "WP Space - Advertisement block"
+#~ msgstr "WP Space - 广告块"
+
+# @ dt
+#~ msgid "WP Space - Contact form"
+#~ msgstr "WP Space - 联系表单"
+
+# @ dt
+#~ msgid "The contact form"
+#~ msgstr "联系表单"
+
+#~ msgid "Show your contacts"
+#~ msgstr "显示你的联系内容"
+
+#~ msgid "WP Space - Contacts"
+#~ msgstr "WP Space - 联系"
+
+# @ dt
+#~ msgid "Show contacts"
+#~ msgstr "显示联系"
+
+#~ msgid "By:"
+#~ msgstr "By:"
+
+#~ msgid "WP Space - Recent Blog Posts"
+#~ msgstr "WP Space - 最近博客文章"
+
+# @ dt
+#~ msgid "Number posts:"
+#~ msgstr "文章数量："
+
+# @ dt
+#~ msgid "WP Space - Social links"
+#~ msgstr "WP Space - 社交链接"
+
+# @ dt
+#~ msgid "Show social"
+#~ msgstr "显示社交"
+
+#~ msgid "WP Space - Twitter timeline"
+#~ msgstr "WP Space - Twitter 时间轴"
+
+#~ msgid "Twitter Widget ID:<br />(leave empty if you paste widget code)"
+#~ msgstr "Twitter 小工具  ID:<br />(leave empty if you paste widget code)"
+
+#~ msgid ""
+#~ "or paste Twitter Widget Code:<br />(created in your profile on twitter."
+#~ "com)"
+#~ msgstr ""
+#~ "或粘贴 Twitter 小工具代码 :<br />(created in your profile on twitter.com)"
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try to use a "
+#~ "search?"
+#~ msgstr "这里什么也没找到。试试搜索？"
+
+#~ msgctxt "comments title"
+#~ msgid "One thought on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+#~ msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#~ msgid "&larr; Older Comments"
+#~ msgstr "&larr; 较早评论"
+
+#~ msgid "Newer Comments &rarr;"
+#~ msgstr "最新评论 &rarr;"
+
+#~ msgid "Required fields are marked %s"
+#~ msgstr "西天字段已标记为 %s"
+
+# @ dt
+#~ msgid "Name &#42;"
+#~ msgstr "名称 &#42;"
+
+# @ dt
+#~ msgid "Name&#42;"
+#~ msgstr "姓名&#42;"
+
+# @ dt
+#~ msgid "Email &#42;"
+#~ msgstr "Email  &#42;"
+
+# @ dt
+#~ msgid "Email&#42;"
+#~ msgstr "Email&#42;"
+
+#~ msgid ""
+#~ "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+#~ "tags and attributes: %s"
+#~ msgstr ""
+#~ "你也可以使用 <abbr title=\"HyperText Markup Language\">HTML</abbr> 标签和"
+#~ "属性: %s"
+
+#~ msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+#~ msgstr "你必需 <a href=\"%s\">登录</a> 才能发表评论"
+
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out?</a>"
+#~ msgstr ""
+#~ "登录为 <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+#~ "this account\">注销?</a>"
+
+#~ msgid "Your email address will not be published."
+#~ msgstr "你的email 地址不会公开"
+
+# @ dt
+#~ msgid "Primary Menu"
+#~ msgstr "主菜单"
+
+# @ dt
+#~ msgid "Top Menu"
+#~ msgstr "顶部菜单"
+
+# @ dt
+#~ msgid "Bottom Menu"
+#~ msgstr "底部菜单"
+
+#~ msgctxt "backend"
+#~ msgid "Stylesheet saved."
+#~ msgstr "样式已经保存"
+
+# @ dt
+#~ msgid "To view this protected post, enter the password below:"
+#~ msgstr "查看这个加密文章，请在下面输入密码："
+
+# @ dt
+#~ msgctxt "widget"
+#~ msgid "Percent"
+#~ msgstr "百分比"
+
+# @ dt
+#~ msgid "clear"
+#~ msgstr "清除"
+
+# @ dt
+#~ msgid "(Edit)"
+#~ msgstr "（编辑）"
+
+# @ dt
+#~ msgid "MENU"
+#~ msgstr "菜单"
+
+#~ msgid "CLOSE"
+#~ msgstr "关闭"
+
+#~ msgid "back"
+#~ msgstr "返回"
+
+# @ dt
+#~ msgid "Nothing Found"
+#~ msgstr "什么没找到"
+
+#~ msgid ""
+#~ "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+#~ msgstr "准备发布你的第一篇文章？ <a href=\"%1$s\">开始吧</a>."
+
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr "没找到你想查看的项目. 试试搜索吧."
+
+# @ dt
+#~ msgctxt "fullscreen slider two"
+#~ msgid "Details"
+#~ msgstr "详情"
+
+# @ dt
+#~ msgctxt "blog small list"
+#~ msgid "No title"
+#~ msgstr "无标题"
+
+# @ dt
+#~ msgctxt "details button"
+#~ msgid "Details"
+#~ msgstr "详情"
+
+# @ dt
+#~ msgctxt "edit button"
+#~ msgid "Edit"
+#~ msgstr "编辑"
+
+# @ dt
+#~ msgid "1 Comment"
+#~ msgstr "1 评论"
+
+#~ msgctxt "share buttons"
+#~ msgid "share"
+#~ msgstr "分享"
+
+#~ msgctxt "share buttons"
+#~ msgid "tweet"
+#~ msgstr "tweet"
+
+# @ dt
+#~ msgctxt "team link"
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+# @ dt
+#~ msgctxt "team link"
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+# @ dt
+#~ msgctxt "team link"
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgctxt "team link"
+#~ msgid "Personal blog / website"
+#~ msgstr "个人博客 / 网站"
+
+# @ dt
+#~ msgctxt "team link"
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgctxt "theme-options"
+#~ msgid "H1"
+#~ msgstr "H1"
+
+#~ msgctxt "theme-options"
+#~ msgid "H2"
+#~ msgstr "H2"
+
+#~ msgctxt "theme-options"
+#~ msgid "H3"
+#~ msgstr "H3"
+
+#~ msgctxt "theme-options"
+#~ msgid "H4"
+#~ msgstr "H4"
+
+#~ msgctxt "theme-options"
+#~ msgid "H5"
+#~ msgstr "H5"
+
+#~ msgctxt "theme-options"
+#~ msgid "H6"
+#~ msgstr "H6"
+
+# @ dt
+#~ msgctxt "theme-options"
+#~ msgid "Medium buttons"
+#~ msgstr "中型按钮"
+
+# @ dt
+#~ msgctxt "theme-options"
+#~ msgid "Big buttons"
+#~ msgstr "大型按钮"
+
+#~ msgctxt "theme-options"
+#~ msgid "None"
+#~ msgstr "无"
+
+#~ msgctxt "theme-options"
+#~ msgid "Grayscale"
+#~ msgstr "灰度"
+
+#~ msgctxt "theme-options"
+#~ msgid "Grayscale with color hovers"
+#~ msgstr "灰度悬停颜色"
+
+# @ dt
+#~ msgctxt "theme-options"
+#~ msgid "Social buttons in blog posts"
+#~ msgstr "在博客文章显示社交按钮"
+
+# @ dt
+#~ msgctxt "theme-options"
+#~ msgid "Social buttons in portfolio projects"
+#~ msgstr "在作品项目的社交按钮"
+
+#~ msgctxt "theme-options"
+#~ msgid "Social buttons in media (photos and videos)"
+#~ msgstr "媒体社交按钮（照片和视频）"
+
+#~ msgctxt "theme-options"
+#~ msgid "Stripe 1"
+#~ msgstr "条纹 1"
+
+#~ msgctxt "theme-options"
+#~ msgid "Stripe 2"
+#~ msgstr "条纹 2"
+
+#~ msgctxt "theme-options"
+#~ msgid "Stripe 3"
+#~ msgstr "条纹 3"
+
+# @ dt
+#~ msgctxt "category list"
+#~ msgid "View all"
+#~ msgstr "查看全部"
+
+# @ dt
+#~ msgctxt "category list"
+#~ msgid "Other posts"
+#~ msgstr "其他文章"
+
+# @ dt
+#~ msgctxt "category list"
+#~ msgid "Other"
+#~ msgstr "其他"
+
+#~ msgid "Asc"
+#~ msgstr "倒序"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "Add New"
+#~ msgstr "添加"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "Add New Item"
+#~ msgstr "添加新条目"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "View Item"
+#~ msgstr "查看条目"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "Search Items"
+#~ msgstr "搜索条目"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "No items found in Trash"
+#~ msgstr "回收站里没有条目"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "Categories"
+#~ msgstr "分类"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "Search in Category"
+#~ msgstr "在分类里搜索"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "Parent Category"
+#~ msgstr "父类别"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "Parent Category:"
+#~ msgstr "父类别："
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "Edit Category"
+#~ msgstr "编辑类别"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "Update Category"
+#~ msgstr "更新类别"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "Add New Category"
+#~ msgstr "添加新类别"
+
+# @ dt
+#~ msgctxt "backend portfolio"
+#~ msgid "New Category Name"
+#~ msgstr "新类别名称"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Add New"
+#~ msgstr "添加"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Add New Item"
+#~ msgstr "添加新条目"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Edit Item"
+#~ msgstr "编辑条目"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "New Item"
+#~ msgstr "新条目"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "View Item"
+#~ msgstr "查看条目"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Search Items"
+#~ msgstr "搜索条目"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "No items found"
+#~ msgstr "没找到条目"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "No items found in Trash"
+#~ msgstr "回收站里没有条目"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Categories"
+#~ msgstr "分类"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Category"
+#~ msgstr "分类"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Search in Category"
+#~ msgstr "在分类里搜索"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Parent Category"
+#~ msgstr "父级分类"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Parent Category:"
+#~ msgstr "父级分类："
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Edit Category"
+#~ msgstr "编辑分类"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Update Category"
+#~ msgstr "更新分类"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "Add New Category"
+#~ msgstr "添加新分类"
+
+# @ dt
+#~ msgctxt "backend testimonials"
+#~ msgid "New Category Name"
+#~ msgstr "新的分类名称"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Add New"
+#~ msgstr "添加"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Add New Teammate"
+#~ msgstr "添加新队员"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Edit Teammate"
+#~ msgstr "编辑队员"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "New Teammate"
+#~ msgstr "新队员"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "View Teammate"
+#~ msgstr "查看队员"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Search Teammates"
+#~ msgstr "搜索队员"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "No teammates found"
+#~ msgstr "没有找到队员"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "No Teammates found in Trash"
+#~ msgstr "回收站里没有队员"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Categories"
+#~ msgstr "分类"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Category"
+#~ msgstr "分类"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Search in Category"
+#~ msgstr "搜索分类"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Parent Category"
+#~ msgstr "父类别"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Parent Category:"
+#~ msgstr "父类别："
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Edit Category"
+#~ msgstr "编辑类别"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Update Category"
+#~ msgstr "更新类别"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "Add New Category"
+#~ msgstr "新类别"
+
+# @ dt
+#~ msgctxt "backend team"
+#~ msgid "New Category Name"
+#~ msgstr "新类别名称"
+
+# @ dt
+#~ msgctxt "backend logos"
+#~ msgid "Partners, Clients, etc."
+#~ msgstr "合作商,客户"
+
+# @ dt
+#~ msgctxt "backend logos"
+#~ msgid "Item"
+#~ msgstr "项"
+
+# @ dt
+#~ msgctxt "backend logos"
+#~ msgid "Add New"
+#~ msgstr "添加"
+
+# @ dt
+#~ msgctxt "backend logos"
+#~ msgid "Add New Item"
+#~ msgstr "添加条目"
+
+# @ dt
+#~ msgctxt "backend logos"
+#~ msgid "Edit Item"
+#~ msgstr "编辑条目"
+
+# @ dt
+#~ msgctxt "backend logos"
+#~ msgid "New Item"
+#~ msgstr "新条目"
+
+# @ dt
+#~ msgctxt "backend logos"
+#~ msgid "View Item"
+#~ msgstr "查看条目"
+
+# @ dt
+#~ msgctxt "backend logos"
+#~ msgid "Search Items"
+#~ msgstr "搜索条目"
+
+# @ dt
+#~ msgctxt "backend logos"
+#~ msgid "No items found"
+#~ msgstr "没找到条目"
+
+# @ dt
+#~ msgctxt "backend logos"
+#~ msgid "No items found in Trash"
+#~ msgstr "回收站里没有条目"
+
+# @ dt
+#~ msgctxt "backend partners"
+#~ msgid "Categories"
+#~ msgstr "分类"
+
+# @ dt
+#~ msgctxt "backend partners"
+#~ msgid "Category"
+#~ msgstr "分类"
+
+# @ dt
+#~ msgctxt "backend partners"
+#~ msgid "Search in Category"
+#~ msgstr "在分类里搜索"
+
+# @ dt
+#~ msgctxt "backend partners"
+#~ msgid "Parent Category"
+#~ msgstr "父类别"
+
+# @ dt
+#~ msgctxt "backend partners"
+#~ msgid "Parent Category:"
+#~ msgstr "父类别："
+
+# @ dt
+#~ msgctxt "backend partners"
+#~ msgid "Edit Category"
+#~ msgstr "编辑分类"
+
+# @ dt
+#~ msgctxt "backend partners"
+#~ msgid "Update Category"
+#~ msgstr "更新类别"
+
+# @ dt
+#~ msgctxt "backend partners"
+#~ msgid "Add New Category"
+#~ msgstr "添加新类别"
+
+# @ dt
+#~ msgctxt "backend partners"
+#~ msgid "New Category Name"
+#~ msgstr "新类别名称"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Photo Albums"
+#~ msgstr "照片相簿"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Photo Album"
+#~ msgstr "照片相簿"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Add New"
+#~ msgstr "添加"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Add New Album"
+#~ msgstr "添加新相簿"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Edit Album"
+#~ msgstr "编辑相簿"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "New Album"
+#~ msgstr "新的相簿"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "View Album"
+#~ msgstr "查看相簿"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Search for Albums"
+#~ msgstr "搜索相簿"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "No Albums Found"
+#~ msgstr "没找到相簿"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "No Albums Found in Trash"
+#~ msgstr "回收站里没有相簿"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Categories"
+#~ msgstr "分类"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Category"
+#~ msgstr "类别"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Search in Category"
+#~ msgstr "在分类中搜索"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Parent Category"
+#~ msgstr "父类别"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Parent Category:"
+#~ msgstr "父类别："
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Edit Category"
+#~ msgstr "编辑分类"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Update Category"
+#~ msgstr "更新分类"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Add New Category"
+#~ msgstr "添加新的类别"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "New Category Name"
+#~ msgstr "新类别名称"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Slideshows"
+#~ msgstr "幻灯片"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Add New Slider"
+#~ msgstr "添加新幻灯片"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Edit Slider"
+#~ msgstr "编辑滑块"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "View Slider"
+#~ msgstr "查看幻灯片"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "Search for Slideshow"
+#~ msgstr "搜索幻灯片"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "No Slideshow Found"
+#~ msgstr "没找到幻灯片"
+
+# @ dt
+#~ msgctxt "backend albums"
+#~ msgid "No Slideshow Found in Trash"
+#~ msgstr "回收站里没有幻灯片"
+
+# @ dt
+#~ msgctxt "archive template title"
+#~ msgid "Category Archives: %s"
+#~ msgstr "分类存档： %s"
+
+# @ dt
+#~ msgctxt "archive template title"
+#~ msgid "Portfolio Archives: %s"
+#~ msgstr "作品存档： %s"
+
+# @ dt
+#~ msgctxt "archive template title"
+#~ msgid "Archives:"
+#~ msgstr "存档："
+
+# @ dt
+#~ msgctxt "header slideshow"
+#~ msgid "details"
+#~ msgstr "详情"
+
+#~ msgctxt "backend"
+#~ msgid "Error: Less css is not writable!"
+#~ msgstr "错误：Less css不能写入"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "Thumbnail"
+#~ msgstr "缩略图"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "Footer"
+#~ msgstr "F页脚"
+
+#~ msgctxt "backend"
+#~ msgid "Slug"
+#~ msgstr "别名"
+
+# @ dt
+#~ msgctxt "backend bulk edit"
+#~ msgid "Sidebar option"
+#~ msgstr "侧边栏选项"
+
+#~ msgctxt "backend bulk edit"
+#~ msgid "Left"
+#~ msgstr "左"
+
+# @ dt
+#~ msgctxt "backend bulk edit"
+#~ msgid "Right"
+#~ msgstr "右"
+
+#~ msgctxt "backend bulk edit"
+#~ msgid "Disabled"
+#~ msgstr "禁用"
+
+#~ msgctxt "backend bulk edit"
+#~ msgid "&mdash; No Change &mdash;"
+#~ msgstr "&mdash; 未改变 &mdash;"
+
+# @ dt
+#~ msgctxt "backend bulk edit"
+#~ msgid "Widgetized footer"
+#~ msgstr "全宽页脚"
+
+# @ dt
+#~ msgctxt "backend bulk edit footer"
+#~ msgid "Show"
+#~ msgstr "显示"
+
+# @ dt
+#~ msgctxt "backend bulk edit"
+#~ msgid "Sidebar"
+#~ msgstr "侧边栏"
+
+# @ dt
+#~ msgctxt "backend bulk edit"
+#~ msgid "Footer"
+#~ msgstr "F页脚"
+
+# @ dt
+#~ msgid "Install Required Plugins"
+#~ msgstr "安装必要插件"
+
+# @ dt
+#~ msgid "Install Plugins"
+#~ msgstr "安装插件"
+
+# @ dt
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "安装插件: %s"
+
+# @ dt
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "插件 API发生未知错误."
+
+# @ dt
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgid_plural "This theme requires the following plugins: %1$s."
+#~ msgstr[0] "必须安装以下插件: %1$s."
+#~ msgstr[1] "必须安装以下插件: %1$s."
+
+# @ dt
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "推荐安装以下插件： %1$s."
+#~ msgstr[1] "推荐安装以下插件: %1$s."
+
+# @ dt
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin installed."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins installed."
+#~ msgstr[0] "对不起, 你无权安装 %s 插件. 联系管理员帮助安装."
+#~ msgstr[1] "对不起, 你无权安装 %s 插件. 联系管理员帮助安装."
+
+# @ dt
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "以下插件未激活: %1$s."
+#~ msgstr[1] "以下插件未激活: %1$s."
+
+# @ dt
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "以下推荐插件未激活: %1$s."
+#~ msgstr[1] "以下推荐插件未激活: %1$s."
+
+# @ dt
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin activated."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins activated."
+#~ msgstr[0] "对不起, 你无权激活 %s 插件. 联系管理员帮助激活."
+#~ msgstr[1] "对不起, 你无权激活 %s 插件. 联系管理员帮助激活."
+
+# @ dt
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgid_plural ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgstr[0] "以下插件需要更新到最新版以兼容主题: %1$s."
+#~ msgstr[1] "以下插件需要更新到最新版以兼容主题: %1$s."
+
+# @ dt
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin updated."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins updated."
+#~ msgstr[0] "对不起,你无权更新 %s 插件. 联系管理员帮助更新"
+#~ msgstr[1] "对不起,你无权更新 %s 插件. 联系管理员帮助更新"
+
+# @ dt
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "开始安装插件"
+#~ msgstr[1] "开始安装插件"
+
+# @ dt
+#~ msgid "Activate installed plugin"
+#~ msgid_plural "Activate installed plugins"
+#~ msgstr[0] "激活安装的插件"
+#~ msgstr[1] "激活安装的插件"
+
+# @ dt
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "返回到必要插件安装列表"
+
+# @ dt
+#~ msgid "Plugin activated successfully."
+#~ msgstr "插件激活成功"
+
+# @ dt
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "全部插件安装并激活成功。%s"
+
+#~ msgid "Display Photo & Video Albums"
+#~ msgstr "显示照片&视频相簿"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "ALL your Photo & Video albums are being displayed on this page!"
+#~ msgstr "全部你的照片&视频相簿将显示在本页！"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "By default all your Albums will be displayed on this page. "
+#~ msgstr "默认全部你的相簿将显示在本页"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "But you can specify which Album(s) or Album category(s) will (or will "
+#~ "not) be shown."
+#~ msgstr "但是你可以指定你喜欢的相簿或是相簿类别显示。"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "In tabs above you can select from the following options:"
+#~ msgstr "在切换卡上面你可以从以下选项选择："
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid " &mdash; all Albums will be shown on this page."
+#~ msgstr " &mdash; 全部相簿显示在本页."
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "Only"
+#~ msgstr "仅"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ " &mdash; choose Album(s) or Album category(s) to be shown on this page."
+#~ msgstr " &mdash; 选择相簿或相簿分类在这个页面."
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "All, except"
+#~ msgstr "全部,除了"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ " &mdash; choose which Album(s) or Album category(s) will be excluded from "
+#~ "displaying on this page."
+#~ msgstr " &mdash; 选择要在本页排除的相簿或相簿类别。"
+
+# @ dt
+#, fuzzy
+#~ msgid "Albums Options"
+#~ msgstr "主题选项"
+
+# @ dt
+#~ msgid "Layout:"
+#~ msgstr "布局："
+
+#~ msgid "Grid"
+#~ msgstr "平铺"
+
+# @ dt
+#, fuzzy
+#~ msgid "Number of columns:"
+#~ msgstr "文章数量："
+
+# @ dt
+#, fuzzy
+#~ msgid "Under images"
+#~ msgstr "上传图像"
+
+#~ msgid "On image hovers"
+#~ msgstr "图片悬停"
+
+#~ msgid "Make all albums the same width:"
+#~ msgstr "让全部相簿相同宽度："
+
+# @ dt
+#, fuzzy
+#~ msgid "Images sizing:"
+#~ msgstr "图像链接"
+
+# @ dt
+#, fuzzy
+#~ msgid "Show albums titles:"
+#~ msgstr "显示标题"
+
+# @ dt
+#, fuzzy
+#~ msgid "Show albums excerpts:"
+#~ msgstr "显示摘录"
+
+# @ dt
+#, fuzzy
+#~ msgid "Show albums categories:"
+#~ msgstr "博客类别"
+
+# @ dt
+#~ msgid "Order by:"
+#~ msgstr "排序方式："
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "ALL Photos & Videos from all your Albums are being displayed on this page!"
+#~ msgstr "从你的全部相簿的全部图片&视频将显示在本页"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "By default all your Photos & Videos will be displayed on this page. "
+#~ msgstr "默认全部你的照片&视频将显示在本页。"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ " &mdash; all Photos & Videos from all Albums will be shown on this page."
+#~ msgstr " &mdash; 全部相簿的全部照片和视频将显示在本页"
+
+# @ dt
+#, fuzzy
+#~ msgid "Number of items to display on one page:"
+#~ msgstr "评价数量："
+
+# @ dt
+#, fuzzy
+#~ msgid "Show items captions:"
+#~ msgstr "主题选项"
+
+# @ dt
+#, fuzzy
+#~ msgid "Album Options"
+#~ msgstr "主题选项"
+
+# @ dt
+#~ msgid "normal"
+#~ msgstr "正常"
+
+# @ dt
+#, fuzzy
+#~ msgid "Display Blog Categories"
+#~ msgstr "博客类别"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "ALL your Blog posts are being displayed on this page!"
+#~ msgstr "全部你的博客文章将显示在这个页面"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "By default all your Blog posts will be displayed on this page. "
+#~ msgstr "默认全部博客文章显示在本页"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "But you can specify which Blog categories will (or will not) be shown."
+#~ msgstr "但是你可以指定博客类别显示（或不显示）"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ " &mdash; all Blog posts (from all categories) will be shown on this page."
+#~ msgstr " &mdash; 全部博客文章 (从全部类别) 将显示在这个页面."
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid " &mdash; choose Blog category(s) to be shown on this page."
+#~ msgstr " &mdash; 选择博客类别(s) 将显示在这个页面."
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ " &mdash; choose which category(s) will be excluded from displaying on "
+#~ "this page."
+#~ msgstr " &mdash; 选择哪个类别(s) 将在本页排除."
+
+# @ dt
+#~ msgid "Featured images sizing:"
+#~ msgstr "特色图像尺寸："
+
+# @ dt
+#, fuzzy
+#~ msgid "Number of posts to display on one page:"
+#~ msgstr "全部你的博客文章将显示在这个页面"
+
+# @ dt
+#~ msgid "Hide featured image on post page:"
+#~ msgstr "在文章页面隐藏特色图像："
+
+# @ dt
+#, fuzzy
+#~ msgid "choose category(s)"
+#~ msgstr "博客类别"
+
+# @ dt
+#, fuzzy
+#~ msgid "Post Preview Options"
+#~ msgstr "主题选项"
+
+# @ dt
+#~ msgid "Slider proportions:"
+#~ msgstr "滑块比例："
+
+# @ dt
+#, fuzzy
+#~ msgid "For video post format:"
+#~ msgstr "文章格式"
+
+# @ dt
+#, fuzzy
+#~ msgid "Target link:"
+#~ msgstr "图像链接"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "ALL your Portfolio projects are being displayed on this page!"
+#~ msgstr "全部你的作品将显示在本页！"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "By default all your Portfolio projects will be displayed on this page. "
+#~ msgstr "默认显示你的全部作品在本页。"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "But you can specify which Portfolio project category(s) will (or will "
+#~ "not) be shown."
+#~ msgstr "但是你可以指定作品类别显示。"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid " &mdash; all Projects will be shown on this page."
+#~ msgstr " &mdash;全部作品显示在本页."
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid " &mdash; choose Project category(s) to be shown on this page."
+#~ msgstr " &mdash;选择要显示在本页的分类."
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ " &mdash; choose which Project category(s) will be excluded from "
+#~ "displaying on this page."
+#~ msgstr " &mdash; 选择要从本页排除的作品类别."
+
+# @ dt
+#, fuzzy
+#~ msgid "Portfolio Options"
+#~ msgstr "作品项目"
+
+# @ dt
+#~ msgid "Normal"
+#~ msgstr "正常"
+
+# @ dt
+#~ msgid "Layout"
+#~ msgstr "布局"
+
+# @ dt
+#, fuzzy
+#~ msgid "Number of columns"
+#~ msgstr "文章数量："
+
+# @ dt
+#~ msgid "Image layout:"
+#~ msgstr "图像布局"
+
+# @ dt
+#~ msgid "Resize images"
+#~ msgstr "重置图像"
+
+# @ dt
+#, fuzzy
+#~ msgid "Number of projects to display on one page"
+#~ msgstr "全部你的作品将显示在本页！"
+
+# @ dt
+#, fuzzy
+#~ msgid "Show projects excerpts:"
+#~ msgstr "显示摘录"
+
+# @ dt
+#, fuzzy
+#~ msgid "Show details buttons:"
+#~ msgstr "显示 \"详细\" 按钮"
+
+# @ dt
+#, fuzzy
+#~ msgid "Show categories filter:"
+#~ msgstr "博客类别"
+
+# @ dt
+#~ msgid "Orderby:"
+#~ msgstr "排序方式："
+
+# @ dt
+#~ msgid "Layout settings:"
+#~ msgstr "布局设置："
+
+# @ dt
+#, fuzzy
+#~ msgid "Media after content area"
+#~ msgstr "C内容区域"
+
+# @ dt
+#, fuzzy
+#~ msgid "Show media as:"
+#~ msgstr "显示详情"
+
+# @ dt
+#~ msgid "Slideshow"
+#~ msgstr "幻灯片"
+
+# @ dt
+#, fuzzy
+#~ msgid "Link:"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Caption:"
+#~ msgstr "字幕:"
+
+#~ msgid "Target:"
+#~ msgstr "目标："
+
+#~ msgid "_self"
+#~ msgstr "当前窗口"
+
+#~ msgid "_blank"
+#~ msgstr "新窗口"
+
+# @ dt
+#, fuzzy
+#~ msgid "Add/Edit Slides"
+#~ msgstr "编辑滑块"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "ALL your Team  Members are being displayed on this page!"
+#~ msgstr "全部团队成员将显示在本页"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "By default all your Team Members will be displayed on this page. "
+#~ msgstr "默认你的全部团队成员显示在本页"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "But you can specify which Team  Members categories will (or will not) be "
+#~ "shown."
+#~ msgstr "但是你可以指定团队成员类别（或不）显示。"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ " &mdash; all Team  Members (from all categories) will be shown on this "
+#~ "page."
+#~ msgstr " &mdash; 全部团队成员（从全部类别）将显示在本页"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid " &mdash; choose Team category(s) to be shown on this page."
+#~ msgstr " &mdash; 选择显示在本页的团队分类"
+
+# @ dt
+#, fuzzy
+#~ msgid "Team Options"
+#~ msgstr "主题选项"
+
+# @ dt
+#, fuzzy
+#~ msgid "Number of team members on one page:"
+#~ msgstr "团队成员数量："
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "ALL your Testimonials are being displayed on this page!"
+#~ msgstr "全部客户评价将显示在本页！"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "By default all your Testimonials will be displayed on this page. "
+#~ msgstr "默认你的全部客户评价将显示在本页"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "But you can specify which Testimonials categories will (or will not) be "
+#~ "shown."
+#~ msgstr "但是你可以指定哪个客户评价类别显示。"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid ""
+#~ " &mdash; all Testimonials (from all categories) will be shown on this "
+#~ "page."
+#~ msgstr " &mdash; 全部客户评价（全部类别）将显示在本页"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid " &mdash; choose Testimonials category(s) to be shown on this page."
+#~ msgstr " &mdash; 选择你希望显示的客户评价分类。"
+
+# @ dt
+#, fuzzy
+#~ msgid "Testimonials Options"
+#~ msgstr "评价列表"
+
+# @ dt
+#, fuzzy
+#~ msgid "Number of testimonials on one page:"
+#~ msgstr "评价数量："
+
+#~ msgid "None"
+#~ msgstr "无"
+
+#~ msgctxt "backend"
+#~ msgid "ID"
+#~ msgstr "ID"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "title"
+#~ msgstr "标题"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "name"
+#~ msgstr "名称"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "modified"
+#~ msgstr "修改"
+
+#~ msgctxt "backend"
+#~ msgid "parent"
+#~ msgstr "父级"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "rand"
+#~ msgstr "随机"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "comment_count"
+#~ msgstr "comment_count"
+
+#~ msgctxt "backend"
+#~ msgid "menu_order"
+#~ msgstr "menu_order"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "repeat"
+#~ msgstr "重复"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "repeat-x"
+#~ msgstr "水平重复"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "repeat-y"
+#~ msgstr "垂直重复"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "no-repeat"
+#~ msgstr "不重复"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "center"
+#~ msgstr "中"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "left"
+#~ msgstr "左"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "right"
+#~ msgstr "右"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "top"
+#~ msgstr "上面"
+
+# @ dt
+#~ msgctxt "backend"
+#~ msgid "bottom"
+#~ msgstr "底部"
+
+# @ dt
+#~ msgid "Sidebar Options"
+#~ msgstr "侧边栏选项"
+
+#, fuzzy
+#~ msgid "Disabled"
+#~ msgstr "禁用"
+
+# @ dt
+#, fuzzy
+#~ msgid "Sidebar widget area:"
+#~ msgstr "侧边栏主小工具区域"
+
+# @ dt
+#, fuzzy
+#~ msgid "Show widgetized footer:"
+#~ msgstr "全宽页脚"
+
+# @ dt
+#~ msgid "Fancy header"
+#~ msgstr "花式页眉"
+
+# @ dt
+#, fuzzy
+#~ msgid "On"
+#~ msgstr "仅"
+
+# @ dt
+#, fuzzy
+#~ msgid "Off"
+#~ msgstr "关"
+
+# @ dt
+#~ msgid "Slideshow Options"
+#~ msgstr "幻灯片选项"
+
+# @ dt
+#~ msgid "3D slideshow"
+#~ msgstr "3D幻灯片"
+
+# @ dt
+#~ msgid "Slideshow(s):"
+#~ msgstr "幻灯片(s):"
+
+# @ dt
+#~ msgid "Edit slideshows"
+#~ msgstr "编辑幻灯片"
+
+# @ dt
+#, fuzzy
+#~ msgid "full-screen"
+#~ msgstr "全屏"
+
+# @ dt
+#, fuzzy
+#~ msgid "Images sizing: "
+#~ msgstr "图像链接"
+
+# @ dt
+#, fuzzy
+#~ msgid "Number of slides in a row:"
+#~ msgstr "评价数量："
+
+# @ dt
+#, fuzzy
+#~ msgid "Number of slides in a column:"
+#~ msgstr "评价数量："
+
+# @ dt
+#, fuzzy
+#~ msgid "Fancy Header Options"
+#~ msgstr "主题选项"
+
+# @ dt
+#, fuzzy
+#~ msgid "Centered"
+#~ msgstr "中"
+
+#, fuzzy
+#~ msgid "Title right"
+#~ msgstr "中部右侧"
+
+# @ dt
+#~ msgid "Title color:"
+#~ msgstr "标题颜色："
+
+# @ dt
+#~ msgid "Subtitle:"
+#~ msgstr "子标题："
+
+# @ dt
+#~ msgid "Subtitle color:"
+#~ msgstr "子标题颜色："
+
+# @ dt
+#, fuzzy
+#~ msgid "Repeat options:"
+#~ msgstr "主题选项"
+
+# @ dt
+#, fuzzy
+#~ msgid "Fullscreen:"
+#~ msgstr "全屏"
+
+# @ dt
+#, fuzzy
+#~ msgid "Content Area Options"
+#~ msgstr "C内容区域"
+
+# @ dt
+#, fuzzy
+#~ msgid "Display content area:"
+#~ msgstr "C内容区域"

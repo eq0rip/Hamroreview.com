@@ -1,0 +1,1 @@
+This plugin is dual-licensed under the LGPL and MIT licenses.

@@ -1,0 +1,114 @@
+/* WooCommerce
+------------------------------------------------------------------------------------ */
+
+.woocommerce .select-menu ul li a,
+.woocommerce-page .select-menu ul li a {
+	display:block !important;
+}
+
+/* Lists styles */
+.woocommerce.widget ul li:before,
+.woocommerce ul[class^="woocommerce"] li:before, .woocommerce-page ul[class^="woocommerce"] li:before,
+.woocommerce ul.order_details li:before, .woocommerce-page ul.order_details li:before,
+.woocommerce ul.methods li:before, .woocommerce-page ul.methods li:before,
+.woocommerce ul.products li:before, .woocommerce-page ul.products li:before {
+	display:none;
+}
+.woocommerce ul.order_details li, .woocommerce-page ul.order_details li {
+	margin-top: 0 !important;
+}
+
+.woocommerce .woocommerce-breadcrumb, .woocommerce-page .woocommerce-breadcrumb {
+	margin-top:1em !important;
+}
+
+/* Buttons */
+.woocommerce a.button, .woocommerce-page a.button,
+.woocommerce button.button, .woocommerce-page button.button,
+.woocommerce input.button, .woocommerce-page input.button,
+.woocommerce #respond input#submit, .woocommerce-page #respond input#submit,
+.woocommerce #content input.button, .woocommerce-page #content input.button {
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+	font-weight: normal !important;
+}
+.woocommerce a.button.alt, .woocommerce-page a.button.alt,
+.woocommerce button.button.alt, .woocommerce-page button.button.alt,
+.woocommerce input.button.alt, .woocommerce-page input.button.alt,
+.woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt,
+.woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt {
+    /* border-color: none !important; */
+    text-shadow: none !important;
+    box-shadow: none !important;
+	font-weight: normal !important;
+}
+
+/* WooCommerce Breadcrumbs */
+.woocommerce .woocommerce-breadcrumb,
+.woocommerce-page .woocommerce-breadcrumb {
+	display: none;
+}
+
+/* Comments (reviews) on product */
+.woocommerce #reviews #comments ol.commentlist li .comment-text,
+.woocommerce-page #reviews #comments ol.commentlist li .comment-text {
+    border: 1px solid #999999 !important;
+    border-radius: 0 !important;
+}
+
+/* Combo search */
+.woocommerce .chzn-search input, .woocommerce-page .chzn-search input {
+	color: #666666 !important;
+}
+
+/* Stars rating */
+.woocommerce .star-rating, .woocommerce-page .star-rating {
+    height: 1.2em !important;
+	vertical-align:top;
+}
+
+/* Active filters */
+.woocommerce .widget_layered_nav_filters ul li,
+.woocommerce-page .widget_layered_nav_filters ul li {
+	margin-top:0;
+}
+.woocommerce .widget_layered_nav_filters ul li a,
+.woocommerce-page .widget_layered_nav_filters ul li a {
+    border-radius: 0;
+	margin-top:0;
+}
+
+/* Product category name */
+.woocommerce ul.products li.product-category h3,
+.woocommerce-page ul.products li.product-category h3 {
+	text-transform:uppercase !important;
+}
+
+/* WooCommerce Content */
+.woocommerce .post_content,
+.woocommerce-page .post_content {
+	padding-top: 16px !important;
+}
+
+/* Page title */
+.woocommerce .page-title,
+.woocommerce-page .page-title {
+	margin-top: 10px !important;
+}
+.woocommerce a.theme_button,
+.woocommerce-page a.theme_button {
+	padding:4px 8px !important;
+	display:inline-block !important;
+}
+
+/* Related products */
+.woocommerce .related ul.products li.product {
+	width:30% !important;
+}
+
+/* Pretty photo gallery */
+.woocommerce .pp_content_container .pp_left {
+	padding-left:20px !important;
+}

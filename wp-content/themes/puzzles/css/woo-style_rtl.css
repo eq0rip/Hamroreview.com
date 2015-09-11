@@ -1,0 +1,5 @@
+/* Pretty photo gallery */
+.woocommerce .pp_content_container .pp_left {
+	padding-right:20px !important;
+	padding-left:0 !important;
+}

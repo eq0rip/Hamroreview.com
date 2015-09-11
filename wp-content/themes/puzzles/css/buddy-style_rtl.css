@@ -1,0 +1,21 @@
+#buddypress div.item-list-tabs ul > li {
+	margin-left:1px;
+	margin-right:0;
+}
+#buddypress ul.button-nav {
+	margin-right:0;
+	padding-right:0;
+}
+.forum .widget_area .widget ul,
+.bbpress .widget_area .widget ul,
+.buddypress .widget_area .widget ul,
+.widget_area .widget.buddypress ul {
+	margin-right:0;
+}
+.widget_area .widget.buddypress div.item-avatar img.avatar {
+	margin:0 0 1px 1px;
+}
+.widget_area .widget.buddypress ul.item-list img.avatar {
+	margin-left:12px;
+	margin-right:0;
+}

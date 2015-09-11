@@ -1,0 +1,180 @@
+@charset 'utf-8';
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+html {
+	font-size: 62.5%; 					/* Corrects text resizing oddly in IE6/7 when body font-size is set using em units http://clagnut.com/blog/348/#c790 */
+	overflow-y: scroll; 				/* Keeps page centred in all browsers regardless of content height */
+	-webkit-text-size-adjust: 100%; 	/* Prevents iOS text size adjust after orientation change, without disabling user zoom */
+	-ms-text-size-adjust: 100%; 		/* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
+}
+.clearboth:after {
+	width: 100%;
+	content: "";
+	display: block;
+	clear: both;
+}
+body {
+	padding:4px;
+}
+body, button, input, select, textarea {
+	background: #fff;
+	color: #666666;
+	outline: none;
+	font-family: Oxygen, sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
+	display: block;
+}
+table {
+	border-collapse:collapse;
+	border-spacing: 0;
+}
+caption, th {
+	font-weight: bold;
+	text-align: center;
+}
+td {
+	font-weight: normal;
+	text-align: left;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+h1,h2,h3,h4,h5,h6 {
+	/*clear: both;*/
+	color:#222222;
+	font-weight:normal;
+}
+h1 {	font-size: 36px; line-height:42px; margin:30px 0 20px 0; }
+h2 {	font-size: 24px; line-height:30px; margin:20px 0 16px 0; }
+h3 {	font-size: 18px; line-height:24px; margin:16px 0 14px 0; }
+h4 {	font-size: 16px; line-height:20px; margin:14px 0 12px 0; }
+h5 {	font-size: 14px; line-height:18px; margin:12px 0 10px 0; font-weight:bold; }
+h6 {	font-size: 12px; line-height:16px; margin:10px 0 6px 0; font-weight:bold; }
+
+p {
+	margin-bottom: 20px;
+}
+ul, ol {
+	margin: 0 0 20px 20px;
+}
+li > ul,
+li > ol {
+	margin-bottom: 0;
+}
+ul {
+	list-style: disc;
+}
+ol {
+	list-style: decimal;
+}
+dt {
+	font-weight: bold;
+}
+dd {
+	margin: 0 0 1.5em 1.5em;
+}
+b, strong {
+	font-weight: bold;
+}
+dfn, cite, em, i {
+	font-style: italic;
+}
+blockquote {
+	margin: 0 0 20px 1.5em;
+}
+address {
+	margin: 0 0 1.5em;
+}
+pre {
+	font-family: "Courier New", Courier, monospace;
+	overflow: auto;
+	max-width: 100%;
+}
+code, kbd, tt, var {
+	font-family: "Courier New", Courier, monospace;
+}
+abbr, acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+mark, ins {
+	background: #fff9c0;
+	text-decoration: none;
+}
+sup,
+sub {
+	font-size: 75%;
+	height: 0;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+sup {
+	bottom: 1ex;
+}
+sub {
+	top: .5ex;
+}
+small {
+	font-size: 75%;
+}
+big {
+	font-size: 125%;
+}
+figure {
+	margin: 0;
+	overflow: hidden;
+	position: relative;
+}
+figure img {
+	vertical-align: top;
+	width:100%;
+	height:auto;
+}
+figure figcaption {
+	-webkit-transition: all ease .2s;
+	-moz-transition: all ease .2s;
+	-ms-transition: all ease .2s;
+	-o-transition: all ease .2s;
+	transition: all ease .2s;
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	left: 5px;
+	background:#000000;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	opacity: 0.5;
+	font-size: 13px;
+	line-height: 19px;
+	color: #fff;
+	padding: 5px 9px 4px;
+}
+figure:hover figcaption {
+	margin-bottom: -30px;
+}

@@ -1,0 +1,38 @@
+.criteria_row .criteria_label {
+		margin-left:10px;
+		margin-right:0;
+	}
+.criteria_row .criteria_stars .theme_stars:before {
+		margin-left:5px;
+		margin-right:0;
+	}
+.reviews_summary .criteria_label {
+	margin-right:0;
+	margin-left:8px;
+}
+
+.reviews_summary .criteria_stars .stars_on {
+	left:auto;
+	right:0;
+}
+
+.criteria_row .criteria_dragger {
+	left:auto;
+	right:0;
+}
+.criteria_row .criteria_bar {
+	margin-right:3px;
+	margin-left:0;
+}
+.criteria_row .criteria_mark {
+	margin-left:0;
+	margin-right:14px;
+}
+.reviews_summary .criteria_row .criteria_mark {
+	margin-left:0;
+	margin-right:10px;
+}
+.reviews_summary .criteria_word {
+	margin-right:10px;
+	margin-left:0;
+}

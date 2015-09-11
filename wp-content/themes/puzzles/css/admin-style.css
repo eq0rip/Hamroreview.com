@@ -1,0 +1,113 @@
+/* Reviews stars */
+.criteria_row {
+	overflow:hidden;
+	margin-bottom:4px;
+}
+	.criteria_row .criteria_label {
+		display:inline-block;
+		width:150px;
+		margin-right:10px;
+	}
+	.criteria_row .criteria_stars {
+		display:inline-block;
+		font-size:18px;
+		line-height:22px;
+		min-height:20px;
+		white-space:nowrap;
+		position:relative;
+	}
+	.criteria_row .criteria_stars .theme_stars:before {
+		content:'\e801';
+		font-family:Fontello;
+		display:inline-block;
+		margin-right:5px;
+	}
+	.criteria_row .criteria_stars .theme_stars_on:before {
+		color:#ffc800 !important;
+	}
+
+.reviews_summary {
+	margin-top:15px;
+}
+.reviews_summary .criteria_summary_text {
+	display:none;
+}
+
+.reviews_summary .criteria_label {
+	text-transform:uppercase;
+	margin-right:8px;
+}
+.reviews_summary .criteria_stars .stars_on,
+.reviews_summary .criteria_stars .stars_off {
+	display:block;
+	min-height:18px;
+	white-space:nowrap;
+	overflow:hidden;
+	vertical-align:top;
+}
+.reviews_summary .criteria_stars .stars_on {
+	width:0;
+	position:absolute;
+	left:0;
+	top:0;
+}
+/* Draggable (100%)*/
+.reviews_100 .criteria_row .criteria_stars {
+	min-height:0;
+	height:10px;
+	width:106px;
+	vertical-align:bottom;
+	line-height:10px;
+	font-size:10px;
+}
+.criteria_row .criteria_dragger {
+	display:block;
+	position:absolute;
+	left:0;
+	top:0;
+	bottom:0;
+	width:10px;
+	background-color:#69F;
+}
+.criteria_row .criteria_bar {
+	display:inline-block;
+	width:100px;
+	height:4px;
+	line-height:4px;
+	background-color:#999999;
+	margin-left:3px;
+	margin-top:3px;
+	vertical-align:top;
+}
+.reviews_summary .criteria_row .criteria_bar {
+	vertical-align:baseline;
+}
+.criteria_row .criteria_level {
+	display:inline-block;
+	height:4px;
+	width:0;
+	background-color:#ffc800;
+	vertical-align:top;
+}
+.criteria_row .criteria_mark {
+	display:inline-block;
+	font-weight:bold;
+	margin-left:14px;
+	font-size:14px;
+	line-height:16px;
+}
+.reviews_summary .criteria_row .criteria_mark {
+	margin-left:10px;
+}
+.reviews_summary .criteria_word {
+	display:inline-block;
+	font-weight:bold;
+	margin-left:10px;
+	font-size:14px;
+}
+.reviews_summary .criteria_word:before {
+	content:" (";
+}
+.reviews_summary .criteria_word:after {
+	content:")";
+}

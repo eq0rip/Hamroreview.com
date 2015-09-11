@@ -1,0 +1,3036 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: puzzles\n"
+"POT-Creation-Date: 2014-01-31 11:27+0200\n"
+"PO-Revision-Date: 2014-01-31 11:27+0200\n"
+"Last-Translator: ThemeREX\n"
+"Language-Team: Theme REX\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: attachment.php:51
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: attachment.php:56 includes/wp-pagenavi.php:198
+msgid "Next"
+msgstr "Следующий"
+
+#: attachment.php:74 single.php:119 template-blog-excerpt.php:53
+#: template-blog-fullpost.php:41
+msgid "Posted "
+msgstr ""
+
+#: attachment.php:96 single.php:271
+msgid "Pages:"
+msgstr ""
+
+#: comments.php:29
+msgid "Comment"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:61
+msgid "Submit"
+msgstr ""
+
+#: comments.php:63
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:73
+msgid "Your Message"
+msgstr ""
+
+#: comments.php:74 comments.php:82 comments.php:89
+msgid "required"
+msgstr ""
+
+#: comments.php:81
+msgid "Name"
+msgstr ""
+
+#: comments.php:88
+msgid "Email"
+msgstr ""
+
+#: comments.php:95
+msgid "Website"
+msgstr ""
+
+#: comments.php:96
+msgid "optional"
+msgstr ""
+
+#: comments.php:119
+msgid "Trackback:"
+msgstr ""
+
+#: comments.php:119 comments.php:125
+msgid "Edit"
+msgstr ""
+
+#: comments.php:125
+msgid "Pingback:"
+msgstr ""
+
+#: comments.php:147
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: footer.php:60 footer.php:65 header.php:156
+msgid "Login"
+msgstr ""
+
+#: footer.php:63
+msgid "Login*"
+msgstr ""
+
+#: footer.php:64
+msgid "Password*"
+msgstr ""
+
+#: footer.php:67
+msgid "Forgot password?"
+msgstr ""
+
+#: footer.php:70 footer.php:91 header.php:157
+msgid "Register"
+msgstr ""
+
+#: footer.php:79
+msgid "Registration"
+msgstr ""
+
+#: footer.php:82
+msgid "Your name (login)*"
+msgstr ""
+
+#: footer.php:83
+msgid "Your email*"
+msgstr ""
+
+#: footer.php:84
+msgid "Your Password*"
+msgstr ""
+
+#: footer.php:85
+msgid "Confirm Password*"
+msgstr ""
+
+#: footer.php:86
+msgid "Desired role:"
+msgstr ""
+
+#: footer.php:87
+msgid "Subscriber"
+msgstr ""
+
+#: footer.php:88 single.php:146
+msgid "Author"
+msgstr ""
+
+#: footer.php:90
+msgid "Your message"
+msgstr ""
+
+#: footer.php:127
+msgid "Choose Your Style"
+msgstr ""
+
+#: footer.php:132
+msgid "Select color theme:"
+msgstr ""
+
+#: footer.php:134
+msgid "Content"
+msgstr ""
+
+#: footer.php:135 functions.php:468
+msgid "Main sidebar"
+msgstr ""
+
+#: footer.php:136
+msgid "Advert sidebar"
+msgstr ""
+
+#: footer.php:137 functions.php:470
+msgid "Footer sidebar"
+msgstr ""
+
+#: footer.php:140
+msgid "Apply"
+msgstr ""
+
+#: footer.php:141
+msgid "Reset to defaults"
+msgstr ""
+
+#: footer.php:146
+msgid "Reviews type:"
+msgstr ""
+
+#: footer.php:148 admin/theme-settings.php:912
+msgid "5 stars"
+msgstr ""
+
+#: footer.php:149 admin/theme-settings.php:912
+msgid "10 stars"
+msgstr ""
+
+#: footer.php:150 admin/theme-settings.php:912
+msgid "100%"
+msgstr ""
+
+#: footer.php:155
+msgid "Puzzles style:"
+msgstr ""
+
+#: footer.php:157
+msgid "Light"
+msgstr ""
+
+#: footer.php:159
+msgid "Heavy"
+msgstr ""
+
+#: footer.php:175
+msgid "Background:"
+msgstr ""
+
+#: footer.php:177
+msgid "Stretched"
+msgstr ""
+
+#: footer.php:179 admin/theme-settings.php:237
+msgid "Boxed"
+msgstr ""
+
+#: footer.php:195
+msgid "Background color:"
+msgstr ""
+
+#: footer.php:200
+msgid "Background pattern:"
+msgstr ""
+
+#: footer.php:211
+msgid "Background image:"
+msgstr ""
+
+#: footer.php:267
+msgid "Your browser is out of date"
+msgstr ""
+
+#: footer.php:268
+msgid "You are currently using an unsupported browser"
+msgstr ""
+
+#: footer.php:269
+msgid "Please install one of the many optional browsers below to proceed"
+msgstr ""
+
+#: footer.php:270
+msgid "Close this window at your own demise!"
+msgstr ""
+
+#: footer.php:291
+msgid "Global error text"
+msgstr ""
+
+#: footer.php:292
+msgid "The name can't be empty"
+msgstr ""
+
+#: footer.php:293
+msgid "Too long name"
+msgstr ""
+
+#: footer.php:294
+msgid "Too short (or empty) email address"
+msgstr ""
+
+#: footer.php:295
+msgid "Too long email address"
+msgstr ""
+
+#: footer.php:296
+msgid "Invalid email address"
+msgstr ""
+
+#: footer.php:297
+msgid "The message text can't be empty"
+msgstr ""
+
+#: footer.php:298
+msgid "Too long message text"
+msgstr ""
+
+#: footer.php:299
+msgid "Send message complete!"
+msgstr ""
+
+#: footer.php:300
+msgid "Transmit failed!"
+msgstr ""
+
+#: footer.php:301
+msgid "The Login field can't be empty"
+msgstr ""
+
+#: footer.php:302
+msgid "Too long login field"
+msgstr ""
+
+#: footer.php:303
+msgid "The password can't be empty and shorter then 5 characters"
+msgstr ""
+
+#: footer.php:304
+msgid "Too long password"
+msgstr ""
+
+#: footer.php:305
+msgid "The passwords in both fields are not equal"
+msgstr ""
+
+#: footer.php:306
+msgid "Registration success! Please log in!"
+msgstr ""
+
+#: footer.php:307
+msgid "Registration failed!"
+msgstr ""
+
+#: footer.php:308
+msgid "Your account is waiting for the site admin moderation!"
+msgstr ""
+
+#: footer.php:309
+msgid "Geocode was not successful for the following reason:"
+msgstr ""
+
+#: footer.php:310
+msgid "Google map API not available!"
+msgstr ""
+
+#: footer.php:311
+msgid "Navigate to..."
+msgstr ""
+
+#: functions.php:149
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:231
+msgid "Unknown admin email!"
+msgstr ""
+
+#: functions.php:233
+#, php-format
+msgid "Site %s - Contact form message from %s"
+msgstr ""
+
+#: functions.php:235 functions.php:347 widgets/qrcode/widget-qrcode.php:78
+#: widgets/qrcode/widget-qrcode.php:289
+msgid "Name:"
+msgstr ""
+
+#: functions.php:236 functions.php:348 widgets/qrcode/widget-qrcode.php:81
+#: widgets/qrcode/widget-qrcode.php:258 widgets/qrcode/widget-qrcode.php:293
+msgid "E-mail:"
+msgstr ""
+
+#: functions.php:238 functions.php:350
+msgid "Message:"
+msgstr ""
+
+#: functions.php:252
+msgid "Error send message!"
+msgstr ""
+
+#: functions.php:311
+msgid "Bad post ID"
+msgstr ""
+
+#: functions.php:343
+#, php-format
+msgid "Site %s - New author registration: %s"
+msgstr ""
+
+#: functions.php:345
+msgid "New registration: user want be an author. Registration data:"
+msgstr ""
+
+#: functions.php:412
+msgid "Wrong query arguments"
+msgstr ""
+
+#: functions.php:429 functions.php:455 functions.php:467 functions.php:486
+#: functions.php:511 functions.php:564 functions.php:575 functions.php:586
+#: functions.php:597 functions.php:608
+msgid "Inherit"
+msgstr ""
+
+#: functions.php:456
+msgid "Flexslider"
+msgstr ""
+
+#: functions.php:458
+msgid "Revolution slider"
+msgstr ""
+
+#: functions.php:469
+msgid "Advertisement sidebar"
+msgstr ""
+
+#: functions.php:487
+msgid "Right"
+msgstr ""
+
+#: functions.php:488
+msgid "Left"
+msgstr ""
+
+#: functions.php:489
+msgid "Hide (without sidebar)"
+msgstr ""
+
+#: functions.php:512
+msgid "Blog Puzzles"
+msgstr ""
+
+#: functions.php:513
+msgid "Blog Excerpt"
+msgstr ""
+
+#: functions.php:514
+msgid "Blog Fullpost"
+msgstr ""
+
+#: functions.php:565
+msgid "Yes"
+msgstr ""
+
+#: functions.php:566
+msgid "No"
+msgstr ""
+
+#: functions.php:576 widgets/widget-popular-posts.php:276
+#: widgets/widget-popular-posts.php:284 widgets/widget-popular-posts.php:292
+#: widgets/widget-recent-posts.php:219 widgets/widget-recent-posts.php:227
+#: widgets/widget-recent-posts.php:235 widgets/widget-recent-reviews.php:247
+#: widgets/widget-recent-reviews.php:255 widgets/widget-recent-reviews.php:263
+#: widgets/widget-socials.php:149 widgets/widget-socials.php:156
+#: widgets/widget-top10.php:288 widgets/widget-top10.php:296
+#: widgets/widget-top10.php:304
+msgid "Show"
+msgstr ""
+
+#: functions.php:577 widgets/widget-popular-posts.php:278
+#: widgets/widget-popular-posts.php:286 widgets/widget-popular-posts.php:294
+#: widgets/widget-popular-posts.php:304 widgets/widget-recent-posts.php:221
+#: widgets/widget-recent-posts.php:229 widgets/widget-recent-posts.php:237
+#: widgets/widget-recent-posts.php:247 widgets/widget-recent-reviews.php:249
+#: widgets/widget-recent-reviews.php:257 widgets/widget-recent-reviews.php:265
+#: widgets/widget-recent-reviews.php:275 widgets/widget-socials.php:151
+#: widgets/widget-socials.php:158 widgets/widget-top10.php:290
+#: widgets/widget-top10.php:298 widgets/widget-top10.php:306
+#: widgets/widget-top10.php:316
+msgid "Hide"
+msgstr ""
+
+#: functions.php:587
+msgid "Ascending"
+msgstr ""
+
+#: functions.php:588
+msgid "Descending"
+msgstr ""
+
+#: functions.php:598
+msgid "Horizontal"
+msgstr ""
+
+#: functions.php:599
+msgid "Vertical"
+msgstr ""
+
+#: functions.php:609
+msgid "Date"
+msgstr ""
+
+#: functions.php:610
+msgid "Alphabetically"
+msgstr ""
+
+#: functions.php:611
+msgid "Popular (views count)"
+msgstr ""
+
+#: functions.php:612
+msgid "Most commented (comments count)"
+msgstr ""
+
+#: functions.php:613
+msgid "Author rating"
+msgstr ""
+
+#: functions.php:614
+msgid "Visitors (users) rating"
+msgstr ""
+
+#: functions.php:615
+msgid "Random"
+msgstr ""
+
+#: functions.php:624
+msgid "gallery"
+msgstr ""
+
+#: functions.php:624
+msgid "galleries"
+msgstr ""
+
+#: functions.php:625
+msgid "video"
+msgstr ""
+
+#: functions.php:625
+msgid "videos"
+msgstr ""
+
+#: functions.php:626
+msgid "audio"
+msgstr ""
+
+#: functions.php:626
+msgid "audios"
+msgstr ""
+
+#: functions.php:627
+msgid "image"
+msgstr ""
+
+#: functions.php:627
+msgid "images"
+msgstr ""
+
+#: functions.php:628
+msgid "quote"
+msgstr ""
+
+#: functions.php:628
+msgid "quotes"
+msgstr ""
+
+#: functions.php:629
+msgid "link"
+msgstr ""
+
+#: functions.php:629
+msgid "links"
+msgstr ""
+
+#: functions.php:630
+msgid "status"
+msgstr ""
+
+#: functions.php:630
+msgid "statuses"
+msgstr ""
+
+#: functions.php:631
+msgid "aside"
+msgstr ""
+
+#: functions.php:631
+msgid "asides"
+msgstr ""
+
+#: functions.php:632
+msgid "chat"
+msgstr ""
+
+#: functions.php:632
+msgid "chats"
+msgstr ""
+
+#: functions.php:633
+msgid "standard"
+msgstr ""
+
+#: functions.php:633
+msgid "standards"
+msgstr ""
+
+#: functions.php:732
+msgid "no rated"
+msgstr ""
+
+#: functions.php:802 functions.php:807 admin/theme-options.php:838
+msgid "Choose Images"
+msgstr ""
+
+#: functions.php:802 functions.php:803 functions.php:807
+#: admin/theme-options.php:838 admin/theme-options.php:839
+msgid "Choose Image"
+msgstr ""
+
+#: functions.php:803 admin/theme-options.php:839
+msgid "Add to Gallery"
+msgstr ""
+
+#: functions.php:855
+msgid "Summary"
+msgstr ""
+
+#: functions.php:872
+#, php-format
+msgid "Rating: %s from %s"
+msgstr ""
+
+#: functions.php:872
+#, php-format
+msgid "Rating: %s"
+msgstr ""
+
+#: functions.php:874
+#, php-format
+msgid "%s from %s"
+msgstr ""
+
+#: functions.php:885
+#, php-format
+msgid "%s / %s"
+msgstr ""
+
+#: functions.php:885 includes/_wp_utils.php:513
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:1069
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:1077
+msgid "Advertisement Sidebar"
+msgstr ""
+
+#: functions.php:1085
+msgid "Footer Sidebar"
+msgstr ""
+
+#: header.php:138
+msgid ""
+"It looks like you're using an old version of Internet Explorer. For the best "
+"WordPress experience, please <a href=\"http://microsoft.com\" style=\"color:"
+"#191919\">update your browser</a> or learn how to <a href=\"http://"
+"browsehappy.com\" style=\"color:#222222\">browse happy</a>!"
+msgstr ""
+
+#: header.php:159
+msgid "Logout"
+msgstr ""
+
+#: header.php:166
+msgid "Home"
+msgstr ""
+
+#: header.php:231
+#, php-format
+msgid "Type your search query and press \"Enter\" %s"
+msgstr ""
+
+#: single.php:121 template-blog-excerpt.php:55 template-blog-fullpost.php:43
+msgid "by "
+msgstr ""
+
+#: single.php:124 template-blog-excerpt.php:58 template-blog-fullpost.php:46
+msgid "in "
+msgstr ""
+
+#: single.php:147
+msgid "Users"
+msgstr ""
+
+#: single.php:177
+#, php-format
+msgid "Summary rating from %s user's marks."
+msgstr ""
+
+#: single.php:180
+msgid ""
+"You can set own marks for this article - just click on stars above and press "
+"\"Accept\"."
+msgstr ""
+
+#: single.php:181
+msgid "Thanks for your vote!"
+msgstr ""
+
+#: single.php:183
+msgid "Accept"
+msgstr ""
+
+#: single.php:225
+msgid "Thanks for your vote! New average rating is:"
+msgstr ""
+
+#: single.php:239
+msgid "Error saving your vote! Please, try again later."
+msgstr ""
+
+#: single.php:281 template-blog-excerpt.php:99 template-blog-fullpost.php:89
+msgid "Tags:"
+msgstr ""
+
+#: single.php:312
+msgid "About author"
+msgstr ""
+
+#: single.php:349
+msgid "Related posts"
+msgstr ""
+
+#: template-blog-404.php:12
+msgid "404"
+msgstr ""
+
+#: template-blog-404.php:15
+msgid "Oops, This Page Could Not Be Found!"
+msgstr ""
+
+#: template-blog-404.php:17
+msgid "Can't find what you need? Start from our homepage!"
+msgstr ""
+
+#: template-blog-excerpt.php:90 template-blog-fullpost.php:78
+#: template-blog-loop.php:27
+msgid "Read more"
+msgstr ""
+
+#: template-blog-no-articles.php:12
+msgid "No posts found"
+msgstr ""
+
+#: template-blog-no-articles.php:17
+msgid "Sorry, but nothing matched your search criteria."
+msgstr ""
+
+#: template-blog-no-search-results.php:12
+msgid "Search Results for:"
+msgstr ""
+
+#: template-blog-no-search-results.php:18
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-blog.php:109
+msgid "View more"
+msgstr ""
+
+#: template-blog.php:109
+msgid "Loading ..."
+msgstr ""
+
+#: admin/theme-options.php:14 admin/theme-options.php:545
+msgid "Theme Options"
+msgstr ""
+
+#: admin/theme-options.php:82
+msgid "Upload Error:"
+msgstr ""
+
+#: admin/theme-options.php:234
+msgid "You really want reset all options to default values ?"
+msgstr ""
+
+#: admin/theme-options.php:438 admin/theme-options.php:443
+msgid "Uploading"
+msgstr ""
+
+#: admin/theme-options.php:449 admin/theme-options.php:843
+msgid "Upload Image"
+msgstr ""
+
+#: admin/theme-options.php:453
+msgid "Upload Error"
+msgstr ""
+
+#: admin/theme-options.php:519
+msgid "You can't delete last item! To disable it - just clear value in field."
+msgstr ""
+
+#: admin/theme-options.php:537
+msgid "Options Updated"
+msgstr ""
+
+#: admin/theme-options.php:540
+msgid "Options Reset"
+msgstr ""
+
+#: admin/theme-options.php:561
+msgid "Working..."
+msgstr ""
+
+#: admin/theme-options.php:562
+msgid "Save All Options"
+msgstr ""
+
+#: admin/theme-options.php:564
+msgid "Reset Options"
+msgstr ""
+
+#: admin/theme-options.php:564
+msgid "CAUTION: Any and all settings will be lost! Click OK to reset."
+msgstr ""
+
+#: admin/theme-options.php:710 admin/theme-options.php:944
+msgid "+ Add item"
+msgstr ""
+
+#: admin/theme-options.php:845
+msgid "Remove"
+msgstr ""
+
+#: admin/theme-settings.php:29 admin/theme-settings.php:340
+msgid "General"
+msgstr ""
+
+#: admin/theme-settings.php:33
+msgid "Contact form email"
+msgstr ""
+
+#: admin/theme-settings.php:34
+msgid "E-mail for send contact form and user registration data"
+msgstr ""
+
+#: admin/theme-settings.php:39
+msgid "Favicon"
+msgstr ""
+
+#: admin/theme-settings.php:40
+msgid ""
+"Upload a 16px x 16px image that will represent your website's favicon.<br /"
+"><br /><em>To ensure cross-browser compatibility, we recommend converting "
+"the favicon into .ico format before uploading. (<a href=\"http://www.favicon."
+"cc/\">www.favicon.cc</a>)</em>"
+msgstr ""
+
+#: admin/theme-settings.php:45
+msgid "Logo image"
+msgstr ""
+
+#: admin/theme-settings.php:46
+msgid "Upload logo image"
+msgstr ""
+
+#: admin/theme-settings.php:51
+msgid "Logo text"
+msgstr ""
+
+#: admin/theme-settings.php:52
+msgid ""
+"Write logo text (if empty the logo image). Use characters [ and ] to select "
+"accented part."
+msgstr ""
+
+#: admin/theme-settings.php:57
+msgid "Slogan text"
+msgstr ""
+
+#: admin/theme-settings.php:58
+msgid "Write slogan (under logo)"
+msgstr ""
+
+#: admin/theme-settings.php:63
+msgid "Show Advertisement block in page header"
+msgstr ""
+
+#: admin/theme-settings.php:64
+msgid "Do you want to show the advertisement block in the page header area?"
+msgstr ""
+
+#: admin/theme-settings.php:71
+msgid "Advertisement block: banner image"
+msgstr ""
+
+#: admin/theme-settings.php:72
+msgid "Upload the banner image"
+msgstr ""
+
+#: admin/theme-settings.php:78
+msgid "Advertisement block: banner image link"
+msgstr ""
+
+#: admin/theme-settings.php:79
+msgid "Link URL for the banner image"
+msgstr ""
+
+#: admin/theme-settings.php:85
+msgid "Advertisement block: html-content"
+msgstr ""
+
+#: admin/theme-settings.php:86
+msgid ""
+"Put here an advertisement block html-content (will be display instead the "
+"image above)"
+msgstr ""
+
+#: admin/theme-settings.php:92
+msgid "Footer copyright"
+msgstr ""
+
+#: admin/theme-settings.php:93
+msgid "Copyright text to show in footer area (bottom of site)"
+msgstr ""
+
+#: admin/theme-settings.php:98
+msgid "Image dimensions"
+msgstr ""
+
+#: admin/theme-settings.php:99
+msgid ""
+"What dimensions use for uploaded image: Original or \"Retina ready\" (twice "
+"enlarged)"
+msgstr ""
+
+#: admin/theme-settings.php:103
+msgid "Original"
+msgstr ""
+
+#: admin/theme-settings.php:103
+msgid "Retina"
+msgstr ""
+
+#: admin/theme-settings.php:105
+msgid "Responsive Layouts"
+msgstr ""
+
+#: admin/theme-settings.php:106
+msgid ""
+"Do you want use responsive layouts on small screen or still use main layout?"
+msgstr ""
+
+#: admin/theme-settings.php:112
+msgid "Additional filters in admin panel"
+msgstr ""
+
+#: admin/theme-settings.php:113
+msgid ""
+"Show additional filters (on post format and tags) in admin panel page \"Posts"
+"\""
+msgstr ""
+
+#: admin/theme-settings.php:119
+msgid "Use update notifier in admin panel"
+msgstr ""
+
+#: admin/theme-settings.php:120
+msgid "Show update notifier in admin panel (can delay dashboard)"
+msgstr ""
+
+#: admin/theme-settings.php:126
+msgid "Compose scripts and styles in single file"
+msgstr ""
+
+#: admin/theme-settings.php:127
+msgid ""
+"Do you want to compose theme scripts and styles in single file (for speed up "
+"page loading)"
+msgstr ""
+
+#: admin/theme-settings.php:140
+msgid "Customization"
+msgstr ""
+
+#: admin/theme-settings.php:143
+msgid "Show Theme customizer"
+msgstr ""
+
+#: admin/theme-settings.php:144
+msgid "Show theme customizer"
+msgstr ""
+
+#: admin/theme-settings.php:150
+msgid "Theme font"
+msgstr ""
+
+#: admin/theme-settings.php:151
+msgid "Select theme main font"
+msgstr ""
+
+#: admin/theme-settings.php:157
+msgid "Logo font"
+msgstr ""
+
+#: admin/theme-settings.php:158
+msgid "Select logo font"
+msgstr ""
+
+#: admin/theme-settings.php:164
+msgid "Show Login/Logout buttons"
+msgstr ""
+
+#: admin/theme-settings.php:165
+msgid "Show Login and Logout buttons"
+msgstr ""
+
+#: admin/theme-settings.php:171
+msgid "Puzzles-style elements: enable animations"
+msgstr ""
+
+#: admin/theme-settings.php:172
+msgid "Enable animations on puzzles-style page element"
+msgstr ""
+
+#: admin/theme-settings.php:178
+msgid "Puzzles-style elements: info blocks style"
+msgstr ""
+
+#: admin/theme-settings.php:179
+msgid ""
+"Style of info blocks for puzzles-style elements on homepage, blog streampage "
+"and related posts"
+msgstr ""
+
+#: admin/theme-settings.php:183
+msgid "Heavy style"
+msgstr ""
+
+#: admin/theme-settings.php:183
+msgid "Light style"
+msgstr ""
+
+#: admin/theme-settings.php:185
+msgid "Main menu parameters"
+msgstr ""
+
+#: admin/theme-settings.php:186
+msgid "Main menu display parameters"
+msgstr ""
+
+#: admin/theme-settings.php:189
+msgid "Main menu position"
+msgstr ""
+
+#: admin/theme-settings.php:190
+msgid "Attach main menu to top of window then page scroll down"
+msgstr ""
+
+#: admin/theme-settings.php:194
+msgid "Fix menu position"
+msgstr ""
+
+#: admin/theme-settings.php:194
+msgid "Don't fix menu position"
+msgstr ""
+
+#: admin/theme-settings.php:196
+msgid "Main menu colored"
+msgstr ""
+
+#: admin/theme-settings.php:197
+msgid ""
+"Use for main menu item theme and accent colors from categories (if "
+"categories used as menu items)"
+msgstr ""
+
+#: admin/theme-settings.php:203
+msgid "Main menu slider"
+msgstr ""
+
+#: admin/theme-settings.php:204
+msgid "Use slider background for main menu items"
+msgstr ""
+
+#: admin/theme-settings.php:210
+msgid "Main menu height"
+msgstr ""
+
+#: admin/theme-settings.php:211
+msgid "Height of main menu items"
+msgstr ""
+
+#: admin/theme-settings.php:216
+msgid "Submenu width"
+msgstr ""
+
+#: admin/theme-settings.php:217
+msgid "Width for dropdown menus in main menu"
+msgstr ""
+
+#: admin/theme-settings.php:222
+msgid "Max width for responsive menu"
+msgstr ""
+
+#: admin/theme-settings.php:223
+msgid "Use responsive menu, if window width less then value in this field"
+msgstr ""
+
+#: admin/theme-settings.php:228
+msgid "Body parameters"
+msgstr ""
+
+#: admin/theme-settings.php:229
+msgid ""
+"This parameters only for fixed body style. Use only background image (if "
+"selected), else use background pattern"
+msgstr ""
+
+#: admin/theme-settings.php:232
+msgid "Body style"
+msgstr ""
+
+#: admin/theme-settings.php:233
+msgid "Use boxed or wide body style"
+msgstr ""
+
+#: admin/theme-settings.php:237
+msgid "Wide"
+msgstr ""
+
+#: admin/theme-settings.php:239
+msgid "Background color"
+msgstr ""
+
+#: admin/theme-settings.php:240
+msgid "Body background color"
+msgstr ""
+
+#: admin/theme-settings.php:245
+msgid "Background predefined pattern"
+msgstr ""
+
+#: admin/theme-settings.php:246
+msgid "Select theme background pattern (first case - without pattern)"
+msgstr ""
+
+#: admin/theme-settings.php:259
+msgid "Background custom pattern"
+msgstr ""
+
+#: admin/theme-settings.php:260
+msgid "Select or upload background custom pattern"
+msgstr ""
+
+#: admin/theme-settings.php:265
+msgid "Background predefined image"
+msgstr ""
+
+#: admin/theme-settings.php:266
+msgid "Select theme background image (first case - without image)"
+msgstr ""
+
+#: admin/theme-settings.php:277
+msgid "Background custom image"
+msgstr ""
+
+#: admin/theme-settings.php:278
+msgid "Select or upload background custom image"
+msgstr ""
+
+#: admin/theme-settings.php:283
+msgid "Background custom image position"
+msgstr ""
+
+#: admin/theme-settings.php:284
+msgid "Select custom image position"
+msgstr ""
+
+#: admin/theme-settings.php:300
+msgid "Your CSS code"
+msgstr ""
+
+#: admin/theme-settings.php:301
+msgid "Put here your css code to correct main theme styles"
+msgstr ""
+
+#: admin/theme-settings.php:315
+msgid "Sidebars"
+msgstr ""
+
+#: admin/theme-settings.php:318
+msgid "Custom sidebars"
+msgstr ""
+
+#: admin/theme-settings.php:319
+msgid ""
+"Manage custom sidebars. You can use it with each category (page, post) "
+"independently"
+msgstr ""
+
+#: admin/theme-settings.php:332
+msgid "Blog"
+msgstr ""
+
+#: admin/theme-settings.php:335 admin/theme-settings.php:344
+msgid "General Blog parameters"
+msgstr ""
+
+#: admin/theme-settings.php:341
+msgid "Blog Stream page"
+msgstr ""
+
+#: admin/theme-settings.php:342
+msgid "Blog Single page"
+msgstr ""
+
+#: admin/theme-settings.php:345
+msgid "Select excluded categories, substitute parameters, etc."
+msgstr ""
+
+#: admin/theme-settings.php:348
+msgid "Exclude categories"
+msgstr ""
+
+#: admin/theme-settings.php:349
+msgid "Select categories, which posts are exclude from blog page"
+msgstr ""
+
+#: admin/theme-settings.php:356
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: admin/theme-settings.php:357
+msgid "Show path to current category (post, page)"
+msgstr ""
+
+#: admin/theme-settings.php:363
+msgid "Blog pagination style"
+msgstr ""
+
+#: admin/theme-settings.php:364
+msgid "Select pagination style on blog streampages"
+msgstr ""
+
+#: admin/theme-settings.php:369
+msgid "Standard page numbers"
+msgstr ""
+
+#: admin/theme-settings.php:370
+msgid "\"View more\" button"
+msgstr ""
+
+#: admin/theme-settings.php:371
+msgid "Infinite scroll"
+msgstr ""
+
+#: admin/theme-settings.php:374
+msgid "Blog counters"
+msgstr ""
+
+#: admin/theme-settings.php:375
+msgid "Select counters, displayed near the post title"
+msgstr ""
+
+#: admin/theme-settings.php:379
+msgid "Don't show any counters"
+msgstr ""
+
+#: admin/theme-settings.php:379
+msgid "Show views number"
+msgstr ""
+
+#: admin/theme-settings.php:379
+msgid "Show comments number"
+msgstr ""
+
+#: admin/theme-settings.php:381
+msgid "Post's category announce"
+msgstr ""
+
+#: admin/theme-settings.php:382
+msgid ""
+"What category display in announce block (over posts thumb) - original or "
+"nearest parental"
+msgstr ""
+
+#: admin/theme-settings.php:386
+msgid "Nearest parental category"
+msgstr ""
+
+#: admin/theme-settings.php:386
+msgid "Original post's category"
+msgstr ""
+
+#: admin/theme-settings.php:388
+msgid "Show post date after"
+msgstr ""
+
+#: admin/theme-settings.php:389
+msgid "Show post date after N days (before - show post age)"
+msgstr ""
+
+#: admin/theme-settings.php:394
+msgid "Substitute standard Wordpress gallery"
+msgstr ""
+
+#: admin/theme-settings.php:395
+msgid "Substitute standard Wordpress gallery with our theme-styled gallery"
+msgstr ""
+
+#: admin/theme-settings.php:401
+msgid "Substitute audio tags"
+msgstr ""
+
+#: admin/theme-settings.php:402
+msgid "Substitute audio tag with source from soundclound to embed player"
+msgstr ""
+
+#: admin/theme-settings.php:408
+msgid "Substitute video tags"
+msgstr ""
+
+#: admin/theme-settings.php:409
+msgid "Substitute video tags to embed players"
+msgstr ""
+
+#: admin/theme-settings.php:415
+msgid "Use Media Element script for audio and video tags"
+msgstr ""
+
+#: admin/theme-settings.php:416
+msgid ""
+"Do you want use the Media Element script for all audio and video tags on "
+"your site?"
+msgstr ""
+
+#: admin/theme-settings.php:424 admin/theme-settings.php:430
+msgid "Blog streampage parameters"
+msgstr ""
+
+#: admin/theme-settings.php:431
+msgid ""
+"Select desired blog streampage parameters (you can override it in each "
+"category)"
+msgstr ""
+
+#: admin/theme-settings.php:435
+msgid "Blog style"
+msgstr ""
+
+#: admin/theme-settings.php:436
+msgid "Select desired blog style"
+msgstr ""
+
+#: admin/theme-settings.php:443
+msgid "Blog posts sorted by"
+msgstr ""
+
+#: admin/theme-settings.php:444
+msgid "Select the desired sorting method for posts"
+msgstr ""
+
+#: admin/theme-settings.php:451
+msgid "Blog posts order"
+msgstr ""
+
+#: admin/theme-settings.php:452 admin/theme-settings.php:770
+msgid "Select the desired ordering method for posts"
+msgstr ""
+
+#: admin/theme-settings.php:459
+msgid "Blog posts per page"
+msgstr ""
+
+#: admin/theme-settings.php:460
+msgid ""
+"How many posts display on blog pages for selected style. If empty or 0 - "
+"inherit system wordpress settings"
+msgstr ""
+
+#: admin/theme-settings.php:466
+msgid "Post excerpt maxlength"
+msgstr ""
+
+#: admin/theme-settings.php:467
+msgid ""
+"How many characters from post excerpt are display in blog streampage (only "
+"for Blog style = Excerpt). 0 - do not trim excerpt."
+msgstr ""
+
+#: admin/theme-settings.php:472
+msgid "Blog theme"
+msgstr ""
+
+#: admin/theme-settings.php:473
+msgid "Blog theme - colors set for display each page element"
+msgstr ""
+
+#: admin/theme-settings.php:480
+msgid "Theme accent color"
+msgstr ""
+
+#: admin/theme-settings.php:481
+msgid ""
+"Used as background for category name on puzzles-styled pages and for accent "
+"some page elements"
+msgstr ""
+
+#: admin/theme-settings.php:487
+msgid "Show main sidebar"
+msgstr ""
+
+#: admin/theme-settings.php:488
+msgid "Select main sidebar position on blog page"
+msgstr ""
+
+#: admin/theme-settings.php:495
+msgid "Select main sidebar"
+msgstr ""
+
+#: admin/theme-settings.php:496
+msgid "Select main sidebar for blog page"
+msgstr ""
+
+#: admin/theme-settings.php:503
+msgid "Main Sidebar theme"
+msgstr ""
+
+#: admin/theme-settings.php:504
+msgid "Main sidebar color theme"
+msgstr ""
+
+#: admin/theme-settings.php:511
+msgid "Show advertisement sidebar"
+msgstr ""
+
+#: admin/theme-settings.php:512
+msgid "Show advertisement sidebar before footer"
+msgstr ""
+
+#: admin/theme-settings.php:519
+msgid "Select advertisement sidebar"
+msgstr ""
+
+#: admin/theme-settings.php:520
+msgid "Select advertisement sidebar for blog page"
+msgstr ""
+
+#: admin/theme-settings.php:527
+msgid "Advertisement Sidebar theme"
+msgstr ""
+
+#: admin/theme-settings.php:528
+msgid "Advertisement sidebar color theme"
+msgstr ""
+
+#: admin/theme-settings.php:535 admin/theme-settings.php:536
+msgid "Show footer sidebar"
+msgstr ""
+
+#: admin/theme-settings.php:543
+msgid "Select footer sidebar"
+msgstr ""
+
+#: admin/theme-settings.php:544
+msgid "Select footer sidebar for blog page"
+msgstr ""
+
+#: admin/theme-settings.php:551
+msgid "Footer Sidebar theme"
+msgstr ""
+
+#: admin/theme-settings.php:552
+msgid "Footer sidebar color theme"
+msgstr ""
+
+#: admin/theme-settings.php:561
+msgid "Single page parameters"
+msgstr ""
+
+#: admin/theme-settings.php:568
+msgid "Single (detail) pages parameters"
+msgstr ""
+
+#: admin/theme-settings.php:569
+msgid ""
+"Select desired parameters for single (detail) pages (you can override it in "
+"each category and single post (page))"
+msgstr ""
+
+#: admin/theme-settings.php:573
+msgid "Use fullwidth content (without paddings)"
+msgstr ""
+
+#: admin/theme-settings.php:574
+msgid "Disable paddings for page content on single pages"
+msgstr ""
+
+#: admin/theme-settings.php:581
+msgid "Show featured image before post"
+msgstr ""
+
+#: admin/theme-settings.php:582
+msgid "Show featured image (if selected) before post content on single pages"
+msgstr ""
+
+#: admin/theme-settings.php:589
+msgid "Show post title"
+msgstr ""
+
+#: admin/theme-settings.php:590
+msgid "Show area with post title on single pages"
+msgstr ""
+
+#: admin/theme-settings.php:597
+msgid "Show post info"
+msgstr ""
+
+#: admin/theme-settings.php:598
+msgid "Show area with post info on single pages"
+msgstr ""
+
+#: admin/theme-settings.php:605
+msgid "Show text before \"Read more\" tag"
+msgstr ""
+
+#: admin/theme-settings.php:606
+msgid "Show text before \"Read more\" tag on single pages"
+msgstr ""
+
+#: admin/theme-settings.php:612
+msgid "Show post author details"
+msgstr ""
+
+#: admin/theme-settings.php:613
+msgid "Show post author information block on single post page"
+msgstr ""
+
+#: admin/theme-settings.php:630
+msgid "Show post tags"
+msgstr ""
+
+#: admin/theme-settings.php:631
+msgid "Show tags block on single post page"
+msgstr ""
+
+#: admin/theme-settings.php:639
+msgid "Show related posts"
+msgstr ""
+
+#: admin/theme-settings.php:640
+msgid "Show related posts block on single post page"
+msgstr ""
+
+#: admin/theme-settings.php:648
+msgid "Related posts number"
+msgstr ""
+
+#: admin/theme-settings.php:649
+msgid "How many related posts showed on single post page"
+msgstr ""
+
+#: admin/theme-settings.php:656
+msgid "Related posts sorted by"
+msgstr ""
+
+#: admin/theme-settings.php:657
+msgid "Select the desired sorting method for related posts"
+msgstr ""
+
+#: admin/theme-settings.php:664
+msgid "Related posts order"
+msgstr ""
+
+#: admin/theme-settings.php:665
+msgid "Select the desired ordering method for related posts"
+msgstr ""
+
+#: admin/theme-settings.php:672
+msgid "Show comments"
+msgstr ""
+
+#: admin/theme-settings.php:673
+msgid "Show comments block on single post page"
+msgstr ""
+
+#: admin/theme-settings.php:681
+msgid "Puzzles-style: Post excerpt background"
+msgstr ""
+
+#: admin/theme-settings.php:682
+msgid "Use this color as background for post excerpt on puzzles-styled pages"
+msgstr ""
+
+#: admin/theme-settings.php:688
+msgid "Puzzles-style: Post excerpt position"
+msgstr ""
+
+#: admin/theme-settings.php:689
+msgid "Post excerpt position on puzzles-styled pages"
+msgstr ""
+
+#: admin/theme-settings.php:706 includes/shortcodes.php:103
+msgid "Slider"
+msgstr ""
+
+#: admin/theme-settings.php:710
+msgid "Main slider parameters"
+msgstr ""
+
+#: admin/theme-settings.php:711
+msgid ""
+"Select parameters for main slider (you can override it in each category and "
+"page)"
+msgstr ""
+
+#: admin/theme-settings.php:715
+msgid "Show Slider"
+msgstr ""
+
+#: admin/theme-settings.php:716
+msgid "Do you want to show slider on each page (post)"
+msgstr ""
+
+#: admin/theme-settings.php:723
+msgid "Slider display"
+msgstr ""
+
+#: admin/theme-settings.php:724
+msgid "How display slider: fixed width or fullscreen width"
+msgstr ""
+
+#: admin/theme-settings.php:729 admin/theme-settings.php:850
+msgid "Fixed width"
+msgstr ""
+
+#: admin/theme-settings.php:729 admin/theme-settings.php:850
+msgid "Fullscreen"
+msgstr ""
+
+#: admin/theme-settings.php:731
+msgid "Slider engine"
+msgstr ""
+
+#: admin/theme-settings.php:732
+msgid ""
+"What engine use to show slider: Revolution slider (need to install "
+"additional plugin from theme package), Flex Slider or None (don't show "
+"slider)"
+msgstr ""
+
+#: admin/theme-settings.php:739
+msgid "Revolution Slider alias"
+msgstr ""
+
+#: admin/theme-settings.php:740
+msgid "Slider alias (see in Revolution plugin settings)"
+msgstr ""
+
+#: admin/theme-settings.php:746
+msgid "Flexslider: Category to show"
+msgstr ""
+
+#: admin/theme-settings.php:747
+msgid "Select category to show in Flexslider (ignored for Revolution slider)"
+msgstr ""
+
+#: admin/theme-settings.php:752
+msgid "- Any category -"
+msgstr ""
+
+#: admin/theme-settings.php:754
+msgid "Flexslider: Number posts or comma separated posts list"
+msgstr ""
+
+#: admin/theme-settings.php:755
+msgid ""
+"How many recent posts display in slider or comma separated list of posts ID "
+"(in this case selected category ignored)"
+msgstr ""
+
+#: admin/theme-settings.php:761
+msgid "Flexslider: Post's order by"
+msgstr ""
+
+#: admin/theme-settings.php:762
+msgid ""
+"Posts in slider ordered by date (default), comments, views, author rating, "
+"users rating, random or alphabetically"
+msgstr ""
+
+#: admin/theme-settings.php:769
+msgid "Flexslider: Post's order"
+msgstr ""
+
+#: admin/theme-settings.php:777
+msgid "Flexslider: Show post's infobox"
+msgstr ""
+
+#: admin/theme-settings.php:778
+msgid ""
+"Do you want to show post's title, reviews rating and description on slides "
+"in flex-slider"
+msgstr ""
+
+#: admin/theme-settings.php:785
+msgid "Flexslider: Infobox fixed"
+msgstr ""
+
+#: admin/theme-settings.php:786
+msgid "Do you want to fix infobox on slides in flex-slider or hide it in hover"
+msgstr ""
+
+#: admin/theme-settings.php:793
+msgid "Flexslider: Show post's category"
+msgstr ""
+
+#: admin/theme-settings.php:794
+msgid "Do you want to show post's category on slides in flex-slider"
+msgstr ""
+
+#: admin/theme-settings.php:801
+msgid "Flexslider: Show post's reviews rating"
+msgstr ""
+
+#: admin/theme-settings.php:802
+msgid "Do you want to show post's reviews rating on slides in flex-slider"
+msgstr ""
+
+#: admin/theme-settings.php:809
+msgid "Flexslider: Show post's descriptions"
+msgstr ""
+
+#: admin/theme-settings.php:810
+msgid "Do you want to show post's description on slides in flex-slider"
+msgstr ""
+
+#: admin/theme-settings.php:827
+msgid "Google map"
+msgstr ""
+
+#: admin/theme-settings.php:831
+msgid "Google map parameters"
+msgstr ""
+
+#: admin/theme-settings.php:832
+msgid ""
+"Select parameters for Google map (you can override it in each category and "
+"page)"
+msgstr ""
+
+#: admin/theme-settings.php:836
+msgid "Show Google Map"
+msgstr ""
+
+#: admin/theme-settings.php:837
+msgid "Do you want to show Google map on each page (post)"
+msgstr ""
+
+#: admin/theme-settings.php:844
+msgid "Google map display"
+msgstr ""
+
+#: admin/theme-settings.php:845
+msgid "How display the map: fixed width or fullscreen width"
+msgstr ""
+
+#: admin/theme-settings.php:852
+msgid "Google map height"
+msgstr ""
+
+#: admin/theme-settings.php:853
+msgid "Height of map area (in pixels)"
+msgstr ""
+
+#: admin/theme-settings.php:859
+msgid "Google map initial zoom"
+msgstr ""
+
+#: admin/theme-settings.php:860
+msgid "Enter desired initial zoom for Google map"
+msgstr ""
+
+#: admin/theme-settings.php:869
+msgid "Address to show on map"
+msgstr ""
+
+#: admin/theme-settings.php:870
+msgid "Enter address to show on map center"
+msgstr ""
+
+#: admin/theme-settings.php:876
+msgid "Latitude and Longtitude to show on map"
+msgstr ""
+
+#: admin/theme-settings.php:877
+msgid ""
+"Enter coordinates (separated by comma) to show on map center (instead of "
+"address)"
+msgstr ""
+
+#: admin/theme-settings.php:889
+msgid "Reviews"
+msgstr ""
+
+#: admin/theme-settings.php:893 admin/theme-settings.php:951
+msgid "Reviews criterias"
+msgstr ""
+
+#: admin/theme-settings.php:894
+msgid "Set up list of reviews criterias. You can override it in any category."
+msgstr ""
+
+#: admin/theme-settings.php:898 includes/type-post.php:22
+msgid "Show reviews block"
+msgstr ""
+
+#: admin/theme-settings.php:899 includes/type-post.php:23
+msgid ""
+"Show reviews block on single post page and average reviews rating after "
+"post's title in stream pages"
+msgstr ""
+
+#: admin/theme-settings.php:907
+msgid "Max reviews level"
+msgstr ""
+
+#: admin/theme-settings.php:908
+msgid "Maximum level for reviews marks"
+msgstr ""
+
+#: admin/theme-settings.php:914
+msgid "Show rating as"
+msgstr ""
+
+#: admin/theme-settings.php:915
+msgid "Show rating marks as text or as stars/progress bars."
+msgstr ""
+
+#: admin/theme-settings.php:919
+msgid "As text (for example: 7.5 / 10)"
+msgstr ""
+
+#: admin/theme-settings.php:919
+msgid "As stars or bars"
+msgstr ""
+
+#: admin/theme-settings.php:921
+msgid "Reviews Criterias Levels"
+msgstr ""
+
+#: admin/theme-settings.php:922
+msgid "Comma separated words to mark criterials levels (5 levels)"
+msgstr ""
+
+#: admin/theme-settings.php:924
+msgid "bad,poor,normal,good,great"
+msgstr ""
+
+#: admin/theme-settings.php:927
+msgid "Show first reviews"
+msgstr ""
+
+#: admin/theme-settings.php:928
+msgid ""
+"What reviews will be displayed first: by author or by visitors. Also this "
+"type of reviews will display under post's title."
+msgstr ""
+
+#: admin/theme-settings.php:933
+msgid "By author"
+msgstr ""
+
+#: admin/theme-settings.php:933
+msgid "By visitors"
+msgstr ""
+
+#: admin/theme-settings.php:935
+msgid "Hide second reviews"
+msgstr ""
+
+#: admin/theme-settings.php:936
+msgid "Do you want hide second reviews tab in widgets and single posts?"
+msgstr ""
+
+#: admin/theme-settings.php:943
+msgid "What visitors can vote"
+msgstr ""
+
+#: admin/theme-settings.php:944
+msgid "What visitors can vote: all or only registered"
+msgstr ""
+
+#: admin/theme-settings.php:949
+msgid "All visitors"
+msgstr ""
+
+#: admin/theme-settings.php:949
+msgid "Only registered"
+msgstr ""
+
+#: admin/theme-settings.php:952
+msgid "Add default reviews criterias."
+msgstr ""
+
+#: admin/theme-settings.php:968
+msgid "Social"
+msgstr ""
+
+#: admin/theme-settings.php:971 admin/theme-settings.php:975
+msgid "Social networks"
+msgstr ""
+
+#: admin/theme-settings.php:972
+msgid "Social networks list for site footer and Social widget"
+msgstr ""
+
+#: admin/theme-settings.php:976
+msgid "Select icon and write URL to your profile in desired social networks."
+msgstr ""
+
+#: admin/theme-settings.php:982 admin/theme-settings.php:1016
+msgid "Share buttons"
+msgstr ""
+
+#: admin/theme-settings.php:983
+msgid ""
+"Add button's code for each social share network.<br>In share url you can use "
+"next macro:<br><b>{url}</b> - share post (page) URL,<br><b>{title}</b> - "
+"post title,<br><b>{image}</b> - post image,<br><b>{descr}</b> - post "
+"description (if supported)<br>For example:<br><b>Facebook</b> share string: "
+"<em>http://www.facebook.com/sharer.php?u={link}&t={title}</"
+"em><br><b>Delicious</b> share string: <em>http://delicious.com/save?"
+"url={link}&title={title}&note={descr}</em>"
+msgstr ""
+
+#: admin/theme-settings.php:986
+msgid "Show social share buttons"
+msgstr ""
+
+#: admin/theme-settings.php:987
+msgid "Show social share buttons block"
+msgstr ""
+
+#: admin/theme-settings.php:994
+msgid "Show share counters"
+msgstr ""
+
+#: admin/theme-settings.php:995
+msgid "Show share counters after social buttons"
+msgstr ""
+
+#: admin/theme-settings.php:1002
+msgid "Share buttons block direction"
+msgstr ""
+
+#: admin/theme-settings.php:1003
+msgid "Select direction for the social share buttons block"
+msgstr ""
+
+#: admin/theme-settings.php:1010
+msgid "Share block caption"
+msgstr ""
+
+#: admin/theme-settings.php:1011
+msgid "Caption for the block with social share buttons"
+msgstr ""
+
+#: admin/theme-settings.php:1013
+msgid "Share this post"
+msgstr ""
+
+#: admin/theme-settings.php:1017
+msgid ""
+"Select icon and write share URL for desired social networks.<br><b>Important!"
+"</b>If you leave text field empty - internal theme link will be used (if "
+"present)."
+msgstr ""
+
+#: admin/po_composer/po_composer.php:46
+msgid "PO Composer"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:89 admin/po_composer/po_composer.php:94
+msgid "Upload .po-file"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:90 admin/po_composer/po_composer.php:95
+msgid "Edit .po-text"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:91 admin/po_composer/po_composer.php:96
+msgid "Parent languages"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:91 admin/po_composer/po_composer.php:96
+msgid "Languages"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:92 admin/po_composer/po_composer.php:97
+msgid "Child languages"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:93
+msgid "- Select merge source -"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:102
+msgid "ThemeREX .PO-files Composer"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:127
+msgid "Edit .po-file:"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:130 admin/po_composer/po_composer.php:159
+msgid "Select .po-file:"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:136
+msgid "Move translated strings down"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:139
+msgid "Plain text"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:139
+msgid "Strings editor"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:156
+msgid "Merge with .po-file:"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:171
+msgid "Upload"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:171 widgets/qrcode/widget-qrcode.php:279
+msgid "Update"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:175
+msgid "Download .PO-file"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:178
+msgid "Download .MO-file"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:193
+msgid "Incorrect WP-nonce data! Operation canceled!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:205
+msgid "Error parsing new .po-file!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:217
+msgid "Error parsing merging .po-file!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:273
+#, php-format
+msgid "Language file \"<b>%s.po</b>\" was updated!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:277
+#, php-format
+msgid "Language file \"<b>%s.mo</b>\" was generated!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:280
+#, php-format
+msgid ""
+"Error writing in language file \"<b>%s.po</b>\"!<br>Please, copy text from "
+"textarea below and paste it in the .po-file manually<br>or use links to "
+"upload .po and .mo files below the text area!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:304
+#, php-format
+msgid "Error uploading or Empty .po-file: %s"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:312 admin/po_composer/po_composer.php:326
+msgid "Empty textarea with .po-file content!"
+msgstr ""
+
+#: admin/po_composer/po_composer.php:321
+#, php-format
+msgid "Error loading or Empty .po-file: %s"
+msgstr ""
+
+#: includes/shortcodes.php:29
+msgid "*Select Shortcode*"
+msgstr ""
+
+#: includes/shortcodes.php:33 includes/shortcodes.php:34
+#: includes/shortcodes.php:35 includes/shortcodes.php:96
+#: includes/shortcodes.php:97 includes/shortcodes.php:98
+#: includes/shortcodes.php:128 includes/shortcodes.php:131
+#: includes/shortcodes.php:132 includes/shortcodes.php:133
+msgid "Title"
+msgstr ""
+
+#: includes/shortcodes.php:33 includes/shortcodes.php:34
+#: includes/shortcodes.php:35 includes/shortcodes.php:49
+#: includes/shortcodes.php:50 includes/shortcodes.php:131
+#: includes/shortcodes.php:132 includes/shortcodes.php:133
+msgid "Item inner text here"
+msgstr ""
+
+#: includes/shortcodes.php:37
+msgid "Accordion"
+msgstr ""
+
+#: includes/shortcodes.php:40
+msgid "Audio"
+msgstr ""
+
+#: includes/shortcodes.php:43
+msgid "Blogger"
+msgstr ""
+
+#: includes/shortcodes.php:45
+msgid "Button caption"
+msgstr ""
+
+#: includes/shortcodes.php:46
+msgid "Button"
+msgstr ""
+
+#: includes/shortcodes.php:52
+msgid "Columns"
+msgstr ""
+
+#: includes/shortcodes.php:54
+msgid "Contact Form"
+msgstr ""
+
+#: includes/shortcodes.php:55
+msgid "Contact form"
+msgstr ""
+
+#: includes/shortcodes.php:57
+msgid "Dropcaps paragraph text here"
+msgstr ""
+
+#: includes/shortcodes.php:58
+msgid "Dropcaps"
+msgstr ""
+
+#: includes/shortcodes.php:61
+msgid "Google Map"
+msgstr ""
+
+#: includes/shortcodes.php:63
+msgid "Hide block"
+msgstr ""
+
+#: includes/shortcodes.php:65
+msgid "Highlighted text here"
+msgstr ""
+
+#: includes/shortcodes.php:66
+msgid "Highlight"
+msgstr ""
+
+#: includes/shortcodes.php:69
+msgid "Image"
+msgstr ""
+
+#: includes/shortcodes.php:71
+msgid "Highlight text here"
+msgstr ""
+
+#: includes/shortcodes.php:72
+msgid "Infobox"
+msgstr ""
+
+#: includes/shortcodes.php:75
+msgid "Line"
+msgstr ""
+
+#: includes/shortcodes.php:78 includes/shortcodes.php:79
+#: includes/shortcodes.php:80
+msgid "List Item inner text here"
+msgstr ""
+
+#: includes/shortcodes.php:82
+msgid "List"
+msgstr ""
+
+#: includes/shortcodes.php:87
+msgid "Puzzles"
+msgstr ""
+
+#: includes/shortcodes.php:89
+msgid "Quoted text here"
+msgstr ""
+
+#: includes/shortcodes.php:90
+msgid "Quote"
+msgstr ""
+
+#: includes/shortcodes.php:92
+msgid "Section inner text here"
+msgstr ""
+
+#: includes/shortcodes.php:93
+msgid "Section"
+msgstr ""
+
+#: includes/shortcodes.php:100
+msgid "Skills"
+msgstr ""
+
+#: includes/shortcodes.php:106
+msgid ""
+"Paste here table content, generated on one of many public internet "
+"resources, for example: http://www.impressivewebs.com/html-table-code-"
+"generator/ or http://html-tables.com/"
+msgstr ""
+
+#: includes/shortcodes.php:108
+msgid "Table"
+msgstr ""
+
+#: includes/shortcodes.php:111 includes/shortcodes.php:112
+#: includes/shortcodes.php:113
+msgid "Tab inner text here"
+msgstr ""
+
+#: includes/shortcodes.php:115
+msgid "Tabs"
+msgstr ""
+
+#: includes/shortcodes.php:118 includes/shortcodes.php:119
+#: includes/shortcodes.php:120
+msgid "User name"
+msgstr ""
+
+#: includes/shortcodes.php:122
+msgid "Team"
+msgstr ""
+
+#: includes/shortcodes.php:125
+msgid "Testimonials"
+msgstr ""
+
+#: includes/shortcodes.php:127
+msgid "Title text here"
+msgstr ""
+
+#: includes/shortcodes.php:135
+msgid "Toggles"
+msgstr ""
+
+#: includes/shortcodes.php:137
+msgid "Marked text here"
+msgstr ""
+
+#: includes/shortcodes.php:138
+msgid "Tooltip"
+msgstr ""
+
+#: includes/shortcodes.php:141
+msgid "Video"
+msgstr ""
+
+#: includes/shortcodes.php:579
+msgid "Posted"
+msgstr ""
+
+#: includes/shortcodes.php:580 widgets/widget-popular-posts.php:127
+#: widgets/widget-recent-posts.php:114 widgets/widget-recent-reviews.php:139
+#: widgets/widget-top10.php:151
+msgid "by"
+msgstr ""
+
+#: includes/shortcodes.php:583
+msgid "in"
+msgstr ""
+
+#: includes/shortcodes.php:772
+msgid "Your Name*"
+msgstr ""
+
+#: includes/shortcodes.php:773
+msgid "Your Email*"
+msgstr ""
+
+#: includes/shortcodes.php:774
+msgid "Your Message*"
+msgstr ""
+
+#: includes/shortcodes.php:775
+msgid "Send"
+msgstr ""
+
+#: includes/type-category.php:29 includes/type-page.php:49
+#: includes/type-post.php:69
+msgid "Advertisement"
+msgstr ""
+
+#: includes/type-category.php:41
+msgid "Custom settings for this category (and nested):"
+msgstr ""
+
+#: includes/type-category.php:45
+msgid ""
+"Select parameters for showing posts from this category and all nested "
+"categories."
+msgstr ""
+
+#: includes/type-category.php:46
+msgid "Attention: In each nested category you can override this settings."
+msgstr ""
+
+#: includes/type-page.php:7
+msgid "Page Options"
+msgstr ""
+
+#: includes/type-post.php:6
+msgid "Post Options"
+msgstr ""
+
+#: includes/type-post.php:11
+msgid "Reviews criterias for this post"
+msgstr ""
+
+#: includes/type-post.php:12
+msgid "In this section you can put your reviews marks"
+msgstr ""
+
+#: includes/type-post.php:15
+msgid "Reviews marks"
+msgstr ""
+
+#: includes/type-post.php:16
+msgid "Marks for this review."
+msgstr ""
+
+#: includes/update-notifier.php:30 includes/update-notifier.php:71
+msgid "Theme Updates"
+msgstr ""
+
+#: includes/update-notifier.php:30
+msgid "New Update"
+msgstr ""
+
+#: includes/update-notifier.php:49
+#, php-format
+msgid "New Update: %s"
+msgstr ""
+
+#: includes/update-notifier.php:72
+#, php-format
+msgid "There is a new version of the %s theme available."
+msgstr ""
+
+#: includes/update-notifier.php:72
+#, php-format
+msgid "You have version %s installed. Update to version %s."
+msgstr ""
+
+#: includes/update-notifier.php:77
+msgid "Update Download and Instructions"
+msgstr ""
+
+#: includes/update-notifier.php:78
+#, php-format
+msgid ""
+"<strong>Please note:</strong> make a backup of the Theme inside your "
+"WordPress installation folder <strong>/wp-content/themes/%s/</strong>"
+msgstr ""
+
+#: includes/update-notifier.php:79
+msgid ""
+"To update the Theme, login to <a href=\"http://www.themeforest.net/"
+"\">ThemeForest</a>, head over to your <strong>downloads</strong> section and "
+"re-download the theme like you did when you bought it."
+msgstr ""
+
+#: includes/update-notifier.php:80
+#, php-format
+msgid ""
+"Extract the zip's contents, look for the extracted theme folder, and after "
+"you have all the new files upload them using FTP to the <strong>/wp-content/"
+"themes/%s/</strong> folder overwriting the old ones (this is why it's "
+"important to backup any changes you've made to the theme files)."
+msgstr ""
+
+#: includes/update-notifier.php:81
+msgid ""
+"If you didn't make any changes to the theme files, you are free to overwrite "
+"them with the new ones without the risk of losing theme settings, pages, "
+"posts, etc, and backwards compatibility is guaranteed."
+msgstr ""
+
+#: includes/update-notifier.php:84
+msgid "Changelog"
+msgstr ""
+
+#: includes/wp-pagenavi.php:193 includes/_wp_utils.php:550
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: includes/wp-pagenavi.php:196
+msgid "First"
+msgstr ""
+
+#: includes/wp-pagenavi.php:197
+msgid "Last"
+msgstr ""
+
+#: includes/wp-pagenavi.php:199
+msgid "Prev"
+msgstr ""
+
+#: includes/wp-pagenavi.php:200 includes/wp-pagenavi.php:201
+msgid "..."
+msgstr ""
+
+#: includes/_wp_utils.php:352
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/_wp_utils.php:391 includes/_wp_utils.php:495
+msgid "Shop"
+msgstr ""
+
+#: includes/_wp_utils.php:394 includes/_wp_utils.php:498
+msgid "All Posts"
+msgstr ""
+
+#: includes/_wp_utils.php:485 includes/_wp_utils.php:515
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: includes/_wp_utils.php:487
+msgid "Your cart"
+msgstr ""
+
+#: includes/_wp_utils.php:489
+msgid "Checkout"
+msgstr ""
+
+#: includes/_wp_utils.php:491
+msgid "Account"
+msgstr ""
+
+#: includes/_wp_utils.php:501
+#, php-format
+msgid "Author page: %s"
+msgstr ""
+
+#: includes/_wp_utils.php:503
+msgid "URL not found"
+msgstr ""
+
+#: includes/_wp_utils.php:505
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: includes/_wp_utils.php:507
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: includes/_wp_utils.php:509
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: includes/_wp_utils.php:511
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: includes/_wp_utils.php:517
+#, php-format
+msgid "Attachment: %s"
+msgstr ""
+
+#: includes/_wp_utils.php:553
+msgid "« First"
+msgstr ""
+
+#: includes/_wp_utils.php:554
+msgid "Last »"
+msgstr ""
+
+#: includes/_wp_utils.php:586
+msgid "Post navigation"
+msgstr ""
+
+#: includes/_wp_utils.php:588
+msgid "←"
+msgstr ""
+
+#: includes/_wp_utils.php:589
+msgid "→"
+msgstr ""
+
+#: includes/_wp_utils.php:592
+msgid "<span class=\"meta-nav\">←</span> Older posts"
+msgstr ""
+
+#: includes/_wp_utils.php:595
+msgid "Newer posts <span class=\"meta-nav\">→</span>"
+msgstr ""
+
+#: includes/_wp_utils.php:1045
+msgid "Facebook"
+msgstr ""
+
+#: includes/_wp_utils.php:1046
+msgid "Twitter"
+msgstr ""
+
+#: includes/_wp_utils.php:1047
+msgid "Google+"
+msgstr ""
+
+#: includes/_wp_utils.php:1048
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/_wp_utils.php:1049
+msgid "Dribbble"
+msgstr ""
+
+#: includes/_wp_utils.php:1050
+msgid "Pinterest"
+msgstr ""
+
+#: includes/_wp_utils.php:1051
+msgid "Tumblr"
+msgstr ""
+
+#: includes/_wp_utils.php:1052
+msgid "Behance"
+msgstr ""
+
+#: includes/_wp_utils.php:1053
+msgid "Youtube"
+msgstr ""
+
+#: includes/_wp_utils.php:1054
+msgid "Vimeo"
+msgstr ""
+
+#: includes/_wp_utils.php:1055
+msgid "RSS"
+msgstr ""
+
+#: includes/_wp_utils.php:1095
+msgid "User position"
+msgstr ""
+
+#: includes/_wp_utils.php:1097
+msgid "Please, enter your position in the company"
+msgstr ""
+
+#: includes/_wp_utils.php:1110
+#, php-format
+msgid "Please, enter your %s link"
+msgstr ""
+
+#: includes/_wp_utils.php:1176
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/_wp_utils.php:1198
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: includes/_wp_utils.php:1198
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: includes/_wp_utils.php:1200
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: includes/_wp_utils.php:1200
+#, php-format
+msgid "%s hour"
+msgstr ""
+
+#: includes/_wp_utils.php:1202
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#: includes/_wp_utils.php:1202
+#, php-format
+msgid "%s minute"
+msgstr ""
+
+#: includes/_wp_utils.php:1204
+#, php-format
+msgid "%s seconds"
+msgstr ""
+
+#: includes/_wp_utils.php:1204
+#, php-format
+msgid "%s second"
+msgstr ""
+
+#: includes/_wp_utils.php:1204
+msgid "less then minute"
+msgstr ""
+
+#: includes/_wp_utils.php:1214
+msgid "January"
+msgstr ""
+
+#: includes/_wp_utils.php:1215
+msgid "February"
+msgstr ""
+
+#: includes/_wp_utils.php:1216
+msgid "March"
+msgstr ""
+
+#: includes/_wp_utils.php:1217
+msgid "April"
+msgstr ""
+
+#: includes/_wp_utils.php:1218 includes/_wp_utils.php:1230
+msgid "May"
+msgstr ""
+
+#: includes/_wp_utils.php:1219
+msgid "June"
+msgstr ""
+
+#: includes/_wp_utils.php:1220
+msgid "July"
+msgstr ""
+
+#: includes/_wp_utils.php:1221
+msgid "August"
+msgstr ""
+
+#: includes/_wp_utils.php:1222
+msgid "September"
+msgstr ""
+
+#: includes/_wp_utils.php:1223
+msgid "October"
+msgstr ""
+
+#: includes/_wp_utils.php:1224
+msgid "November"
+msgstr ""
+
+#: includes/_wp_utils.php:1225
+msgid "December"
+msgstr ""
+
+#: includes/_wp_utils.php:1226
+msgid "Jan"
+msgstr ""
+
+#: includes/_wp_utils.php:1227
+msgid "Feb"
+msgstr ""
+
+#: includes/_wp_utils.php:1228
+msgid "Mar"
+msgstr ""
+
+#: includes/_wp_utils.php:1229
+msgid "Apr"
+msgstr ""
+
+#: includes/_wp_utils.php:1231
+msgid "Jun"
+msgstr ""
+
+#: includes/_wp_utils.php:1232
+msgid "Jul"
+msgstr ""
+
+#: includes/_wp_utils.php:1233
+msgid "Aug"
+msgstr ""
+
+#: includes/_wp_utils.php:1234
+msgid "Sep"
+msgstr ""
+
+#: includes/_wp_utils.php:1235
+msgid "Oct"
+msgstr ""
+
+#: includes/_wp_utils.php:1236
+msgid "Nov"
+msgstr ""
+
+#: includes/_wp_utils.php:1237
+msgid "Dec"
+msgstr ""
+
+#: widgets/widget-advert.php:24 widgets/widget-advert.php:98
+msgid "Advertisement block"
+msgstr ""
+
+#: widgets/widget-advert.php:30
+msgid "ThemeREX - Advertisement block"
+msgstr ""
+
+#: widgets/widget-advert.php:108 widgets/widget-flickr.php:93
+#: widgets/widget-socials.php:127 widgets/widget-twitter2.php:124
+#: widgets/qrcode/widget-qrcode.php:189
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget-advert.php:113
+msgid "Image source URL:<br />(leave empty if you paste advert code)"
+msgstr ""
+
+#: widgets/widget-advert.php:126
+msgid "Image link URL:<br />(leave empty if you paste advert code)"
+msgstr ""
+
+#: widgets/widget-advert.php:131
+msgid "or paste Advert Widget HTML Code:"
+msgstr ""
+
+#: widgets/widget-flickr.php:25
+msgid "Last flickr photos."
+msgstr ""
+
+#: widgets/widget-flickr.php:31
+msgid "ThemeREX - Flickr photos"
+msgstr ""
+
+#: widgets/widget-flickr.php:85
+msgid "Last flickr photos"
+msgstr ""
+
+#: widgets/widget-flickr.php:97
+msgid ""
+"Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+msgstr ""
+
+#: widgets/widget-flickr.php:101
+msgid "Number of photos:"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:24
+msgid "The most popular and most commented blog posts (extended)"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:30
+msgid "ThemeREX - Most Popular & Commented Posts"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:145 widgets/widget-recent-posts.php:127
+msgid "views"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:145 widgets/widget-recent-posts.php:127
+msgid "comments"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:227 widgets/widget-recent-posts.php:182
+msgid "The most popular & commented posts"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:242 widgets/widget-recent-posts.php:195
+#: widgets/widget-recent-reviews.php:223 widgets/widget-top10.php:254
+msgid "Widget title:"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:247
+msgid "Most popular tab title:"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:252
+msgid "Most commented tab title:"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:257 widgets/widget-recent-posts.php:200
+#: widgets/widget-recent-reviews.php:228 widgets/widget-top10.php:269
+msgid "Category:"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:259 widgets/widget-recent-posts.php:202
+#: widgets/widget-recent-reviews.php:230 widgets/widget-top10.php:271
+msgid "-- Any category --"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:269 widgets/widget-recent-posts.php:212
+#: widgets/widget-recent-reviews.php:240 widgets/widget-top10.php:281
+msgid "Number posts to show:"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:274 widgets/widget-recent-posts.php:217
+#: widgets/widget-recent-reviews.php:245 widgets/widget-top10.php:286
+msgid "Show post image:"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:282 widgets/widget-recent-posts.php:225
+#: widgets/widget-recent-reviews.php:253 widgets/widget-top10.php:294
+msgid "Show post author:"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:290 widgets/widget-recent-posts.php:233
+#: widgets/widget-recent-reviews.php:261 widgets/widget-top10.php:302
+msgid "Show post date:"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:298 widgets/widget-recent-posts.php:241
+#: widgets/widget-recent-reviews.php:269 widgets/widget-top10.php:310
+msgid "Show post counters:"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:300 widgets/widget-recent-posts.php:243
+msgid "As text"
+msgstr ""
+
+#: widgets/widget-popular-posts.php:302 widgets/widget-recent-posts.php:245
+#: widgets/widget-recent-reviews.php:273 widgets/widget-top10.php:314
+msgid "As icon"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:24
+msgid "The recent blog posts (extended)"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:30
+msgid "ThemeREX - Recent Posts"
+msgstr ""
+
+#: widgets/widget-recent-reviews.php:24
+msgid "Recent reviews"
+msgstr ""
+
+#: widgets/widget-recent-reviews.php:30
+msgid "ThemeREX - Recent reviews"
+msgstr ""
+
+#: widgets/widget-recent-reviews.php:210
+msgid "Recent reviews from selected category"
+msgstr ""
+
+#: widgets/widget-recent-reviews.php:271 widgets/widget-top10.php:312
+msgid "As stars"
+msgstr ""
+
+#: widgets/widget-socials.php:24
+msgid "Show site logo and social links"
+msgstr ""
+
+#: widgets/widget-socials.php:30
+msgid "ThemeREX - Show logo and social links"
+msgstr ""
+
+#: widgets/widget-socials.php:116
+msgid "Show logo and social icons"
+msgstr ""
+
+#: widgets/widget-socials.php:131
+msgid "Description:"
+msgstr ""
+
+#: widgets/widget-socials.php:135
+msgid "Logo image:<br />(if empty - use logo from Theme Options)"
+msgstr ""
+
+#: widgets/widget-socials.php:147
+msgid "Show logo:"
+msgstr ""
+
+#: widgets/widget-socials.php:154
+msgid "Show social icons:"
+msgstr ""
+
+#: widgets/widget-top10.php:24
+msgid "Top 10 posts by average reviews marks (by author and users)"
+msgstr ""
+
+#: widgets/widget-top10.php:30
+msgid "ThemeREX - Top 10 Posts"
+msgstr ""
+
+#: widgets/widget-top10.php:239
+msgid "Top 10 posts from selected category"
+msgstr ""
+
+#: widgets/widget-top10.php:259
+msgid "Author rating tab title:"
+msgstr ""
+
+#: widgets/widget-top10.php:264
+msgid "Users rating tab title:"
+msgstr ""
+
+#: widgets/widget-twitter2.php:25
+msgid "Last Twitter Updates. Version for new Twitter API 1.1"
+msgstr ""
+
+#: widgets/widget-twitter2.php:31
+msgid "ThemeREX - Twitter"
+msgstr ""
+
+#: widgets/widget-twitter2.php:112
+msgid "Last Twitter Updates"
+msgstr ""
+
+#: widgets/widget-twitter2.php:129
+msgid "Tweets count:"
+msgstr ""
+
+#: widgets/widget-twitter2.php:134
+msgid "Twitter Username:"
+msgstr ""
+
+#: widgets/widget-twitter2.php:134
+msgid "leave empty if you paste widget code"
+msgstr ""
+
+#: widgets/widget-twitter2.php:139
+msgid "Twitter Consumer Key:"
+msgstr ""
+
+#: widgets/widget-twitter2.php:143
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: widgets/widget-twitter2.php:147
+msgid "Twitter Token Key:"
+msgstr ""
+
+#: widgets/widget-twitter2.php:151
+msgid "Twitter Token Secret:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:25
+msgid "Generate QRCode with your personal data or with any text (links)"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:31
+msgid "ThemeREX - QRCode generator"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:79 widgets/qrcode/widget-qrcode.php:228
+#: widgets/qrcode/widget-qrcode.php:291
+msgid "Company:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:80 widgets/qrcode/widget-qrcode.php:233
+#: widgets/qrcode/widget-qrcode.php:292
+msgid "Phone:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:82 widgets/qrcode/widget-qrcode.php:294
+msgid "Site:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:153
+msgid "QR Code Generator (for your vcard)"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:183
+msgid "Settings"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:184
+msgid "Personal Data"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:185
+msgid "Any Text"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:193
+msgid "Show as QR Code:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:195
+msgid "Personal VCard"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:197
+msgid "Any text"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:201
+msgid "Show data under QR Code:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:204
+msgid "Width:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:208
+msgid "Color:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:212
+msgid "Bg color:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:218
+msgid "Last name:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:223
+msgid "First name:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:238
+msgid "Address:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:243
+msgid "City:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:248
+msgid "Post code:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:253
+msgid "Country:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:263
+msgid "Web Site URL:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:269
+msgid "Text to show as QR Code:"
+msgstr ""
+
+#: widgets/qrcode/widget-qrcode.php:281
+msgid "Auto"
+msgstr ""
+
